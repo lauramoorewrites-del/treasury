@@ -1,10 +1,13 @@
 title: Moore's Treasury
-description: A commonplace book of the mind
+description: A commonplace book
 url: https://moorestreasury.com
 baseurl: ""
 markdown: kramdown
 
 collections:
-  notebooks:
+  entries:
     output: true
-    permalink: /notebooks/:title/
+    permalink: /entries/:name/
+  commonplaces:
+    output: true
+    permalink: /commonplaces/:title/

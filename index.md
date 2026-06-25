@@ -5,15 +5,20 @@ title: Home
 
 # Moore's Treasury
 
-A commonplace book, in the old sense: a place where things worth remembering are kept. Topics I'm reading, thinking about, or circling. Notes toward works in progress and works in glacial progress. Quotations, references, half-formed arguments.
+A commonplace book, in the ancient sense: a place where things worth remembering are organized for effective retrieval.
 
-Organized by subject, not by date. Updated when something new belongs.
+Observations, references, half-formed arguments, and things I want to think more about, but which aren't extensive enough to merit their own [essay](/essays/).
 
----
+Browse by date:
 
-## Notebooks
+- [A book that makes connections](/entries/2026-06-25-a-book-that-makes-connections/)
+- [Zadie Smith's rectangle essays](/entries/2026-06-24-zadie-smiths-rectangle-essays/)
+- [On my personal touchstones](/entries/2026-06-23-on-my-personal-touchstones/)
+- [Ira Glass on taste killing motivation](/entries/2026-06-19-ira-glass-on-taste-killing-motivation/)
+- [Louisa May Alcott](/entries/2026-06-19-louisa-may-alcott/)
+- [On hevel and vanity](/entries/2026-06-18-on-hevel-and-vanity/)
+- [What this is](/entries/2026-06-18-what-this-is/)
 
-{% assign sorted = site.notebooks | sort: "title" %}
-{% for nb in sorted %}
-- [{{ nb.title }}]({{ nb.url }})
-{% endfor %}
+Browse by commonplace:
+
+- [Memory](/commonplaces/memory/)

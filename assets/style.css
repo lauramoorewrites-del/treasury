@@ -1,59 +1,86 @@
-:root {
-  --text: #222;
-  --bg: #fdfaf6;
-  --muted: #777;
-  --link: #7a4b2a;
-  --rule: #ddd;
-  --max-width: 40em;
-}
+/* Moore's Treasury */
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.05rem;
-  line-height: 1.7;
-  color: var(--text);
-  background: var(--bg);
-  max-width: var(--max-width);
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #15171A;
+  background: #fff;
+  max-width: 42em;
   margin: 2rem auto;
   padding: 0 1.5rem;
 }
 
 header nav a {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
   font-size: 1.3rem;
-  font-weight: bold;
-  color: var(--text);
+  color: #0C0D0E;
   text-decoration: none;
 }
 
 main { margin-top: 2rem; }
 
-h1 { font-size: 1.5rem; margin-bottom: 1rem; }
-h2 { font-size: 1.15rem; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+p { margin-bottom: 0.75em; }
 
-p { margin-bottom: 1rem; }
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 1.5em;
+  color: #0C0D0E;
+  margin-bottom: 0.6em;
+}
 
-a { color: var(--link); }
+h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 1.3em;
+  color: #0C0D0E;
+  margin-top: 1.5em;
+  margin-bottom: 0.4em;
+}
+
+h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 1em;
+  color: #0C0D0E;
+  margin-top: 1.2em;
+  margin-bottom: 0.3em;
+}
+
+a { color: #7a4b2a; }
 a:hover { text-decoration: none; }
 
-ul { list-style: none; }
-ul li { margin-bottom: 0.3rem; }
-ul li::before { content: "\2022\00a0"; color: var(--muted); }
-
 blockquote {
-  border-left: 2px solid var(--rule);
-  padding-left: 1rem;
-  color: var(--muted);
-  margin: 1rem 0;
+  border-left: 2px solid #ddd;
+  padding-left: 1em;
+  color: #2B2D31;
+  font-size: 0.92em;
+  margin: 1em 0;
 }
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 1.5em 0;
+}
+
+ul { list-style: disc; padding-left: 1.5em; margin-bottom: 0.75em; }
+li { margin-bottom: 0.25em; }
+
+img { max-width: 100%; height: auto; margin: 1em 0; }
 
 footer {
   margin-top: 3rem;
   padding-top: 1rem;
-  border-top: 1px solid var(--rule);
+  border-top: 1px solid #ddd;
   font-size: 0.85rem;
-  color: var(--muted);
+  color: #777;
 }
 
-.updated { font-size: 0.85rem; color: var(--muted); }
+.nav-links {
+  font-size: 0.95em;
+}
