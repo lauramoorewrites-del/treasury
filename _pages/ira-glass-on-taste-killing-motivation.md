@@ -1,9 +1,13 @@
 ---
 layout: default
 title: "Ira Glass on taste killing motivation"
-status: seed
-updated: June 2026
-tags: [creativity, craft]
+stage: seedling
+planted: "19 June 2026"
+tended: "19 June 2026"
+topics: [creativity, craft]
+related:
+  - title: "Zadie Smith's rectangle essays"
+    url: "/treasury/zadie-smiths-rectangle-essays/"
 ---
 
 In pure commonplace book spirit, I’m saving this wonderfully explicatory quotation by Ira Glass on how an abundance of taste can kill motivation when you’re just starting out.
@@ -26,7 +30,3 @@ References:
 
 - [*A Playful Production Process: For Game Designers (and Everyone)*](https://bookshop.org/search?q=9780262045513) (2021) by Richard Lemarchand
 - [“The Gap”](https://vimeo.com/85040589) — Ira Glass (audio), Daniel Sax (video)
-
-See also:
-
-- [Zadie Smith's rectangle essays](/treasury/zadie-smiths-rectangle-essays/)

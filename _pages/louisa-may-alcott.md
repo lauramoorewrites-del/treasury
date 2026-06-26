@@ -1,9 +1,13 @@
 ---
 layout: default
 title: "Louisa May Alcott, gender nonconformity, and creativity"
-status: growing
-updated: June 2026
-tags: [gender, creativity, biography, nonconformity]
+stage: budding
+planted: "19 June 2026"
+tended: "19 June 2026"
+topics: [gender, creativity, biography, nonconformity]
+related:
+  - title: "On my personal touchstones"
+    url: "/treasury/on-my-personal-touchstones/"
 ---
 
 There’s an intuitive link between nonconformity and creativity. If creativity involves coming up with things others haven’t, then being nonconformist in your behaviors likely means you’re nonconformist in your thinking, and you arrive at thoughts that are novel, unusual, and unexpected.
@@ -65,7 +69,3 @@ Postscript:
 A thread that I want to return to:
 
 - Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end.
-
-See also:
-
-- [On my personal touchstones](/treasury/on-my-personal-touchstones/)

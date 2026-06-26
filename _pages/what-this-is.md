@@ -1,9 +1,15 @@
 ---
 layout: default
 title: "What this is"
-status: evergreen
-updated: June 2026
-tags: [memory, commonplace books, medieval]
+stage: evergreen
+planted: "18 June 2026"
+tended: "18 June 2026"
+topics: [memory, commonplace books, medieval]
+related:
+  - title: "Memory"
+    url: "/treasury/memory/"
+  - title: "On hevel and vanity"
+    url: "/treasury/on-hevel-and-vanity/"
 ---
 
 I'm reading Mary Carruthers's *The Book of Memory: A Study of Memory in Medieval Culture* (1990). She contends that the faculty we currently understand as *imagination*, the ancients attributed to *memory*.
@@ -36,8 +42,3 @@ Selected references:
 
 - [*The Book of Memory*](https://bookshop.org/p/books/the-book-of-memory-remarque-professor-of-literature-emeritus-mary-carruthers/08c2895472ef6228?ean=9780521716314) (1990) by Mary Carruthers
 - [Shalizi's Notebooks](https://bactra.org/notebooks/)
-
-See also:
-
-- [Memory](/treasury/memory/)
-- [On hevel and vanity](/treasury/on-hevel-and-vanity/)

@@ -1,9 +1,18 @@
 ---
 layout: default
 title: "On hevel and vanity"
-status: growing
-updated: June 2026
-tags: [translation, etymology, religion]
+stage: budding
+planted: "18 June 2026"
+tended: "18 June 2026"
+topics: [translation, etymology, religion]
+figuring_out:
+  - "Was Jerome's choice of vanitas a genuine mistranslation, or a deliberate interpretive move?"
+  - "What other biblical concepts drifted this far through successive translation?"
+related:
+  - title: "What this is"
+    url: "/treasury/what-this-is/"
+  - title: "Memory"
+    url: "/treasury/memory/"
 ---
 
 I contributed this Substack [Note](https://substack.com/@strangeclarity/note/c-278092972?r=emcf2&utm_source=notes-share-action&utm_medium=web) to a discussion of the curiosities of Biblical translation:
@@ -25,8 +34,3 @@ The biggest cause for the drift from *hevel* to *vanity* seems to have been [St.
 Selected references:
 
 - *The Faraway Nearby* (2013) by Rebecca Solnit
-
-See also:
-
-- [What this is](/treasury/what-this-is/)
-- [Memory](/treasury/memory/)

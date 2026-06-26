@@ -6,23 +6,68 @@
   <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Moore&rsquo;s Treasury</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
-  <header>
-    <nav><a href="{{ '/' | relative_url }}">Moore&rsquo;s Treasury</a></nav>
-  </header>
-  <main>
-    {% if page.status or page.updated or page.tags %}
-    <div class="page-meta">
-      {% if page.status %}<span class="status status-{{ page.status }}">{{ page.status }}</span>{% endif %}
-      {% if page.updated %}<span class="updated">Updated {{ page.updated }}</span>{% endif %}
-      {% if page.tags %}<span class="tags">{% for tag in page.tags %}<a href="{{ '/tags/' | append: tag | relative_url }}">{{ tag }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</span>{% endif %}
+  <div class="site-header">
+    <a href="{{ '/' | relative_url }}">Moore&rsquo;s Treasury</a>
+  </div>
+  <div class="card">
+    {% if page.stage %}
+    <div class="growth-pill growth-{{ page.stage }}">{% if page.stage == 'seedling' %}🌱{% elsif page.stage == 'budding' %}🌿{% elsif page.stage == 'evergreen' %}🌳{% endif %} {{ page.stage | capitalize }}</div>
+    {% endif %}
+
+    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+    {% if page.dek %}<p class="dek">{{ page.dek }}</p>{% endif %}
+
+    {% if page.planted or page.tended or page.topics %}
+    <div class="frontmatter-strip">
+      {% if page.planted %}
+      <div class="fm-cell">
+        <span class="fm-label">Planted</span>
+        <span class="fm-value">{{ page.planted }}</span>
+      </div>
+      {% endif %}
+      {% if page.tended %}
+      <div class="fm-cell">
+        <span class="fm-label">Last tended</span>
+        <span class="fm-value">{{ page.tended }}</span>
+      </div>
+      {% endif %}
+      {% if page.topics %}
+      <div class="fm-cell">
+        <span class="fm-label">Topics</span>
+        <div class="fm-tags">
+          {% for topic in page.topics %}<span class="tag-chip">{{ topic }}</span>{% endfor %}
+        </div>
+      </div>
+      {% endif %}
     </div>
     {% endif %}
-    {{ content }}
-  </main>
+
+    <div class="body-content">
+      {{ content }}
+    </div>
+
+    {% if page.figuring_out %}
+    <div class="stretch-block">
+      <div class="stretch-label">🌱 Still figuring out</div>
+      <ul>
+        {% for q in page.figuring_out %}<li>{{ q }}</li>{% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if page.related %}
+    <div class="related-notes">
+      <div class="section-label">Related notes</div>
+      <div class="related-list">
+        {% for note in page.related %}<a href="{{ note.url | relative_url }}">{{ note.title }}</a>{% endfor %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
   <footer>
     <p>&copy; Laura Moore</p>
   </footer>

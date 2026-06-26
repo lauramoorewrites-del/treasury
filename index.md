@@ -1,15 +1,13 @@
 ---
 layout: default
-title: Home
+title: "Moore's Treasury"
 ---
-
-# Moore's Treasury
 
 A commonplace book, in the ancient sense: a place where things worth remembering are organized for effective retrieval.
 
 Observations, references, half-formed arguments, and things I want to think more about, but which aren't extensive enough to merit their own [essay](/treasury/essays/).
 
-Recently updated:
+## Recently tended
 
 - [A book that makes connections](/treasury/a-book-that-makes-connections/) (June 2026)
 - [Zadie Smith's rectangle essays](/treasury/zadie-smiths-rectangle-essays/) (June 2026)
@@ -17,7 +15,7 @@ Recently updated:
 - [Ira Glass on taste killing motivation](/treasury/ira-glass-on-taste-killing-motivation/) (June 2026)
 - [Louisa May Alcott](/treasury/louisa-may-alcott/) (June 2026)
 
-All pages:
+## All pages
 
 - [A book that makes connections](/treasury/a-book-that-makes-connections/)
 - [Ira Glass on taste killing motivation](/treasury/ira-glass-on-taste-killing-motivation/)
