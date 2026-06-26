@@ -5,6 +5,8 @@ stage: budding
 planted: "19 June 2026"
 tended: "19 June 2026"
 topics: [gender, creativity, biography, nonconformity]
+figuring_out:
+  - "I want to return to this association my research brought me to: Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end."
 related:
   - title: "On my personal touchstones"
     url: "/treasury/on-my-personal-touchstones/"
@@ -61,11 +63,3 @@ At any rate, the Alcotts were fascinating, individually and as a family unit.
 Reference:
 
 - [*Eden’s Outcasts: The Story of Louisa May Alcott and Her Father*](https://bookshop.org/search?q=9780393333596) (2007) by John Matteson
-
----
-
-Postscript:
-
-A thread that I want to return to:
-
-- Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end.
