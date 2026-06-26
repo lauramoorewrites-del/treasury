@@ -15,7 +15,7 @@ The six points, the teacher continued:
 
 I found the rectangle hard to envision in my mind, so produced this diagram:
 
-![](/assets/images/628422dc-4f01-4b9e-b6ee-e8dcc9830969.png)
+![](/treasury/assets/images/628422dc-4f01-4b9e-b6ee-e8dcc9830969.png)
 
 Does Smith *really* use this rectangle when writing her essays, all these years later, now that she's an experienced, acclaimed writer?
 

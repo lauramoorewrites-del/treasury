@@ -1,7 +1,7 @@
 title: Moore's Treasury
 description: A commonplace book
 url: https://moorestreasury.com
-baseurl: ""
+baseurl: "/treasury"
 markdown: kramdown
 
 collections:
