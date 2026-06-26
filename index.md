@@ -9,16 +9,21 @@ A commonplace book, in the ancient sense: a place where things worth remembering
 
 Observations, references, half-formed arguments, and things I want to think more about, but which aren't extensive enough to merit their own [essay](/essays/).
 
-Browse by date:
+Recently updated:
 
-- [A book that makes connections](/entries/2026-06-25-a-book-that-makes-connections/)
-- [Zadie Smith's rectangle essays](/entries/2026-06-24-zadie-smiths-rectangle-essays/)
-- [On my personal touchstones](/entries/2026-06-23-on-my-personal-touchstones/)
-- [Ira Glass on taste killing motivation](/entries/2026-06-19-ira-glass-on-taste-killing-motivation/)
-- [Louisa May Alcott](/entries/2026-06-19-louisa-may-alcott/)
-- [On hevel and vanity](/entries/2026-06-18-on-hevel-and-vanity/)
-- [What this is](/entries/2026-06-18-what-this-is/)
+- [A book that makes connections](/a-book-that-makes-connections/) (June 2026)
+- [Zadie Smith's rectangle essays](/zadie-smiths-rectangle-essays/) (June 2026)
+- [On my personal touchstones](/on-my-personal-touchstones/) (June 2026)
+- [Ira Glass on taste killing motivation](/ira-glass-on-taste-killing-motivation/) (June 2026)
+- [Louisa May Alcott](/louisa-may-alcott/) (June 2026)
 
-Browse by commonplace:
+All pages:
 
-- [Memory](/commonplaces/memory/)
+- [A book that makes connections](/a-book-that-makes-connections/)
+- [Ira Glass on taste killing motivation](/ira-glass-on-taste-killing-motivation/)
+- [Louisa May Alcott](/louisa-may-alcott/)
+- [Memory](/memory/)
+- [On hevel and vanity](/on-hevel-and-vanity/)
+- [On my personal touchstones](/on-my-personal-touchstones/)
+- [What this is](/what-this-is/)
+- [Zadie Smith's rectangle essays](/zadie-smiths-rectangle-essays/)

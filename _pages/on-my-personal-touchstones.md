@@ -23,7 +23,3 @@ Here, *point of view* is used more literally than we're accustomed to. Often it'
 References:
 - Donna Haraway, "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective," *Feminist Studies*, Vol. 14, No. 3 (Autumn, 1988), pp. 575-599.
 - Moira Weigal, "Feminist cyborg scholar Donna Haraway: 'The disorder of our era isn't necessary,'" *Guardian* (20 June 2019). <[link](https://www.theguardian.com/world/2019/jun/20/donna-haraway-interview-cyborg-manifesto-post-truth)>
-
----
-
-[← Previous](/entries/2026-06-19-ira-glass-on-taste-killing-motivation/) · [Next →](/entries/2026-06-24-zadie-smiths-rectangle-essays/)

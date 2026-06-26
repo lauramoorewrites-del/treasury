@@ -5,7 +5,7 @@ title: "Memory"
 
 ---
 
-- [2026-06-18 What this is](/entries/2026-06-18-what-this-is/)
+- [2026-06-18 What this is](/what-this-is/)
 
 ---
 

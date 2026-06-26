@@ -33,9 +33,3 @@ Selected references:
 
 - [*The Book of Memory*](https://bookshop.org/p/books/the-book-of-memory-remarque-professor-of-literature-emeritus-mary-carruthers/08c2895472ef6228?ean=9780521716314) (1990) by Mary Carruthers
 - [Shalizi's Notebooks](https://bactra.org/notebooks/)
-
----
-
-[Next →](/entries/2026-06-18-on-hevel-and-vanity/)
-
-Commonplaces: [Memory](/commonplaces/memory/)

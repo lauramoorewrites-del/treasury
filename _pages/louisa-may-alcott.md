@@ -62,7 +62,3 @@ Postscript:
 A thread that I want to return to:
 
 - Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end.
-
----
-
-[← Previous](/entries/2026-06-18-on-hevel-and-vanity/) · [Next →](/entries/2026-06-19-ira-glass-on-taste-killing-motivation/)

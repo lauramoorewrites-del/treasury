@@ -5,9 +5,6 @@ baseurl: ""
 markdown: kramdown
 
 collections:
-  entries:
+  pages:
     output: true
-    permalink: /entries/:name/
-  commonplaces:
-    output: true
-    permalink: /commonplaces/:title/
+    permalink: /:title/

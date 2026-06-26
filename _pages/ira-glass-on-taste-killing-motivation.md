@@ -23,7 +23,3 @@ References:
 
 - [*A Playful Production Process: For Game Designers (and Everyone)*](https://bookshop.org/search?q=9780262045513) (2021) by Richard Lemarchand
 - [“The Gap”](https://vimeo.com/85040589) — Ira Glass (audio), Daniel Sax (video)
-
----
-
-[← Previous](/entries/2026-06-19-louisa-may-alcott/) · [Next →](/entries/2026-06-23-on-my-personal-touchstones/)

@@ -27,7 +27,3 @@ Selected references:
 - [*Doppelganger*](https://bookshop.org/p/books/doppelganger-a-trip-into-the-mirror-world-naomi-klein/acc3a7231f775f18?ean=9781250338143) (2023) by Naomi Klein
 - [*A Chance Meeting*](https://bookshop.org/p/books/a-chance-meeting-american-encounters-rachel-cohen/48fe93b02d7b1703?ean=9781681378107) (2004) by Rachel Cohen
 - ["This Morning Was a Poem"](https://www.publicbooks.org/this-morning-was-a-poem-on-and-near-rebecca-solnits-the-faraway-nearby/) by B.R. Cohen, *Public Books*
-
----
-
-[← Previous](/entries/2026-06-24-zadie-smiths-rectangle-essays/)

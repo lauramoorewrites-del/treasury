@@ -22,9 +22,3 @@ The biggest cause for the drift from *hevel* to *vanity* seems to have been [St.
 Selected references:
 
 - *The Faraway Nearby* (2013) by Rebecca Solnit
-
----
-
-[← Previous](/entries/2026-06-18-what-this-is/) · [Next →](/entries/2026-06-19-louisa-may-alcott/)
-
-Commonplaces: [Memory](/commonplaces/memory/)
