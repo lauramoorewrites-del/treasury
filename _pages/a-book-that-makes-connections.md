@@ -1,6 +1,9 @@
 ---
 layout: default
-title: "2026-06-25 A book that makes connections"
+title: "A book that makes connections"
+status: seed
+updated: June 2026
+tags: [connections, reading, reviews]
 ---
 
 I like books that make connections, whose point seems to largely *be* about making connections.
@@ -27,3 +30,7 @@ Selected references:
 - [*Doppelganger*](https://bookshop.org/p/books/doppelganger-a-trip-into-the-mirror-world-naomi-klein/acc3a7231f775f18?ean=9781250338143) (2023) by Naomi Klein
 - [*A Chance Meeting*](https://bookshop.org/p/books/a-chance-meeting-american-encounters-rachel-cohen/48fe93b02d7b1703?ean=9781681378107) (2004) by Rachel Cohen
 - ["This Morning Was a Poem"](https://www.publicbooks.org/this-morning-was-a-poem-on-and-near-rebecca-solnits-the-faraway-nearby/) by B.R. Cohen, *Public Books*
+
+See also:
+
+- [What this is](/treasury/what-this-is/)

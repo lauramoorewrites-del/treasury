@@ -1,6 +1,9 @@
 ---
 layout: default
-title: "2026-06-23 On my personal touchstones"
+title: "On my personal touchstones"
+status: seed
+updated: June 2026
+tags: [epistemology, feminism, thinking tools]
 ---
 
 Every so often, I encounter an idea that embeds in my mind and becomes a durable hinge for my thinking. Maybe hinge isn't quite right. The idea becomes a filter, or lens, or explanatory mechanism that I can apply to understanding something *else* better. I've started to think of these as personal touchstones: things I return to, touch back on, use as points of orientation.
@@ -23,3 +26,7 @@ Here, *point of view* is used more literally than we're accustomed to. Often it'
 References:
 - Donna Haraway, "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective," *Feminist Studies*, Vol. 14, No. 3 (Autumn, 1988), pp. 575-599.
 - Moira Weigal, "Feminist cyborg scholar Donna Haraway: 'The disorder of our era isn't necessary,'" *Guardian* (20 June 2019). <[link](https://www.theguardian.com/world/2019/jun/20/donna-haraway-interview-cyborg-manifesto-post-truth)>
+
+See also:
+
+- [What this is](/treasury/what-this-is/)

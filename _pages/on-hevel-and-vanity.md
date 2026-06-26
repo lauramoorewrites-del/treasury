@@ -1,6 +1,9 @@
 ---
 layout: default
-title: "Biblical translation: On *hevel* and *vanity*"
+title: "On hevel and vanity"
+status: growing
+updated: June 2026
+tags: [translation, etymology, religion]
 ---
 
 I contributed this Substack [Note](https://substack.com/@strangeclarity/note/c-278092972?r=emcf2&utm_source=notes-share-action&utm_medium=web) to a discussion of the curiosities of Biblical translation:
@@ -22,3 +25,8 @@ The biggest cause for the drift from *hevel* to *vanity* seems to have been [St.
 Selected references:
 
 - *The Faraway Nearby* (2013) by Rebecca Solnit
+
+See also:
+
+- [What this is](/treasury/what-this-is/)
+- [Memory](/treasury/memory/)

@@ -1,6 +1,9 @@
 ---
 layout: default
-title: "2026-06-24 Zadie Smith's rectangle essays"
+title: "Zadie Smith's rectangle essays"
+status: growing
+updated: June 2026
+tags: [essay craft, structure]
 ---
 
 In "The Art of the Impersonal Essay," Zadie Smith shares essay-writing advice she received at 17 and claims to have used ever since:
@@ -42,3 +45,7 @@ Selected references:
 - Zadie Smith, ["The Art of the Impersonal Essay,"](https://www.newyorker.com/magazine/2025/09/29/the-art-of-the-impersonal-essay) *The New Yorker* (2025)
 - Zadie Smith, ["North West London Blues,"](https://www.nybooks.com/online/2012/06/02/north-west-london-blues/) *The New York Review of Books* (2012); collected in [*Feel Free*](https://bookshop.org/p/books/feel-free-essays-zadie-smith/039831ec06a2cde1?ean=9780143110255) (2018)
 - Zadie Smith, ["Some Notes on Attunement,"](https://www.newyorker.com/magazine/2012/12/17/some-notes-on-attunement) *The New Yorker* (2012); collected in [*Feel Free*](https://bookshop.org/p/books/feel-free-essays-zadie-smith/039831ec06a2cde1?ean=9780143110255) (2018)
+
+See also:
+
+- [Ira Glass on taste killing motivation](/treasury/ira-glass-on-taste-killing-motivation/)

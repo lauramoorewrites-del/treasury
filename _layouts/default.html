@@ -14,6 +14,13 @@
     <nav><a href="{{ '/' | relative_url }}">Moore&rsquo;s Treasury</a></nav>
   </header>
   <main>
+    {% if page.status or page.updated or page.tags %}
+    <div class="page-meta">
+      {% if page.status %}<span class="status status-{{ page.status }}">{{ page.status }}</span>{% endif %}
+      {% if page.updated %}<span class="updated">Updated {{ page.updated }}</span>{% endif %}
+      {% if page.tags %}<span class="tags">{% for tag in page.tags %}<a href="{{ '/tags/' | append: tag | relative_url }}">{{ tag }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</span>{% endif %}
+    </div>
+    {% endif %}
     {{ content }}
   </main>
   <footer>
