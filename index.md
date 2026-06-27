@@ -3,6 +3,9 @@ layout: home
 title: “Moore’s Treasury”
 intro: “A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:”
 recent:
+  - title: “Books that collect other people’s recollections about a historical figure”
+    url: “/books-of-collected-recollections/”
+    date: “27 Jun”
   - title: “Zadie Smith’s theories of fiction and writing”
     url: "/zadie-smiths-theories-of-fiction-and-writing/"
     date: “27 Jun”
