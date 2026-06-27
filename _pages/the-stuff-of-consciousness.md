@@ -8,4 +8,4 @@ topics: [epistemology]
 
 > At every moment there is in us an infinity of perceptions, unaccompanied by awareness or reflection.
 
-— Gottfried Wilhelm Leibniz, *New Essays on Human Understanding*, Preface (1704); trans. Peter Remnant and Jonathan Bennett, Cambridge University Press (1981).
+— Gottfried Wilhelm Leibniz, [*New Essays on Human Understanding*](https://www.earlymoderntexts.com/assets/pdfs/leibniz1705a.pdf), Preface (1704); trans. Peter Remnant and Jonathan Bennett, Cambridge University Press (1981).
