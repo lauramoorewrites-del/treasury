@@ -14,6 +14,8 @@ notes:
     url: "/the-stuff-of-consciousness/"
     date: "27 Jun"
 see_also:
+  - title: "neuroscience"
+    url: "/topics/neuroscience/"
   - title: "philosophy"
     url: "/topics/philosophy/"
 ---

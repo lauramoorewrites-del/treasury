@@ -3,7 +3,7 @@ layout: default
 title: "Split brain experiments"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [consciousness, philosophy]
+topics: [consciousness, neuroscience]
 related:
   - title: "Reflective knowledge and introspective awareness"
     url: "/reflective-knowledge-and-introspective-awareness/"
