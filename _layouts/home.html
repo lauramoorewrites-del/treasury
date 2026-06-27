@@ -28,7 +28,7 @@
     <div class="section-label">Topics</div>
     <ul class="wiki-list topics-list">
       {% for topic in page.topic_list %}
-      <li><a href="{{ '/topics/' | append: topic | slugify | relative_url }}">{{ topic }}</a></li>
+      {% assign topic_slug = topic | slugify %}<li><a href="{{ '/topics/' | append: topic_slug | append: '/' | relative_url }}">{{ topic }}</a></li>
       {% endfor %}
     </ul>
 

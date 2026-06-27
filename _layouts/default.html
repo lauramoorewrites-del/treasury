@@ -43,7 +43,7 @@
       <div class="fm-cell">
         <span class="fm-label">Topics</span>
         <div class="fm-tags">
-          {% for topic in page.topics %}<a class="tag-chip" href="{{ '/topics/' | append: topic | slugify | relative_url }}">{{ topic }}</a>{% endfor %}
+          {% for topic in page.topics %}{% assign topic_slug = topic | slugify %}<a class="tag-chip" href="{{ '/topics/' | append: topic_slug | append: '/' | relative_url }}">{{ topic }}</a>{% endfor %}
         </div>
       </div>
       {% endif %}
