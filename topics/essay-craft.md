@@ -7,7 +7,7 @@ notes:
   - title: "Selected critical reviews of Zadie Smith"
     url: "/critical-reviews-of-zadie-smith/"
     date: "27 Jun"
-  - title: "Zadie Smith's rectangle essays"
+  - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
     date: "24 Jun"
 see_also:

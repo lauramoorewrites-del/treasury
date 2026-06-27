@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Zadie Smith's rectangle essays"
+title: "Zadie Smith’s rectangle essays"
 
 created: "24 June 2026"
 updated: "24 June 2026"
@@ -34,7 +34,7 @@ I breeze through the analysis there, but here's a more regimented breakdown:
 
 This piece is about government-provisioned spaces -- like libraries -- where people linger "without purpose." About the politicization of such spaces, and the government's increasing move to pull the rug of support from under them. The (1) Introduction and (2) Develop point sections are fairly clean, but the interior is more of a muddle. Or, perhaps more precisely, the middle rotates through a few more revolutions of (3)/(4)/(5) than the single sequence depicted in the diagram. 
 
-What the piece does show is an inherent orientation toward the turns of thought and perspective represented by the arrows, but not a strict alignment to this specific six-arrow structure. Perhaps that's faithful enough to Smith's claims in "The Art of the Impersonal Essay," where she says that "this charming and simple blueprint is buried deep in my cerebral cortex" and that "I still use it," but doesn't promise that she follows it religiously.
+What the piece does show is an inherent orientation toward the turns of thought and perspective represented by the arrows, but not a strict alignment to this specific six-arrow structure. Perhaps that's faithful enough to Smith’s claims in "The Art of the Impersonal Essay," where she says that "this charming and simple blueprint is buried deep in my cerebral cortex" and that "I still use it," but doesn't promise that she follows it religiously.
 
 **"Some Notes on Attunement**." **Verdict: Yes.**
 

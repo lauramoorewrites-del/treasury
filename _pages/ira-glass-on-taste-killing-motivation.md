@@ -6,7 +6,7 @@ created: "19 June 2026"
 updated: "19 June 2026"
 topics: [creativity, craft]
 related:
-  - title: "Zadie Smith's rectangle essays"
+  - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
 ---
 

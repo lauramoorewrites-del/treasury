@@ -4,7 +4,7 @@ title: "Thinking tools"
 topic: "thinking tools"
 permalink: /topics/thinking-tools/
 notes:
-  - title: "Donna Haraway's god trick"
+  - title: "Donna Haraway’s god trick"
     url: "/donna-haraways-god-trick/"
     date: "27 Jun"
   - title: "On my personal touchstones"

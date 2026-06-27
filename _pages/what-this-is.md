@@ -32,7 +32,7 @@ Of course, we are no longer called on to extemporize as a form of social discour
 
 ---
 
-On Substack, someone recently linked Cosma Shalizi's *Notebooks*. I was immediately taken by his decades-long archive of musings and textual references. They're indexed chronologically and by subject matter -- that is, by common place. The *Notebooks* come closer to the classical concept of the mind's storehouse than anything else I've seen in the modern era. The html medium allows for frictionless, non-linear exploration. And their publication makes the contents of Shalizi's digital memory trove accessible to people other than him: a kind of one-way mirror into the knowledge-entities he's gathered and organized over time.
+On Substack, someone recently linked Cosma Shalizi's *Notebooks*. I was immediately taken by his decades-long archive of musings and textual references. They're indexed chronologically and by subject matter -- that is, by common place. The *Notebooks* come closer to the classical concept of the mind's storehouse than anything else I’ve seen in the modern era. The html medium allows for frictionless, non-linear exploration. And their publication makes the contents of Shalizi's digital memory trove accessible to people other than him: a kind of one-way mirror into the knowledge-entities he's gathered and organized over time.
 
 And I thought: I want to do that.
 

@@ -3,7 +3,7 @@ layout: home
 title: "Moore's Treasury"
 intro: "A personal wiki — observations, references, half-formed arguments, and things I want to think more about."
 recent:
-  - title: "Donna Haraway's god trick"
+  - title: "Donna Haraway’s god trick"
     url: "/donna-haraways-god-trick/"
     date: "27 Jun"
   - title: "Selected critical reviews of Zadie Smith"
@@ -12,7 +12,7 @@ recent:
   - title: "Books that make connections between things"
     url: "/books-that-makes-connections/"
     date: "25 Jun"
-  - title: "Zadie Smith's rectangle essays"
+  - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
     date: "24 Jun"
   - title: "On my personal touchstones"
