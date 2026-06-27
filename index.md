@@ -57,11 +57,13 @@ topic_list:
   - epistemology
   - essay craft
   - etymology
+  - fiction
   - feminism
   - gender
   - medieval
   - memory
   - nonconformity
+  - novels
   - reading
   - religion
   - reviews
