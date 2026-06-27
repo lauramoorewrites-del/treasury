@@ -3,7 +3,7 @@ layout: default
 title: "Mediated reality"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [epistemology]
+topics: [epistemology, indirectness]
 ---
 
 > A way of certifying experience, taking photographs is also a way of refusing it—by limiting experience to a search for the photogenic, by converting experience into an image, a souvenir.

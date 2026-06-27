@@ -72,6 +72,7 @@ topic_list:
   - fiction
   - feminism
   - gender
+  - indirectness
   - medieval
   - memory
   - nonconformity
