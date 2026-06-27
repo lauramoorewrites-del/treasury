@@ -14,7 +14,7 @@ related:
 
 ---
 
-- [2026-06-18 What this is](/what-this-is/)
+- [What this is](/treasury/what-this-is/)
 
 ---
 
