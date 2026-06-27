@@ -7,7 +7,7 @@ updated: "19 June 2026"
 topics: [creativity, craft]
 related:
   - title: "Zadie Smith's rectangle essays"
-    url: "/treasury/zadie-smiths-rectangle-essays/"
+    url: "/zadie-smiths-rectangle-essays/"
 ---
 
 In pure commonplace book spirit, I’m saving this wonderfully explicatory quotation by Ira Glass on how an abundance of taste can kill motivation when you’re just starting out.

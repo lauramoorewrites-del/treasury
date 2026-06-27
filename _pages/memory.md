@@ -7,14 +7,14 @@ updated: "18 June 2026"
 topics: [memory, medieval, commonplace books]
 related:
   - title: "What this is"
-    url: "/treasury/what-this-is/"
+    url: "/what-this-is/"
   - title: "On hevel and vanity"
-    url: "/treasury/on-hevel-and-vanity/"
+    url: "/on-hevel-and-vanity/"
 ---
 
 ---
 
-- [2026-06-18 What this is](/treasury/what-this-is/)
+- [2026-06-18 What this is](/what-this-is/)
 
 ---
 

@@ -7,9 +7,9 @@ updated: "18 June 2026"
 topics: [memory, commonplace books, medieval]
 related:
   - title: "Memory"
-    url: "/treasury/memory/"
+    url: "/memory/"
   - title: "On hevel and vanity"
-    url: "/treasury/on-hevel-and-vanity/"
+    url: "/on-hevel-and-vanity/"
 ---
 
 I'm reading Mary Carruthers's *The Book of Memory: A Study of Memory in Medieval Culture* (1990). She contends that the faculty we currently understand as *imagination*, the ancients attributed to *memory*.

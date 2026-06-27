@@ -9,7 +9,7 @@ figuring_out:
   - "I want to return to this association my research brought me to: Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end."
 related:
   - title: "On my personal touchstones"
-    url: "/treasury/on-my-personal-touchstones/"
+    url: "/on-my-personal-touchstones/"
 ---
 
 There’s an intuitive link between nonconformity and creativity. If creativity involves coming up with things others haven’t, then being nonconformist in your behaviors likely means you’re nonconformist in your thinking, and you arrive at thoughts that are novel, unusual, and unexpected.

@@ -10,9 +10,9 @@ figuring_out:
   - "What other biblical concepts drifted this far through successive translation?"
 related:
   - title: "What this is"
-    url: "/treasury/what-this-is/"
+    url: "/what-this-is/"
   - title: "Memory"
-    url: "/treasury/memory/"
+    url: "/memory/"
 ---
 
 I contributed this Substack [Note](https://substack.com/@strangeclarity/note/c-278092972?r=emcf2&utm_source=notes-share-action&utm_medium=web) to a discussion of the curiosities of Biblical translation:

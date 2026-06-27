@@ -7,7 +7,7 @@ updated: "25 June 2026"
 topics: [connections, reading, reviews]
 related:
   - title: "What this is"
-    url: "/treasury/what-this-is/"
+    url: "/what-this-is/"
 ---
 
 I like books that make connections, whose point seems to largely *be* about making connections.

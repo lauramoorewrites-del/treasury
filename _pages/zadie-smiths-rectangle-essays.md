@@ -7,7 +7,7 @@ updated: "24 June 2026"
 topics: [essay craft, structure]
 related:
   - title: "Ira Glass on taste killing motivation"
-    url: "/treasury/ira-glass-on-taste-killing-motivation/"
+    url: "/ira-glass-on-taste-killing-motivation/"
 ---
 
 In "The Art of the Impersonal Essay," Zadie Smith shares essay-writing advice she received at 17 and claims to have used ever since:
@@ -22,7 +22,7 @@ The six points, the teacher continued:
 
 I found the rectangle hard to envision in my mind, so produced this diagram:
 
-![](/treasury/assets/images/628422dc-4f01-4b9e-b6ee-e8dcc9830969.png)
+![](/assets/images/628422dc-4f01-4b9e-b6ee-e8dcc9830969.png)
 
 Does Smith *really* use this rectangle when writing her essays, all these years later, now that she's an experienced, acclaimed writer?
 
