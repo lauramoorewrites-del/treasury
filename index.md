@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "Split brain experiments"
+    url: "/split-brain-experiments/"
+    date: "27 Jun"
   - title: "Reflective knowledge and introspective awareness"
     url: "/reflective-knowledge-and-introspective-awareness/"
     date: "27 Jun"
