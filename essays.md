@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Laura Moore's Essays"
+title: "Laura Moore’s Essays"
 permalink: /essays/
 ---
 
