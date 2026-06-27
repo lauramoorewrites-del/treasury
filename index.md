@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Moore's Treasury"
-intro: "A personal wiki — observations, references, half-formed arguments, and things I want to think more about."
+intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
   - title: "Zadie Smith's theories of fiction and writing"
     url: "/zadie-smiths-theories-of-fiction-and-writing/"
