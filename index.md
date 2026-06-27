@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "Creators and scientists who had insights that emerged fully formed"
+    url: "/insights-that-emerged-fully-formed/"
+    date: "27 Jun"
   - title: "Scientific findings rejected by contemporary peers"
     url: "/scientific-findings-rejected-by-peers/"
     date: "27 Jun"
