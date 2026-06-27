@@ -3,6 +3,9 @@ layout: home
 title: "Moore's Treasury"
 intro: "A personal wiki — observations, references, half-formed arguments, and things I want to think more about."
 recent:
+  - title: "Zadie Smith's theories of fiction and writing"
+    url: "/zadie-smiths-theories-of-fiction-and-writing/"
+    date: "27 Jun"
   - title: "List of essays where lack of clarity is argued as gatekeeping"
     url: "/lack-of-clarity-as-gatekeeping/"
     date: "27 Jun"
