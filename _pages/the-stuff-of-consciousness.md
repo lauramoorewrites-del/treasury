@@ -3,7 +3,7 @@ layout: default
 title: "The stuff of consciousness (what it’s made of)"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [epistemology]
+topics: [consciousness, philosophy]
 ---
 
 > At every moment there is in us an infinity of perceptions, unaccompanied by awareness or reflection.

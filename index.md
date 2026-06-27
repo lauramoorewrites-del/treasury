@@ -66,6 +66,7 @@ recent:
 topic_list:
   - authors
   - commonplace books
+  - consciousness
   - craft
   - creativity
   - darkness
@@ -80,6 +81,7 @@ topic_list:
   - memory
   - nonconformity
   - novels
+  - philosophy
   - reading
   - religion
   - thinking tools
