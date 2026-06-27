@@ -27,7 +27,7 @@ recent:
   - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
     date: "24 Jun"
-  - title: "On my personal touchstones"
+  - title: "List of my personal touchstones"
     url: "/on-my-personal-touchstones/"
     date: "23 Jun"
   - title: "Louisa May Alcott"

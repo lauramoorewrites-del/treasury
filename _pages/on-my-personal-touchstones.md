@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "On my personal touchstones"
+title: "List of my personal touchstones"
 created: "23 June 2026"
 updated: "27 June 2026"
 topics: [epistemology, thinking tools]
