@@ -74,7 +74,6 @@ topic_list:
   - reading
   - religion
   - reviews
-  - structure
   - thinking tools
   - translation
 ---
