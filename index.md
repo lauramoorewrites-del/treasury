@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "List of people who spoke flatly, in monotone"
+    url: "/people-who-spoke-in-monotone/"
+    date: "27 Jun"
   - title: "Books that collect other people’s recollections about a historical figure"
     url: "/books-of-collected-recollections/"
     date: "27 Jun"
