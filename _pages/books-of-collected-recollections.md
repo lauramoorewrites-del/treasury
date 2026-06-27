@@ -23,13 +23,12 @@ Books that assemble a portrait of someone through the memories and testimonies o
 ## Music
 
 - Malcolm Gillies, *Bartók Remembered*. Collected recollections of the composer from those who knew him.
-- Solomon Volkov, *Testimony: The Memoirs of Dmitri Shostakovich* (1979). Associative reminiscences spanning pre-Revolution through the Khrushchev era. Controversial — questions of authorship and authenticity persist — but *The Guardian* called it "the most influential music book of the 20th century."
 
 ## Visual arts and cultural figures
 
-- Jean Stein and George Plimpton, *Edie: An American Biography* (1982). Oral biography of Edie Sedgwick assembled from interviews with over 200 people, including Truman Capote, Patti Smith, Andy Warhol, Gore Vidal, and Diana Vreeland. No narrator, no bracketed commentary — just voices forming a composite portrait.
+- Jean Stein and George Plimpton, *Edie: An American Biography* (1982). Oral biography of Edie Sedgwick assembled from interviews with over 200 people, including Truman Capote, Patti Smith, Andy Warhol, Gore Vidal, and Diana Vreeland. 
 - Patricia Treece, *A Man for Others: Maximilian Kolbe*. Life of the Franciscan saint told entirely through first-person testimonies from family, fellow friars, and death camp survivors.
 
 ## Adjacent
 
-- Jean Cocteau, *My Contemporaries*. Cocteau's intimate portraits of Proust, Piaf, Colette, and other figures from Bohemian Paris. Single-author rather than multi-voice, but the same impulse: recovering a person through remembered encounter.
+- Jean Cocteau, *My Contemporaries*. Cocteau's intimate portraits of Proust, Piaf, Colette, and other figures from Bohemian Paris. Single-author rather than multi-voice.
