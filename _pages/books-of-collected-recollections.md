@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Books that collect other people's recollections about a historical figure"
+title: "Books that collect other people’s recollections about a historical figure"
 created: "27 June 2026"
 updated: "27 June 2026"
 topics: [biography, reading]

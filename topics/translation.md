@@ -1,15 +1,15 @@
 ---
 layout: topic
-title: “Translation”
-topic: “translation”
+title: "Translation"
+topic: "translation"
 permalink: /topics/translation/
 notes:
-  - title: “On hevel and vanity”
+  - title: "On hevel and vanity"
     url: "/on-hevel-and-vanity/"
-    date: “18 Jun”
+    date: "18 Jun"
 see_also:
-  - title: “etymology”
+  - title: "etymology"
     url: "/topics/etymology/"
-  - title: “religion”
+  - title: "religion"
     url: "/topics/religion/"
 ---

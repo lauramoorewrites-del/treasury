@@ -1,11 +1,11 @@
 ---
 layout: default
-title: “Donna Haraway’s god trick”
-created: “27 June 2026”
-updated: “27 June 2026”
+title: "Donna Haraway’s god trick"
+created: "27 June 2026"
+updated: "27 June 2026"
 topics: [epistemology, feminism, thinking tools]
 related:
-  - title: “List of my personal touchstones”
+  - title: "List of my personal touchstones"
     url: "/on-my-personal-touchstones/"
 ---
 

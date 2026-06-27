@@ -1,13 +1,13 @@
 ---
 layout: default
-title: “My favorite essays”
-created: “27 June 2026”
-updated: “27 June 2026”
+title: "My favorite essays"
+created: "27 June 2026"
+updated: "27 June 2026"
 topics: [essay craft, reading]
 related:
-  - title: “Selected critical reviews of Zadie Smith”
+  - title: "Selected critical reviews of Zadie Smith"
     url: "/critical-reviews-of-zadie-smith/"
-  - title: “Zadie Smith’s rectangle essays”
+  - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
 ---
 

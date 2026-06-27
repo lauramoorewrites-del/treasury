@@ -1,14 +1,14 @@
 ---
 layout: default
-title: “What this is”
+title: "What this is"
 
-created: “18 June 2026”
-updated: “18 June 2026”
+created: "18 June 2026"
+updated: "18 June 2026"
 topics: [memory, commonplace books, medieval]
 related:
-  - title: “Memory”
+  - title: "Memory"
     url: "/memory/"
-  - title: “On hevel and vanity”
+  - title: "On hevel and vanity"
     url: "/on-hevel-and-vanity/"
 ---
 

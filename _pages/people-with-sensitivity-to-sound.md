@@ -1,8 +1,8 @@
 ---
 layout: default
-title: “List of people with sensitivity to sound”
-created: “27 June 2026”
-updated: “27 June 2026”
+title: "List of people with sensitivity to sound"
+created: "27 June 2026"
+updated: "27 June 2026"
 topics: [biography]
 ---
 

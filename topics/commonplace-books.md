@@ -1,18 +1,18 @@
 ---
 layout: topic
-title: “Commonplace books”
-topic: “commonplace books”
+title: "Commonplace books"
+topic: "commonplace books"
 permalink: /topics/commonplace-books/
 notes:
-  - title: “Memory”
+  - title: "Memory"
     url: "/memory/"
-    date: “18 Jun”
-  - title: “What this is”
+    date: "18 Jun"
+  - title: "What this is"
     url: "/what-this-is/"
-    date: “18 Jun”
+    date: "18 Jun"
 see_also:
-  - title: “medieval”
+  - title: "medieval"
     url: "/topics/medieval/"
-  - title: “memory”
+  - title: "memory"
     url: "/topics/memory/"
 ---

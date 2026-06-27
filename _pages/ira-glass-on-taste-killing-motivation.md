@@ -1,12 +1,12 @@
 ---
 layout: default
-title: “Ira Glass on taste killing motivation”
+title: "Ira Glass on taste killing motivation"
 
-created: “19 June 2026”
-updated: “19 June 2026”
+created: "19 June 2026"
+updated: "19 June 2026"
 topics: [creativity, craft]
 related:
-  - title: “Zadie Smith’s rectangle essays”
+  - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
 ---
 

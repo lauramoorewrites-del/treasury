@@ -1,11 +1,11 @@
 ---
 layout: default
-title: “List of my personal touchstones”
-created: “23 June 2026”
-updated: “27 June 2026”
+title: "List of my personal touchstones"
+created: "23 June 2026"
+updated: "27 June 2026"
 topics: [epistemology, thinking tools]
 related:
-  - title: “What this is”
+  - title: "What this is"
     url: "/what-this-is/"
 ---
 

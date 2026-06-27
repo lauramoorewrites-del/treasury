@@ -1,12 +1,12 @@
 ---
 layout: default
-title: “Books that make connections between things”
+title: "Books that make connections between things"
 
-created: “25 June 2026”
-updated: “25 June 2026”
+created: "25 June 2026"
+updated: "25 June 2026"
 topics: [connections, reading, reviews]
 related:
-  - title: “What this is”
+  - title: "What this is"
     url: "/what-this-is/"
 ---
 

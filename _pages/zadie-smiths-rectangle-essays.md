@@ -1,12 +1,12 @@
 ---
 layout: default
-title: “Zadie Smith’s rectangle essays”
+title: "Zadie Smith’s rectangle essays"
 
-created: “24 June 2026”
-updated: “24 June 2026”
+created: "24 June 2026"
+updated: "24 June 2026"
 topics: [essay craft, structure]
 related:
-  - title: “Ira Glass on taste killing motivation”
+  - title: "Ira Glass on taste killing motivation"
     url: "/ira-glass-on-taste-killing-motivation/"
 ---
 
