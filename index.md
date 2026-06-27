@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "Visual perception"
+    url: "/visual-perception/"
+    date: "27 Jun"
   - title: "Split brain experiments"
     url: "/split-brain-experiments/"
     date: "27 Jun"
@@ -93,5 +96,6 @@ topic_list:
   - religion
   - thinking tools
   - translation
+  - vision
   - zadie smith
 ---
