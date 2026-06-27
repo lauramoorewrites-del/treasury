@@ -97,6 +97,7 @@ topic_list:
   - philosophy
   - reading
   - religion
+  - science
   - thinking tools
   - translation
   - vision
