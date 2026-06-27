@@ -11,4 +11,6 @@ topics: [biography]
 
 ---
 
-Additional reading: Laura Moore, ["Why autism gave me supersonic hearing,"](https://www.strangeclarity.com/p/why-autism-gave-me-supersonic-hearing) *Strange Clarity* (2025).
+Additional reading:
+
+- Laura Moore, ["Why autism gave me supersonic hearing,"](https://www.strangeclarity.com/p/why-autism-gave-me-supersonic-hearing) *Strange Clarity* (2025)
