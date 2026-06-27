@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Novelists on the works they dislike or don't understand"
+title: "Novelists on the works they dislike or don’t understand"
 created: "27 June 2026"
 updated: "27 June 2026"
 topics: [fiction, novels, reading]

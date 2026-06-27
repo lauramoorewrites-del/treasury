@@ -3,7 +3,7 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
-  - title: "Novelists on the works they dislike or don't understand"
+  - title: "Novelists on the works they dislike or don’t understand"
     url: "/novelists-on-works-they-dislike/"
     date: "27 Jun"
   - title: "The novel as a source of truth"
