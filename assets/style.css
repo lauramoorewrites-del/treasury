@@ -1,4 +1,4 @@
-/* Moore's Treasury — Notebook variation */
+/* Moore's Treasury — v2 wiki design */
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 ::selection { background: #e7d6b6; }
@@ -13,9 +13,14 @@ body {
   align-items: center;
 }
 
+/* Global links */
+a { color: #97603f; text-decoration: underline; text-decoration-thickness: .7px; text-underline-offset: 2px; text-decoration-color: #c9a368; }
+a:hover { text-decoration-color: #97603f; }
+
+/* Site header */
 .site-header {
   width: 100%;
-  max-width: 660px;
+  max-width: 740px;
   margin-bottom: 16px;
 }
 
@@ -30,30 +35,20 @@ body {
 
 .site-header a:hover { color: #7a6f5d; }
 
+/* Card */
 .card {
   background: #faf5ea;
   border: 1px solid #ece3d0;
   border-radius: 3px;
   box-shadow: 0 1px 3px rgba(40,30,10,.08);
-  padding: 60px 64px;
-  max-width: 660px;
+  padding: 56px 64px;
+  max-width: 740px;
   width: 100%;
 }
 
-/* Growth stage pill */
-.growth-pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 7px;
-  padding: 5px 12px;
-  background: #f0e8d4;
-  border: 1px solid #ddd0b3;
-  border-radius: 999px;
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 11px;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-  color: #6d6453;
+.card-index {
+  padding: 56px 56px 48px;
+  max-width: 620px;
 }
 
 /* Title */
@@ -63,27 +58,52 @@ h1 {
   font-size: 42px;
   line-height: 1.12;
   color: #231f18;
-  margin: 20px 0 0;
   letter-spacing: -.01em;
 }
 
-/* Dek / subtitle */
+.card-index h1 {
+  font-size: 34px;
+  line-height: 1.1;
+}
+
+/* Summary / dek */
 .dek {
   font-family: 'Newsreader', serif;
   font-style: italic;
   font-size: 20px;
   line-height: 1.4;
   color: #7a6f5d;
-  margin: 14px 0 0;
+  margin: 12px 0 0;
 }
+
+/* Intro text (homepage, topic) */
+.intro {
+  font-family: 'Newsreader', serif;
+  font-size: 18px;
+  line-height: 1.55;
+  color: #6b6253;
+  margin: 12px 0 0;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: .04em;
+  color: #a2977f;
+  margin-bottom: 18px;
+}
+
+.breadcrumb .sep { color: #cbbfa3; }
+.breadcrumb .current { color: #7c6f54; }
 
 /* Frontmatter strip */
 .frontmatter-strip {
   display: flex;
   flex-wrap: wrap;
   gap: 28px;
-  margin: 28px 0;
-  padding: 18px 0;
+  margin: 24px 0;
+  padding: 14px 0;
   border-top: 1px solid #e7ddc8;
   border-bottom: 1px solid #e7ddc8;
 }
@@ -91,7 +111,7 @@ h1 {
 .fm-cell {
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 4px;
 }
 
 .fm-label {
@@ -121,26 +141,38 @@ h1 {
   padding: 2px 9px;
   border: 1px solid #ddd0b3;
   border-radius: 3px;
+  text-decoration: none;
+}
+
+.tag-chip:hover { color: #97603f; border-color: #c9a368; }
+
+/* Section label */
+.section-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: #a2977f;
+  margin: 36px 0 12px;
 }
 
 /* Body content */
 .body-content {
   font-family: 'Newsreader', serif;
   font-size: 19px;
-  line-height: 1.66;
+  line-height: 1.62;
   color: #332e25;
 }
 
-.body-content p {
-  margin: 0 0 18px;
-}
+.body-content p { margin: 0 0 12px; }
+.body-content p:last-child { margin-bottom: 0; }
 
 .body-content h2 {
   font-family: 'Newsreader', serif;
   font-weight: 600;
   font-size: 22px;
   color: #231f18;
-  margin: 30px 0 12px;
+  margin: 22px 0 10px;
 }
 
 .body-content h3 {
@@ -148,125 +180,119 @@ h1 {
   font-weight: 600;
   font-size: 19px;
   color: #231f18;
-  margin: 24px 0 10px;
-}
-
-.body-content a {
-  color: #97603f;
-  text-decoration: underline;
-  text-decoration-thickness: .6px;
-  text-underline-offset: 2px;
-}
-
-.body-content a:hover {
-  text-decoration-thickness: 1.2px;
+  margin: 18px 0 8px;
 }
 
 .body-content blockquote {
   border-left: 2px solid #e7ddc8;
   padding-left: 20px;
-  margin: 20px 0;
+  margin: 16px 0;
   color: #4a4233;
   font-size: 18px;
 }
 
 .body-content ul, .body-content ol {
   padding-left: 22px;
-  margin-bottom: 18px;
+  margin-bottom: 12px;
 }
 
-.body-content li {
-  margin-bottom: 6px;
-}
+.body-content li { margin-bottom: 4px; }
 
 .body-content hr {
   border: none;
   border-top: 1px solid #e7ddc8;
-  margin: 28px 0;
+  margin: 24px 0;
 }
 
-.body-content img {
-  max-width: 100%;
-  height: auto;
-  margin: 18px 0;
-}
+.body-content img { max-width: 100%; height: auto; margin: 16px 0; }
+.body-content strong { font-weight: 600; }
 
-.body-content strong {
-  font-weight: 600;
-}
-
-/* Still figuring out block */
-.stretch-block {
-  margin: 32px 0 0;
-  padding: 20px 22px;
+/* Open questions */
+.open-questions {
+  margin: 24px 0 0;
+  padding: 16px 20px;
   background: #f3ebd8;
   border-left: 2px solid #c9a368;
   border-radius: 0 3px 3px 0;
 }
 
-.stretch-label {
+.open-questions-label {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 10.5px;
   letter-spacing: .1em;
   text-transform: uppercase;
   color: #9a7f4f;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 
-.stretch-block ul {
+.open-questions ul {
   margin: 0;
   padding-left: 18px;
   font-family: 'Newsreader', serif;
   font-size: 17px;
-  line-height: 1.55;
+  line-height: 1.5;
   color: #4a4233;
 }
 
-.stretch-block li {
-  margin-bottom: 8px;
-}
-
-.stretch-block li:last-child {
-  margin-bottom: 0;
-}
-
-/* Section labels (shared) */
-.section-label {
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 10.5px;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-  color: #a2977f;
-  margin-bottom: 12px;
-}
-
 /* Related notes */
-.related-notes {
-  margin-top: 34px;
-}
+.related-notes { margin-top: 28px; }
+.related-notes .section-label { margin: 0 0 10px; }
 
 .related-list {
   display: flex;
   flex-direction: column;
-  gap: 9px;
+  gap: 7px;
 }
 
 .related-list a {
   font-family: 'Newsreader', serif;
   font-size: 17px;
-  color: #97603f;
-  text-decoration: underline;
-  text-decoration-thickness: .6px;
-  text-underline-offset: 2px;
 }
 
-.related-list a:hover {
-  text-decoration-thickness: 1.2px;
+/* Wiki lists (homepage, topic page) */
+.wiki-list {
+  margin: 0;
+  padding-left: 20px;
+  list-style: disc;
 }
+
+.wiki-list li {
+  margin-bottom: 5px;
+  color: #c4b89c;
+}
+
+.wiki-list li:last-child { margin-bottom: 0; }
+
+.wiki-list-item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.wiki-list-item a {
+  font-family: 'Newsreader', serif;
+  font-size: 19px;
+}
+
+.wiki-list-date {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: #b4a98f;
+  white-space: nowrap;
+}
+
+/* Topics list (two columns) */
+.topics-list {
+  columns: 2;
+  column-gap: 32px;
+}
+
+.topics-list a { font-size: 18px; }
 
 /* Footer */
 footer {
-  max-width: 660px;
+  max-width: 740px;
   width: 100%;
   margin-top: 32px;
   padding-top: 16px;
@@ -277,8 +303,11 @@ footer {
 }
 
 /* Responsive */
-@media (max-width: 720px) {
+@media (max-width: 780px) {
   .card { padding: 36px 28px; }
+  .card-index { padding: 36px 28px 30px; }
   h1 { font-size: 32px; }
+  .card-index h1 { font-size: 28px; }
   .frontmatter-strip { gap: 18px; }
+  .topics-list { columns: 1; }
 }

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "On my personal touchstones"
-stage: seedling
-planted: "23 June 2026"
-tended: "23 June 2026"
+
+created: "23 June 2026"
+updated: "23 June 2026"
 topics: [epistemology, feminism, thinking tools]
 related:
   - title: "What this is"

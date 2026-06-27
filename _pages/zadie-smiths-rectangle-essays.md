@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Zadie Smith's rectangle essays"
-stage: budding
-planted: "24 June 2026"
-tended: "24 June 2026"
+
+created: "24 June 2026"
+updated: "24 June 2026"
 topics: [essay craft, structure]
 related:
   - title: "Ira Glass on taste killing motivation"

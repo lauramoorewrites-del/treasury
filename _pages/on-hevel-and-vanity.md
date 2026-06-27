@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "On hevel and vanity"
-stage: budding
-planted: "18 June 2026"
-tended: "18 June 2026"
+
+created: "18 June 2026"
+updated: "18 June 2026"
 topics: [translation, etymology, religion]
 figuring_out:
   - "Was Jerome's choice of vanitas a genuine mistranslation, or a deliberate interpretive move?"

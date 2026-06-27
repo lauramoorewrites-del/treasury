@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "A book that makes connections"
-stage: seedling
-planted: "25 June 2026"
-tended: "25 June 2026"
+title: "Books that make connections between things"
+
+created: "25 June 2026"
+updated: "25 June 2026"
 topics: [connections, reading, reviews]
 related:
   - title: "What this is"

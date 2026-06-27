@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Memory"
-stage: seedling
-planted: "18 June 2026"
-tended: "18 June 2026"
+
+created: "18 June 2026"
+updated: "18 June 2026"
 topics: [memory, medieval, commonplace books]
 related:
   - title: "What this is"

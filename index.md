@@ -1,27 +1,41 @@
 ---
-layout: default
+layout: home
 title: "Moore's Treasury"
+intro: "A personal wiki — observations, references, half-formed arguments, and things I want to think more about."
+recent:
+  - title: "A book that makes connections"
+    url: "/treasury/a-book-that-makes-connections/"
+    date: "25 Jun"
+  - title: "Zadie Smith's rectangle essays"
+    url: "/treasury/zadie-smiths-rectangle-essays/"
+    date: "24 Jun"
+  - title: "On my personal touchstones"
+    url: "/treasury/on-my-personal-touchstones/"
+    date: "23 Jun"
+  - title: "Louisa May Alcott"
+    url: "/treasury/louisa-may-alcott/"
+    date: "19 Jun"
+  - title: "Ira Glass on taste killing motivation"
+    url: "/treasury/ira-glass-on-taste-killing-motivation/"
+    date: "19 Jun"
+topic_list:
+  - biography
+  - connections
+  - commonplace books
+  - craft
+  - creativity
+  - epistemology
+  - essay craft
+  - etymology
+  - feminism
+  - gender
+  - medieval
+  - memory
+  - nonconformity
+  - reading
+  - religion
+  - reviews
+  - structure
+  - thinking tools
+  - translation
 ---
-
-A commonplace book, in the ancient sense: a place where things worth remembering are organized for effective retrieval.
-
-Observations, references, half-formed arguments, and things I want to think more about, but which aren't extensive enough to merit their own [essay](/treasury/essays/).
-
-## Recently tended
-
-- [A book that makes connections](/treasury/a-book-that-makes-connections/) (June 2026)
-- [Zadie Smith's rectangle essays](/treasury/zadie-smiths-rectangle-essays/) (June 2026)
-- [On my personal touchstones](/treasury/on-my-personal-touchstones/) (June 2026)
-- [Ira Glass on taste killing motivation](/treasury/ira-glass-on-taste-killing-motivation/) (June 2026)
-- [Louisa May Alcott](/treasury/louisa-may-alcott/) (June 2026)
-
-## All pages
-
-- [A book that makes connections](/treasury/a-book-that-makes-connections/)
-- [Ira Glass on taste killing motivation](/treasury/ira-glass-on-taste-killing-motivation/)
-- [Louisa May Alcott](/treasury/louisa-may-alcott/)
-- [Memory](/treasury/memory/)
-- [On hevel and vanity](/treasury/on-hevel-and-vanity/)
-- [On my personal touchstones](/treasury/on-my-personal-touchstones/)
-- [What this is](/treasury/what-this-is/)
-- [Zadie Smith's rectangle essays](/treasury/zadie-smiths-rectangle-essays/)

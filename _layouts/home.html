@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Moore&rsquo;s Treasury</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="site-header" style="max-width:620px;">
+    <a href="{{ '/' | relative_url }}">Moore&rsquo;s Treasury</a>
+  </div>
+  <div class="card card-index">
+
+    <h1>{{ page.title }}</h1>
+    <p class="intro">{{ page.intro }} <a href="{{ '/essays/' | relative_url }}">Essays &rarr;</a></p>
+
+    <div class="section-label">Recently updated</div>
+    <ul class="wiki-list">
+      {% for item in page.recent %}
+      <li><div class="wiki-list-item"><a href="{{ item.url | relative_url }}">{{ item.title }}</a><span class="wiki-list-date">{{ item.date }}</span></div></li>
+      {% endfor %}
+    </ul>
+
+    <div class="section-label">Topics</div>
+    <ul class="wiki-list topics-list">
+      {% for topic in page.topic_list %}
+      <li><a href="{{ '/topics/' | append: topic | slugify | relative_url }}">{{ topic }}</a></li>
+      {% endfor %}
+    </ul>
+
+  </div>
+  <footer style="max-width:620px;">
+    <p>&copy; Laura Moore</p>
+  </footer>
+</body>
+</html>

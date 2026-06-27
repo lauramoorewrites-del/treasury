@@ -13,33 +13,37 @@
   <div class="site-header">
     <a href="{{ '/' | relative_url }}">Moore&rsquo;s Treasury</a>
   </div>
-  <div class="card">
-    {% if page.stage %}
-    <div class="growth-pill growth-{{ page.stage }}">{% if page.stage == 'seedling' %}🌱{% elsif page.stage == 'budding' %}🌿{% elsif page.stage == 'evergreen' %}🌳{% endif %} {{ page.stage | capitalize }}</div>
+  <div class="card {% if page.layout_class %}{{ page.layout_class }}{% endif %}">
+
+    {% if page.breadcrumb %}
+    <div class="breadcrumb">
+      <a href="{{ '/' | relative_url }}">Moore&rsquo;s Treasury</a> <span class="sep">/</span> <span class="current">{{ page.breadcrumb }}</span>
+    </div>
     {% endif %}
 
     {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
     {% if page.dek %}<p class="dek">{{ page.dek }}</p>{% endif %}
+    {% if page.intro %}<p class="intro">{{ page.intro }}</p>{% endif %}
 
-    {% if page.planted or page.tended or page.topics %}
+    {% if page.created or page.updated or page.topics %}
     <div class="frontmatter-strip">
-      {% if page.planted %}
+      {% if page.created %}
       <div class="fm-cell">
-        <span class="fm-label">Planted</span>
-        <span class="fm-value">{{ page.planted }}</span>
+        <span class="fm-label">Created</span>
+        <span class="fm-value">{{ page.created }}</span>
       </div>
       {% endif %}
-      {% if page.tended %}
+      {% if page.updated %}
       <div class="fm-cell">
-        <span class="fm-label">Last tended</span>
-        <span class="fm-value">{{ page.tended }}</span>
+        <span class="fm-label">Updated</span>
+        <span class="fm-value">{{ page.updated }}</span>
       </div>
       {% endif %}
       {% if page.topics %}
       <div class="fm-cell">
         <span class="fm-label">Topics</span>
         <div class="fm-tags">
-          {% for topic in page.topics %}<span class="tag-chip">{{ topic }}</span>{% endfor %}
+          {% for topic in page.topics %}<a class="tag-chip" href="{{ '/topics/' | append: topic | slugify | relative_url }}">{{ topic }}</a>{% endfor %}
         </div>
       </div>
       {% endif %}
@@ -51,8 +55,8 @@
     </div>
 
     {% if page.figuring_out %}
-    <div class="stretch-block">
-      <div class="stretch-label">🌱 Still figuring out</div>
+    <div class="open-questions">
+      <div class="open-questions-label">Open questions</div>
       <ul>
         {% for q in page.figuring_out %}<li>{{ q }}</li>{% endfor %}
       </ul>
@@ -67,6 +71,7 @@
       </div>
     </div>
     {% endif %}
+
   </div>
   <footer>
     <p>&copy; Laura Moore</p>

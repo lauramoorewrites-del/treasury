@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "What this is"
-stage: evergreen
-planted: "18 June 2026"
-tended: "18 June 2026"
+
+created: "18 June 2026"
+updated: "18 June 2026"
 topics: [memory, commonplace books, medieval]
 related:
   - title: "Memory"
