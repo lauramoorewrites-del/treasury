@@ -52,6 +52,7 @@ recent:
     url: "/ira-glass-on-taste-killing-motivation/"
     date: "19 Jun"
 topic_list:
+  - authors
   - biography
   - connections
   - commonplace books
