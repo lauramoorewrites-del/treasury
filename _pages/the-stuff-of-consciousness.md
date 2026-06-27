@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The stuff of consciousness (what it's made of)"
+title: "The stuff of consciousness (what it’s made of)"
 created: "27 June 2026"
 updated: "27 June 2026"
 topics: [epistemology]
