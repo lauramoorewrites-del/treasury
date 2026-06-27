@@ -1,22 +1,22 @@
 ---
 layout: topic
-title: "Creativity"
-topic: "creativity"
+title: “Creativity”
+topic: “creativity”
 permalink: /topics/creativity/
 notes:
-  - title: "Ira Glass on taste killing motivation"
+  - title: “Ira Glass on taste killing motivation”
     url: "/ira-glass-on-taste-killing-motivation/"
-    date: "19 Jun"
-  - title: "Louisa May Alcott and Bronson Alcott and gender nonconformity"
+    date: “19 Jun”
+  - title: “Louisa May Alcott and Bronson Alcott and gender nonconformity”
     url: "/louisa-may-alcott/"
-    date: "19 Jun"
+    date: “19 Jun”
 see_also:
-  - title: "biography"
+  - title: “biography”
     url: "/topics/biography/"
-  - title: "craft"
+  - title: “craft”
     url: "/topics/craft/"
-  - title: "gender"
+  - title: “gender”
     url: "/topics/gender/"
-  - title: "nonconformity"
+  - title: “nonconformity”
     url: "/topics/nonconformity/"
 ---

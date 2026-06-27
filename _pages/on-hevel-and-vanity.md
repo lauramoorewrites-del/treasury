@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "On hevel and vanity"
+title: “On hevel and vanity”
 
-created: "18 June 2026"
-updated: "18 June 2026"
+created: “18 June 2026”
+updated: “18 June 2026”
 topics: [translation, etymology, religion]
 figuring_out:
-  - "Was Jerome's choice of vanitas a genuine mistranslation, or a deliberate interpretive move?"
-  - "What other biblical concepts drifted this far through successive translation?"
+  - “Was Jerome’s choice of vanitas a genuine mistranslation, or a deliberate interpretive move?”
+  - “What other biblical concepts drifted this far through successive translation?”
 related:
-  - title: "What this is"
+  - title: “What this is”
     url: "/what-this-is/"
-  - title: "Memory"
+  - title: “Memory”
     url: "/memory/"
 ---
 

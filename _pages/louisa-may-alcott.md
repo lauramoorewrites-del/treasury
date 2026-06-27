@@ -1,20 +1,20 @@
 ---
 layout: default
-title: "Louisa May Alcott and Bronson Alcott and gender nonconformity"
+title: “Louisa May Alcott and Bronson Alcott and gender nonconformity”
 
-created: "19 June 2026"
-updated: "19 June 2026"
+created: “19 June 2026”
+updated: “19 June 2026”
 topics: [gender, creativity, biography, nonconformity]
 figuring_out:
-  - "I want to return to this association my research brought me to: Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end."
+  - “I want to return to this association my research brought me to: Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end.”
 related:
-  - title: "List of my personal touchstones"
+  - title: “List of my personal touchstones”
     url: "/on-my-personal-touchstones/"
 ---
 
 There’s an intuitive link between nonconformity and creativity. If creativity involves coming up with things others haven’t, then being nonconformist in your behaviors likely means you’re nonconformist in your thinking, and you arrive at thoughts that are novel, unusual, and unexpected.
 
-What about specific kinds -- like gender nonconformity?
+What about specific kinds — like gender nonconformity?
 
 In March 1846, when she was thirteen, Louisa May Alcott journaled:
 
@@ -36,7 +36,7 @@ In a footnote, Matteson writes (citing her 1887 journals):
 
 From my light research, going for runs was unusual not just for women, but for *anyone*. But certainly a woman doing it made it stranger.
 
-With my own children, I’ve been surprised to see how their individual personalities manifested at the earliest phases of life -- in some cases, in their first weeks. Bronson noticed it too:
+With my own children, I’ve been surprised to see how their individual personalities manifested at the earliest phases of life — in some cases, in their first weeks. Bronson noticed it too:
 
 > Even when Louisa was an infant, Bronson observed qualities in her that, in his own character, were all but absent. He noticed her “unusual vivacity and force of spirit” and the “wild exuberance” of her “powerful nature.” In her father’s eyes, she was a girl “fit for the scuffle of things.”
 

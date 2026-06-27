@@ -1,16 +1,16 @@
 ---
 layout: default
-title: "Zadie Smith’s rectangle essays"
+title: “Zadie Smith’s rectangle essays”
 
-created: "24 June 2026"
-updated: "24 June 2026"
+created: “24 June 2026”
+updated: “24 June 2026”
 topics: [essay craft, structure]
 related:
-  - title: "Ira Glass on taste killing motivation"
+  - title: “Ira Glass on taste killing motivation”
     url: "/ira-glass-on-taste-killing-motivation/"
 ---
 
-In "The Art of the Impersonal Essay," Zadie Smith shares essay-writing advice she received at 17 and claims to have used ever since:
+In “The Art of the Impersonal Essay,” Zadie Smith shares essay-writing advice she received at 17 and claims to have used ever since:
 
 > An English teacher took me aside and drew a rectangle on a piece of paper, placed a shooting arrow on each corner of the rectangle, plus one halfway along the horizontal top line, and a final arrow, in the same position, down below. “Six points,” this teacher said.
 
@@ -24,19 +24,19 @@ I found the rectangle hard to envision in my mind, so produced this diagram:
 
 ![](/assets/images/628422dc-4f01-4b9e-b6ee-e8dcc9830969.png)
 
-Does Smith *really* use this rectangle when writing her essays, all these years later, now that she's an experienced, acclaimed writer?
+Does Smith *really* use this rectangle when writing her essays, all these years later, now that she’s an experienced, acclaimed writer?
 
 That's a question I set out to answer in a recent Substack post, ["How to meander without getting lost."](https://www.strangeclarity.com/p/how-to-meander-without-getting-lost)
 
-I breeze through the analysis there, but here's a more regimented breakdown:
+I breeze through the analysis there, but here’s a more regimented breakdown:
 
-**"North West London Blues." Verdict: Not really.**
+**“North West London Blues.” Verdict: Not really.**
 
-This piece is about government-provisioned spaces -- like libraries -- where people linger "without purpose." About the politicization of such spaces, and the government's increasing move to pull the rug of support from under them. The (1) Introduction and (2) Develop point sections are fairly clean, but the interior is more of a muddle. Or, perhaps more precisely, the middle rotates through a few more revolutions of (3)/(4)/(5) than the single sequence depicted in the diagram. 
+This piece is about government-provisioned spaces — like libraries — where people linger “without purpose.” About the politicization of such spaces, and the government’s increasing move to pull the rug of support from under them. The (1) Introduction and (2) Develop point sections are fairly clean, but the interior is more of a muddle. Or, perhaps more precisely, the middle rotates through a few more revolutions of (3)/(4)/(5) than the single sequence depicted in the diagram. 
 
-What the piece does show is an inherent orientation toward the turns of thought and perspective represented by the arrows, but not a strict alignment to this specific six-arrow structure. Perhaps that's faithful enough to Smith’s claims in "The Art of the Impersonal Essay," where she says that "this charming and simple blueprint is buried deep in my cerebral cortex" and that "I still use it," but doesn't promise that she follows it religiously.
+What the piece does show is an inherent orientation toward the turns of thought and perspective represented by the arrows, but not a strict alignment to this specific six-arrow structure. Perhaps that’s faithful enough to Smith’s claims in “The Art of the Impersonal Essay,” where she says that “this charming and simple blueprint is buried deep in my cerebral cortex” and that “I still use it,” but doesn’t promise that she follows it religiously.
 
-**"Some Notes on Attunement**." **Verdict: Yes.**
+**“Some Notes on Attunement**.” **Verdict: Yes.**
 
 In the introduction (first arrow), Smith establishes that her parents – “a young black woman and an old white man” – had no white women in their record collection. And when Smith first heard Joni Mitchell in college, she heard “a piercing sound, a sort of wailing,” and disliked it. Smith developed the point (second arrow, develop point) with a forward jump in time. She was motoring with her partner, a poet, to a wedding, and Joni Mitchell came on the radio. Her dislike had hardened into revulsion: she “started stabbing at the dashboard” to turn it off. Yet when they made a pit stop at Tintern Abbey’s ruins, she started humming “a strange piece of music,” and of a sudden, learned that she had been converted: she liked Joni Mitchell (third arrow, complication). Smith consolidates what came before by making a distinction between progressive (continuous) change and the leap of attunement that marks an instance of discontinuity (fourth arrow, wind-down). Here, she’s sorting out what kind of change she experienced by explaining what it was not; she also notes that what she knows are novels, she could be considered a connoisseur, even, and her experience of other forms of appreciation – music, sculpture, wine – is limited and guarded by walls of what she’ll spend time consuming and what she avoids. She then revisits the moment of conversion through Kierkegaard’s writing on leaps of faith (fifth arrow, variation).
 

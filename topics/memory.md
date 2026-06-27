@@ -1,18 +1,18 @@
 ---
 layout: topic
-title: "Memory"
-topic: "memory"
+title: “Memory”
+topic: “memory”
 permalink: /topics/memory/
 notes:
-  - title: "Memory"
+  - title: “Memory”
     url: "/memory/"
-    date: "18 Jun"
-  - title: "What this is"
+    date: “18 Jun”
+  - title: “What this is”
     url: "/what-this-is/"
-    date: "18 Jun"
+    date: “18 Jun”
 see_also:
-  - title: "commonplace books"
+  - title: “commonplace books”
     url: "/topics/commonplace-books/"
-  - title: "medieval"
+  - title: “medieval”
     url: "/topics/medieval/"
 ---

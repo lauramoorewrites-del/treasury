@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "What this is"
+title: “What this is”
 
-created: "18 June 2026"
-updated: "18 June 2026"
+created: “18 June 2026”
+updated: “18 June 2026”
 topics: [memory, commonplace books, medieval]
 related:
-  - title: "Memory"
+  - title: “Memory”
     url: "/memory/"
-  - title: "On hevel and vanity"
+  - title: “On hevel and vanity”
     url: "/on-hevel-and-vanity/"
 ---
 
-I'm reading Mary Carruthers's *The Book of Memory: A Study of Memory in Medieval Culture* (1990). She contends that the faculty we currently understand as *imagination*, the ancients attributed to *memory*.
+I’m reading Mary Carruthers’s *The Book of Memory: A Study of Memory in Medieval Culture* (1990). She contends that the faculty we currently understand as *imagination*, the ancients attributed to *memory*.
 
 > The difference is that whereas now geniuses are said to have creative imagination which they express in intricate reasoning and original discovery, in earlier times they were said to have richly retentive memories, which they expressed in intricate reasoning and original discovery.
 
@@ -20,9 +20,9 @@ The ancients thought of memory as a physical place inside the brain. A set of wa
 
 > not actual little pictures, but are quasi-pictures, “representations” in the sense that the information stored causes a change in the brain that encodes (the modern word) or molds (the ancient one) it in a certain way and in a particular “place” in the brain.
 
-The placement of these quasi-pictures in one's own mental inventory was an art. Much like decorating one's house to be visually appealing and effortlessly functional.
+The placement of these quasi-pictures in one’s own mental inventory was an art. Much like decorating one’s house to be visually appealing and effortlessly functional.
 
-> Without the sorting structure, there is no invention, no inventory, no experience, and therefore no knowledge -- there is only a useless heap, what is sometimes called silva, a pathless forest of chaotic material.
+> Without the sorting structure, there is no invention, no inventory, no experience, and therefore no knowledge — there is only a useless heap, what is sometimes called silva, a pathless forest of chaotic material.
 
 > Memory without conscious design is like an uncatalogued library, a useless contradiction in terms.
 
@@ -32,7 +32,7 @@ Of course, we are no longer called on to extemporize as a form of social discour
 
 ---
 
-On Substack, someone recently linked Cosma Shalizi's *Notebooks*. I was immediately taken by his decades-long archive of musings and textual references. They're indexed chronologically and by subject matter -- that is, by common place. The *Notebooks* come closer to the classical concept of the mind's storehouse than anything else I’ve seen in the modern era. The html medium allows for frictionless, non-linear exploration. And their publication makes the contents of Shalizi's digital memory trove accessible to people other than him: a kind of one-way mirror into the knowledge-entities he's gathered and organized over time.
+On Substack, someone recently linked Cosma Shalizi’s *Notebooks*. I was immediately taken by his decades-long archive of musings and textual references. They’re indexed chronologically and by subject matter — that is, by common place. The *Notebooks* come closer to the classical concept of the mind’s storehouse than anything else I’ve seen in the modern era. The html medium allows for frictionless, non-linear exploration. And their publication makes the contents of Shalizi’s digital memory trove accessible to people other than him: a kind of one-way mirror into the knowledge-entities he’s gathered and organized over time.
 
 And I thought: I want to do that.
 

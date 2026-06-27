@@ -1,17 +1,17 @@
 ---
 layout: topic
-title: "Gender"
-topic: "gender"
+title: “Gender”
+topic: “gender”
 permalink: /topics/gender/
 notes:
-  - title: "Louisa May Alcott and Bronson Alcott and gender nonconformity"
+  - title: “Louisa May Alcott and Bronson Alcott and gender nonconformity”
     url: "/louisa-may-alcott/"
-    date: "19 Jun"
+    date: “19 Jun”
 see_also:
-  - title: "biography"
+  - title: “biography”
     url: "/topics/biography/"
-  - title: "creativity"
+  - title: “creativity”
     url: "/topics/creativity/"
-  - title: "nonconformity"
+  - title: “nonconformity”
     url: "/topics/nonconformity/"
 ---
