@@ -4,7 +4,7 @@ title: "Books that make connections between things"
 
 created: "25 June 2026"
 updated: "25 June 2026"
-topics: [connections, reading, reviews]
+topics: [reading]
 related:
   - title: "What this is"
     url: "/what-this-is/"

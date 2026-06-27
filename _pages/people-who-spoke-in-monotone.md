@@ -3,7 +3,7 @@ layout: default
 title: "List of people who spoke flatly, in monotone"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [biography]
+topics: []
 related:
   - title: "List of people with sensitivity to sound"
     url: "/people-with-sensitivity-to-sound/"

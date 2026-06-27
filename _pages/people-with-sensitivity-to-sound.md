@@ -3,7 +3,7 @@ layout: default
 title: "List of people with sensitivity to sound"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [biography]
+topics: []
 ---
 
 A personal theory: some people who claim not to like kids may have a sound sensitivity. Kids are very loud. This theory arises from Jameela Jamil’s controversial Substack piece where she lists the reasons she isn’t having kids, and among other things, called them “annoying” and “noisy.” (This is from memory — the piece is now paywalled). Growing up, I had a friend that my dad hated to have over because, he said, she was too noisy.

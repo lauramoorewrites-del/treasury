@@ -56,8 +56,6 @@ recent:
     date: "19 Jun"
 topic_list:
   - authors
-  - biography
-  - connections
   - commonplace books
   - craft
   - creativity
@@ -73,7 +71,6 @@ topic_list:
   - novels
   - reading
   - religion
-  - reviews
   - thinking tools
   - translation
 ---

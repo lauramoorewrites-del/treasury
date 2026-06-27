@@ -4,7 +4,7 @@ title: "Louisa May Alcott and Bronson Alcott and gender nonconformity"
 
 created: "19 June 2026"
 updated: "19 June 2026"
-topics: [gender, creativity, biography, nonconformity]
+topics: [gender, creativity, nonconformity]
 figuring_out:
   - "I want to return to this association my research brought me to: Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end."
 related:
