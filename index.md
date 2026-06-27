@@ -39,7 +39,7 @@ recent:
   - title: "List of my personal touchstones"
     url: "/on-my-personal-touchstones/"
     date: "23 Jun"
-  - title: "Louisa May Alcott"
+  - title: "Louisa May Alcott and Bronson Alcott and gender nonconformity"
     url: "/louisa-may-alcott/"
     date: "19 Jun"
   - title: "Ira Glass on taste killing motivation"
