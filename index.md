@@ -3,6 +3,9 @@ layout: home
 title: "Moore's Treasury"
 intro: "A personal wiki — observations, references, half-formed arguments, and things I want to think more about."
 recent:
+  - title: "Reading list"
+    url: "/reading-list/"
+    date: "27 Jun"
   - title: "Donna Haraway’s god trick"
     url: "/donna-haraways-god-trick/"
     date: "27 Jun"
