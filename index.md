@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "The stuff of consciousness (what it's made of)"
+    url: "/the-stuff-of-consciousness/"
+    date: "27 Jun"
   - title: "Mediated reality"
     url: "/mediated-reality/"
     date: "27 Jun"
