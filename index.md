@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "The novel as a source of truth"
+    url: "/the-novel-as-a-source-of-truth/"
+    date: "27 Jun"
   - title: "List of people who spoke flatly, in monotone"
     url: "/people-who-spoke-in-monotone/"
     date: "27 Jun"
