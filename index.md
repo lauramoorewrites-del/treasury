@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "Scientific findings rejected by contemporary peers"
+    url: "/scientific-findings-rejected-by-peers/"
+    date: "27 Jun"
   - title: "Visual perception"
     url: "/visual-perception/"
     date: "27 Jun"
