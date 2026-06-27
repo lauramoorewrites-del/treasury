@@ -15,3 +15,4 @@ topics: [fiction, novels, reading]
 Further reading:
 
 - Leo Tolstoy, [*Tolstoy on Shakespeare*](https://storage.lib.uchicago.edu/pres/2006/0213/pres2006-0213.pdf) (1906). Critical essay on Shakespeare.
+- George Orwell, ["Tolstoy and Shakespeare"](https://www.marxists.org/archive/tolstoy/about/1941/tolstoy-and-shakespeare.html) (1941). Orwell on Tolstoy's essay.
