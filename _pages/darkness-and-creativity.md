@@ -3,7 +3,7 @@ layout: default
 title: "Darkness and creativity"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [creativity]
+topics: [creativity, darkness]
 ---
 
 > There is no great scientific achievement without wandering through the darkness of error.

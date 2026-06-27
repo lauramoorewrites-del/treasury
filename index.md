@@ -65,6 +65,7 @@ topic_list:
   - commonplace books
   - craft
   - creativity
+  - darkness
   - epistemology
   - essay craft
   - etymology
