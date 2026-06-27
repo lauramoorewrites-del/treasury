@@ -14,6 +14,7 @@ Running list of texts to read, with source and date recorded.
 - Dave Cormier, ["Community Learning — Every 'We' Makes a 'Them'"](https://davecormier.com/edblog/2015/08/27/community-learning-every-we-makes-a-them/) (2015). Source: Caulfield references Cormier's post: *"Dave Cormier had an interesting post a month or so ago about how 'every we makes a them.'"* Recorded 26 June 2026.
 - Martin Amis’s essays. Source: [Zadie Smith](/treasury/topics/zadie-smith/): *“I read Carver. Julio Cortázar. Amis’s essays. Baldwin. Lorrie Moore. Capote. Saramago. Larkin. Wodehouse. Anything, anything at all, that doesn’t sound like me.”* Recorded 26 June 2026.
 - Gottfried Wilhelm Leibniz, [Preface to *New Essays on Human Understanding*](https://www.earlymoderntexts.com/assets/pdfs/leibniz1705a.pdf) (1704). Recorded 27 June 2026.
+- Gil Morejón, [*The Unconscious of Thought in Leibniz, Spinoza, and Hume*](https://www.cambridge.org/core/books/the-unconscious-of-thought-in-leibniz-spinoza-and-hume/7A9E83630FAB034CA86EFD4391B62497) (2023). Recorded 27 June 2026.
 - David Foster Wallace, “Forever Overhead.” Source: Zadie Smith: *“If I could choose one story to be printed alongside this article as demonstration, it would be Foster Wallace’s ‘Forever Overhead’, a 10-page effort that has come to obsess me quite as much as the miserable death of poor, terminally middle-class Ivan.”* Recorded 26 June 2026.
 
 ## Read
