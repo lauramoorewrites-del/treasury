@@ -3,6 +3,9 @@ layout: home
 title: "Moore's Treasury"
 intro: "A personal wiki — observations, references, half-formed arguments, and things I want to think more about."
 recent:
+  - title: "My favorite essays"
+    url: "/my-favorite-essays/"
+    date: "27 Jun"
   - title: "Reading list"
     url: "/reading-list/"
     date: "27 Jun"
