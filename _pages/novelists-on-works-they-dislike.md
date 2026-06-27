@@ -9,3 +9,9 @@ topics: [fiction, novels, reading]
 > I don't understand them [Proust and Henry James]. To me, that's not literature. A lot of writers who are considered good I consider strange.
 
 — Cormac McCarthy, "Cormac McCarthy's Venomous Fiction," *The New York Times* (1992).
+
+---
+
+Further reading:
+
+- Leo Tolstoy, [*Tolstoy on Shakespeare*](https://storage.lib.uchicago.edu/pres/2006/0213/pres2006-0213.pdf) (1906). Critical essay on Shakespeare.
