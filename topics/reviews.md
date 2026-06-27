@@ -7,7 +7,7 @@ notes:
   - title: "Books that make connections between things"
     url: "/books-that-makes-connections/"
     date: "25 Jun"
-  - title: "Critical reviews of Zadie Smith"
+  - title: "Selected critical reviews of Zadie Smith"
     url: "/critical-reviews-of-zadie-smith/"
     date: "27 Jun"
 see_also:

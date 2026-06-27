@@ -4,7 +4,7 @@ title: "Essay craft"
 topic: "essay craft"
 permalink: /topics/essay-craft/
 notes:
-  - title: "Critical reviews of Zadie Smith"
+  - title: "Selected critical reviews of Zadie Smith"
     url: "/critical-reviews-of-zadie-smith/"
     date: "27 Jun"
   - title: "Zadie Smith's rectangle essays"
