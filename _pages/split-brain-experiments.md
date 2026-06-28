@@ -5,7 +5,7 @@ created: "27 June 2026"
 updated: "27 June 2026"
 topics: [consciousness, neuroscience]
 figuring_out:
-  - "Is there a connection here? \"Our putative experience of this kind of freedom, for Spinoza, is in fact just a function of the epistemic gap between the real determining power of the unconscious of thought and our typically weak conscious grasp of the nature of things in their necessity.\" — Gil Morejón, The Unconscious of Thought in Leibniz, Spinoza, and Hume (Edinburgh University Press, 2023)"
+  - "Is there a connection here? \"Our putative experience of this kind of freedom, for Spinoza, is in fact just a function of the epistemic gap between the real determining power of the unconscious of thought and our typically weak conscious grasp of the nature of things in their necessity.\" — Gil Morejón, The Unconscious of Thought in Leibniz, Spinoza, and Hume"
 related:
   - title: "Apperception"
     url: "/reflective-knowledge-and-introspective-awareness/"
