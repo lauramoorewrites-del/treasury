@@ -21,7 +21,7 @@ To get out of the way, a clarifying question: why does Morejón say "unconscious
 - I think he wants to emphasize the <i>thought</i> portion, and that thought itself has multiple dimensions (at least two, conscious and unconscious), rather than emphasize the <i>unconscious</i> aspect with its baggage of Freud and haphazardness. In a sense, he wants us to stumble a bit to break those associations.
 - Still, semantically speaking, I think he could have simply said "unconscious thought" and made the same case, and I'm just going to say <i>unconscious thought</i> when speaking in my own words.
 
-**(1)** Much of the Introduction defends a "so what?" by talking about akrasia. And I don't mean that pejoratively; Morejón does an effective job of showing that the stakes of the matter go all the way back to the ancients.
+**(1)** Much of the Introduction defends a "so what?" by talking about akrasia. And I don't mean that pejoratively; Morejón shows that the stakes of the matter go all the way back to the ancients.
 
 Morejón believes that unconscious thought is the missing piece to explaining akrasia, a subject of philosophical investigation since Plato's *Protagoras*. Akrasia is the human propensity to act deliberately in a way that's contrary to the course of conduct they believe is best. For instance, a person might believe it's best to tell the truth in all cases, yet still tell lies. Or they might believe the best course is not to have a cup of coffee after dinner, but they do it on occasion all the same.
 
