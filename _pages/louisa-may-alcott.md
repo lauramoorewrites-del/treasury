@@ -62,4 +62,4 @@ At any rate, the Alcotts were fascinating, individually and as a family unit.
 
 Reference:
 
-- [*Eden’s Outcasts: The Story of Louisa May Alcott and Her Father*](https://bookshop.org/search?q=9780393333596) (2007) by John Matteson
+- [*Eden’s Outcasts: The Story of Louisa May Alcott and Her Father*](https://bookshop.org/search?q=9780393333596) (W.W. Norton, 2007) by John Matteson

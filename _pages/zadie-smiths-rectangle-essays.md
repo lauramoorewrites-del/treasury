@@ -47,5 +47,5 @@ Then, the conclusion (sixth arrow), Smith returns to Joni with the structure she
 Selected references:
 
 - Zadie Smith, ["The Art of the Impersonal Essay,"](https://www.newyorker.com/magazine/2025/09/29/the-art-of-the-impersonal-essay) *The New Yorker* (2025)
-- Zadie Smith, ["North West London Blues,"](https://www.nybooks.com/online/2012/06/02/north-west-london-blues/) *The New York Review of Books* (2012); collected in [*Feel Free*](https://bookshop.org/p/books/feel-free-essays-zadie-smith/039831ec06a2cde1?ean=9780143110255) (2018)
-- Zadie Smith, ["Some Notes on Attunement,"](https://www.newyorker.com/magazine/2012/12/17/some-notes-on-attunement) *The New Yorker* (2012); collected in [*Feel Free*](https://bookshop.org/p/books/feel-free-essays-zadie-smith/039831ec06a2cde1?ean=9780143110255) (2018)
+- Zadie Smith, ["North West London Blues,"](https://www.nybooks.com/online/2012/06/02/north-west-london-blues/) *The New York Review of Books* (2012); collected in [*Feel Free*](https://bookshop.org/p/books/feel-free-essays-zadie-smith/039831ec06a2cde1?ean=9780143110255) (Penguin Press, 2018)
+- Zadie Smith, ["Some Notes on Attunement,"](https://www.newyorker.com/magazine/2012/12/17/some-notes-on-attunement) *The New Yorker* (2012); collected in [*Feel Free*](https://bookshop.org/p/books/feel-free-essays-zadie-smith/039831ec06a2cde1?ean=9780143110255) (Penguin Press, 2018)

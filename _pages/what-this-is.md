@@ -40,5 +40,5 @@ And I thought: I want to do that.
 
 Selected references:
 
-- [*The Book of Memory*](https://bookshop.org/p/books/the-book-of-memory-remarque-professor-of-literature-emeritus-mary-carruthers/08c2895472ef6228?ean=9780521716314) (1990) by Mary Carruthers
+- [*The Book of Memory*](https://bookshop.org/p/books/the-book-of-memory-remarque-professor-of-literature-emeritus-mary-carruthers/08c2895472ef6228?ean=9780521716314) (Cambridge University Press, 1990) by Mary Carruthers
 - [Shalizi's Notebooks](https://bactra.org/notebooks/)

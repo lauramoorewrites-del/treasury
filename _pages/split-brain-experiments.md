@@ -18,8 +18,8 @@ related:
 
 ## Books
 
-- Michael Gazzaniga, [*Who's in Charge? Free Will and the Science of the Brain*](https://bookshop.org/search?q=9780061906114) (2011). Based on his 2009 Gifford Lectures. Introduces "The Interpreter" — a left-hemisphere module that generates causal narratives about actions, even when it has no access to the actual causes.
-- Jonathan Haidt, [*The Righteous Mind: Why Good People Are Divided by Politics and Religion*](https://bookshop.org/search?q=9780307455772) (2012). Contains the observation: "The conscious mind thinks it's the Oval Office, when in reality it's the press office."
+- Michael Gazzaniga, [*Who's in Charge? Free Will and the Science of the Brain*](https://bookshop.org/search?q=9780061906114) (Ecco, 2011). Based on his 2009 Gifford Lectures. Introduces "The Interpreter" — a left-hemisphere module that generates causal narratives about actions, even when it has no access to the actual causes.
+- Jonathan Haidt, [*The Righteous Mind: Why Good People Are Divided by Politics and Religion*](https://bookshop.org/search?q=9780307455772) (Pantheon, 2012). Contains the observation: "The conscious mind thinks it's the Oval Office, when in reality it's the press office."
 
 ## Further reading
 

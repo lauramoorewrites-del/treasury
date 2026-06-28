@@ -16,4 +16,4 @@ topics: [epistemology, indirectness]
 
 > The mediation of reality by other people is 'my jam' as the kids say. Perhaps I find reality itself overwhelming — I don't know. It's true that nine times out of ten I'd rather read about a sunset or look at a visual representation of one than actually see one. I don't think that's a virtue in me — it's just the way I am constituted.
 
-— [Zadie Smith](/treasury/topics/zadie-smith/), interview with *El Cultural*; collected in *Dead and Alive* (2025).
+— [Zadie Smith](/treasury/topics/zadie-smith/), interview with *El Cultural*; collected in *Dead and Alive* (Penguin Press, 2025).

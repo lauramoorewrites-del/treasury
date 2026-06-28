@@ -28,5 +28,5 @@ The quotation was found in Richard Lemarchand’s *A Playful Production Process:
 
 References:
 
-- [*A Playful Production Process: For Game Designers (and Everyone)*](https://bookshop.org/search?q=9780262045513) (2021) by Richard Lemarchand
+- [*A Playful Production Process: For Game Designers (and Everyone)*](https://bookshop.org/search?q=9780262045513) (MIT Press, 2021) by Richard Lemarchand
 - [“The Gap”](https://vimeo.com/85040589) — Ira Glass (audio), Daniel Sax (video)

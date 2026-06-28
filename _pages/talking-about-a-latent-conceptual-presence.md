@@ -25,5 +25,5 @@ A clunkier but perhaps more precise way to put the problem: how to identify func
 
 References:
 
-- Gil Morejón, [*The Unconscious of Thought in Leibniz, Spinoza, and Hume*](https://www.cambridge.org/core/books/the-unconscious-of-thought-in-leibniz-spinoza-and-hume/7A9E83630FAB034CA86EFD4391B62497) (2023)
-- Louis Althusser, *Reading Capital* (1965)
+- Gil Morejón, [*The Unconscious of Thought in Leibniz, Spinoza, and Hume*](https://www.cambridge.org/core/books/the-unconscious-of-thought-in-leibniz-spinoza-and-hume/7A9E83630FAB034CA86EFD4391B62497) (Edinburgh University Press, 2023)
+- Louis Althusser, *Reading Capital* (Maspero, 1965)

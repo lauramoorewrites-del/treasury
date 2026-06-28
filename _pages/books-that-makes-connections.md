@@ -30,7 +30,7 @@ B.R. Cohen sounds like a kindred spirit, “unusually attuned to seeing connecti
 
 Selected references:
 
-- [*The Faraway Nearby*](https://bookshop.org/p/books/the-faraway-nearby-rebecca-solnit-ph-d/d2a94d49bca43794?ean=9780143125495) (2013) by Rebecca Solnit
-- [*Doppelganger*](https://bookshop.org/p/books/doppelganger-a-trip-into-the-mirror-world-naomi-klein/acc3a7231f775f18?ean=9781250338143) (2023) by Naomi Klein
-- [*A Chance Meeting*](https://bookshop.org/p/books/a-chance-meeting-american-encounters-rachel-cohen/48fe93b02d7b1703?ean=9781681378107) (2004) by Rachel Cohen
+- [*The Faraway Nearby*](https://bookshop.org/p/books/the-faraway-nearby-rebecca-solnit-ph-d/d2a94d49bca43794?ean=9780143125495) (Viking, 2013) by Rebecca Solnit
+- [*Doppelganger*](https://bookshop.org/p/books/doppelganger-a-trip-into-the-mirror-world-naomi-klein/acc3a7231f775f18?ean=9781250338143) (Farrar, Straus and Giroux, 2023) by Naomi Klein
+- [*A Chance Meeting*](https://bookshop.org/p/books/a-chance-meeting-american-encounters-rachel-cohen/48fe93b02d7b1703?ean=9781681378107) (Random House, 2004) by Rachel Cohen
 - ["This Morning Was a Poem"](https://www.publicbooks.org/this-morning-was-a-poem-on-and-near-rebecca-solnits-the-faraway-nearby/) by B.R. Cohen, *Public Books*

@@ -12,4 +12,4 @@ topics: [creativity, epistemology, novels, fiction]
 
 > But I love fiction. I love the way it lies to tell the truth.
 
-— [Zadie Smith](/treasury/topics/zadie-smith/), *Dead and Alive* (2025).
+— [Zadie Smith](/treasury/topics/zadie-smith/), *Dead and Alive* (Penguin Press, 2025).

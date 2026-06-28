@@ -15,4 +15,4 @@ related:
 
 > Belief in a novel is, for me, a by-product of a certain kind of sentence. Familiarity, kinship, and compassion will play their part, but if the sentences don’t speak to me, nothing else will. I believe in a sentence of balance, care, rigor, and integrity. The sort of sentence that makes me feel—against all empirical evidence to the contrary—that what I am reading is, fictionally speaking, true.
 
-— Zadie Smith, “Fascinated to Presume: In Defense of Fiction,” *The New York Review of Books* (2019); collected in *Dead and Alive* (2025).
+— Zadie Smith, “Fascinated to Presume: In Defense of Fiction,” *The New York Review of Books* (2019); collected in *Dead and Alive* (Penguin Press, 2025).

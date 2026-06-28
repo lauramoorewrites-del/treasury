@@ -33,4 +33,4 @@ The biggest cause for the drift from *hevel* to *vanity* seems to have been [St.
 
 Selected references:
 
-- *The Faraway Nearby* (2013) by Rebecca Solnit
+- *The Faraway Nearby* (Viking, 2013) by Rebecca Solnit
