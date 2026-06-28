@@ -59,6 +59,8 @@ He cites Frank Tallis' *Hidden Minds: A History of the Unconscious* for the idea
 
 > Along the way, this investigation might allow us to get a sense for what is necessary and sufficient for an ideal formation to be affectively powerful enough to produce real effects at the level of subjective determination. What is required is to develop the capacity of active thought to intervene in the processes of subjective genesis, which precede and subtend consciousness.
 
+**(8)** One seeming goal of Morejón's in the introduction is to get us to de-center consciousness as the privileged starting point. What seems immediate or self-evident to us is actually the product of deeper thought that consciousness neither creates nor fully apprehends. 
+
 ---
 
 Discussed in:
