@@ -18,3 +18,5 @@ Part of Gil Morejón's goal in *The Unconscious of Thought in Leibniz, Spinoza, 
 I also thought this was a deft and delicate way of putting the matter: "The set of readings presented here, then, seeks to distinguish between the real lack of a concept in certain figures and its merely apparent absence in others, in whom, however, the indispensable functioning of that very concept hums beneath the surface at almost every key point."
 
 And another way of getting at the issue is the phrase "symptomatic reading," which is the practice of reading a text not only for what it says, but for what its silences, omissions, contradictions, and blind spots reveal. Morejón cites Louis Althusser's *Reading Capital* for its discussion of this concept, "in which the conspicuous absences of a text can bear as much significance as what it says outright."
+
+A clunkier but perhaps more precise way to put the problem: how to identify functional conceptual presence under conditions of terminological absence.
