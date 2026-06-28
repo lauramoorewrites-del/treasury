@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "Talking about a latent conceptual presence"
+    url: "/talking-about-a-latent-conceptual-presence/"
+    date: "27 Jun"
   - title: "Creators and scientists who had insights that emerged fully formed"
     url: "/insights-that-emerged-fully-formed/"
     date: "27 Jun"

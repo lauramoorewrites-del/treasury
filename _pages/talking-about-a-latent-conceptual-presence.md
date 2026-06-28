@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Talking about a latent conceptual presence"
+created: "27 June 2026"
+updated: "27 June 2026"
+topics: [philosophy, epistemology]
+related:
+  - title: "Reflective knowledge and introspective awareness"
+    url: "/reflective-knowledge-and-introspective-awareness/"
+  - title: "The stuff of consciousness (what it's made of)"
+    url: "/the-stuff-of-consciousness/"
+---
+
+What do you call it when you're investigating the presence of a concept before it is named? How do you talk about the pursuit of that phenomenon?
+
+Part of Gil Morejón's goal in *The Unconscious of Thought in Leibniz, Spinoza, and Hume* is to consider, through the history of philosophy, "the ways in which an unconscious element of thought has been conceived, prior to the coining of the term 'unconscious.'" That's an interesting problem, how to research a concept before a discrete term for it existed. It's similar, in some ways, to my earlier project of researching specific historical cases of autism before the term existed, or before it existed as we use it now. Morejón calls the philosophers' use of the concept as an unstated premise of their ideas a case of "silent functioning," which seems a useful phraseology.
+
+I also thought this was a deft and delicate way of putting the matter: "The set of readings presented here, then, seeks to distinguish between the real lack of a concept in certain figures and its merely apparent absence in others, in whom, however, the indispensable functioning of that very concept hums beneath the surface at almost every key point."
+
+And another way of getting at the issue is the phrase "symptomatic reading," which is the practice of reading a text not only for what it says, but for what its silences, omissions, contradictions, and blind spots reveal. Morejón cites Louis Althusser's *Reading Capital* for its discussion of this concept, "in which the conspicuous absences of a text can bear as much significance as what it says outright."
