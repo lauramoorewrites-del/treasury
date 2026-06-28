@@ -7,7 +7,7 @@ topics: [consciousness, philosophy]
 related:
   - title: "The stuff of consciousness (what it's made of)"
     url: "/the-stuff-of-consciousness/"
-  - title: "Reflective knowledge and introspective awareness"
+  - title: "Apperception"
     url: "/reflective-knowledge-and-introspective-awareness/"
   - title: "Talking about a latent conceptual presence"
     url: "/talking-about-a-latent-conceptual-presence/"

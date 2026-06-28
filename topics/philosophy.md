@@ -7,7 +7,7 @@ notes:
   - title: "Definitions of consciousness"
     url: "/definitions-of-consciousness/"
     date: "27 Jun"
-  - title: "Reflective knowledge and introspective awareness"
+  - title: "Apperception"
     url: "/reflective-knowledge-and-introspective-awareness/"
     date: "27 Jun"
   - title: "Talking about a latent conceptual presence"

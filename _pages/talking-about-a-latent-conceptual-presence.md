@@ -5,7 +5,7 @@ created: "27 June 2026"
 updated: "27 June 2026"
 topics: [philosophy, epistemology]
 related:
-  - title: "Reflective knowledge and introspective awareness"
+  - title: "Apperception"
     url: "/reflective-knowledge-and-introspective-awareness/"
   - title: "The stuff of consciousness (what it's made of)"
     url: "/the-stuff-of-consciousness/"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Reflective knowledge and introspective awareness"
+title: "Apperception"
 created: "27 June 2026"
 updated: "27 June 2026"
 topics: [consciousness, philosophy]

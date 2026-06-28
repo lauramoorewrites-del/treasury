@@ -24,7 +24,7 @@ recent:
   - title: "Split brain experiments"
     url: "/split-brain-experiments/"
     date: "27 Jun"
-  - title: "Reflective knowledge and introspective awareness"
+  - title: "Apperception"
     url: "/reflective-knowledge-and-introspective-awareness/"
     date: "27 Jun"
   - title: "The stuff of consciousness (what it’s made of)"

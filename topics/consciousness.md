@@ -10,7 +10,7 @@ notes:
   - title: "Creators and scientists who had insights that emerged fully formed"
     url: "/insights-that-emerged-fully-formed/"
     date: "27 Jun"
-  - title: "Reflective knowledge and introspective awareness"
+  - title: "Apperception"
     url: "/reflective-knowledge-and-introspective-awareness/"
     date: "27 Jun"
   - title: "Split brain experiments"
