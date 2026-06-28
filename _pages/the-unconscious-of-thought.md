@@ -55,11 +55,15 @@ He cites Frank Tallis' *Hidden Minds: A History of the Unconscious* for the idea
 
 > At the same time, the unconscious of thought is always involved in a particular consciousness, as something that cannot but be expressed, even if this expression is obscure, incomplete, involuntary, or imperceptible.
 
-**(7)** The remarks that close out the introduction bear on what this new philosophical understanding can be used for. The tone is optimistic: by understanding how unconscious thought directs our actions, in a way that conscious decision-making cannot, we might learn how to influence our unconscious thought so as, of course, to influence our actions. Morejón, in a fairly jargony formulation:
+And after summarizing what he’ll show for each philosopher, he makes the point again: “Reading these figures together paints a striking picture of the obscurity of the unconscious of thought out of which consciousness is occasionally capable of emerging.”
+
+**(7)** One seeming goal of Morejón's in the introduction is to get us to de-center consciousness as the privileged starting point. What seems immediate or self-evident to us is actually the product of deeper thought that consciousness neither creates nor fully apprehends. 
+
+**(8)** Much of the introduction bears on what this new philosophical understanding can be used *for*. The tone is optimistic: by understanding how unconscious thought directs our actions, in a way that conscious decision-making cannot, we might learn how to influence our unconscious thought so as, of course, to influence our actions. Morejón, in a fairly jargony formulation:
 
 > Along the way, this investigation might allow us to get a sense for what is necessary and sufficient for an ideal formation to be affectively powerful enough to produce real effects at the level of subjective determination. What is required is to develop the capacity of active thought to intervene in the processes of subjective genesis, which precede and subtend consciousness.
 
-**(8)** One seeming goal of Morejón's in the introduction is to get us to de-center consciousness as the privileged starting point. What seems immediate or self-evident to us is actually the product of deeper thought that consciousness neither creates nor fully apprehends. 
+In a separate passage, Morejón continues: "It makes possible, in other words, a finally practicable ethics of thought, which posits axiomatically that subjects are not defined by their consciousness but rather by their specific determination in and through milieus of thought that involve both conscious and unconscious modes."
 
 ---
 
