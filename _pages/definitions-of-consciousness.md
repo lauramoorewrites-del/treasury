@@ -2,7 +2,7 @@
 layout: default
 title: "Definitions of consciousness"
 created: "27 June 2026"
-updated: "27 June 2026"
+updated: "28 June 2026"
 topics: [consciousness, philosophy]
 related:
   - title: "The stuff of consciousness (what it's made of)"
