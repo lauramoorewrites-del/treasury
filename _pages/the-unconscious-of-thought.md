@@ -18,7 +18,7 @@ A good statement of Morejón's thesis: "I contend that a rational reconstruction
 
 To get out of the way, a clarifying question: why does Morejón say "unconscious of thought" rather than the smoother "unconscious thought"?
 
-- I think he wants to emphasize the thought portion, and that thought itself has multiple dimensions (at least two, conscious and unconscious), rather than emphasize the unconscious aspect with its baggage of Freud and haphazardness. In a sense, he wants us to stumble a bit to break those associations.
+- I think he wants to emphasize the <i>thought</i> portion, and that thought itself has multiple dimensions (at least two, conscious and unconscious), rather than emphasize the <i>unconscious</i> aspect with its baggage of Freud and haphazardness. In a sense, he wants us to stumble a bit to break those associations.
 - Still, semantically speaking, I think he could have simply said "unconscious thought" and made the same case, and I'm just going to say <i>unconscious thought</i> when speaking in my own words.
 
 **(1)** Much of the Introduction defends a "so what?" by talking about akrasia. And I don't mean that pejoratively; Morejón does an effective job of showing that the stakes of the matter go all the way back to the ancients.
