@@ -3,7 +3,7 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
-  - title: "The Unconscious of Thought in Leibniz, Spinoza, and Hume"
+  - title: "Book: The Unconscious of Thought in Leibniz, Spinoza, and Hume"
     url: "/the-unconscious-of-thought/"
     date: "27 Jun"
   - title: "Definitions of consciousness"
