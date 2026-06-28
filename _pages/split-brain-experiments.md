@@ -13,6 +13,8 @@ related:
     url: "/the-stuff-of-consciousness/"
 ---
 
+All of the following are still to be read.
+
 ## Key studies
 
 - Michael Gazzaniga and Roger Sperry's split-brain experiments at Caltech (1960s–1970s). Patients with severed corpus callosum could perceive and act on information presented to one hemisphere without the other's awareness. Sperry received the Nobel Prize in 1981.
