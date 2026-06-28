@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "Definitions of consciousness"
+    url: "/definitions-of-consciousness/"
+    date: "27 Jun"
   - title: "Talking about a latent conceptual presence"
     url: "/talking-about-a-latent-conceptual-presence/"
     date: "27 Jun"
