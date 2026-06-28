@@ -11,7 +11,7 @@ related:
     url: "/the-stuff-of-consciousness/"
 ---
 
-What do you call it when you're investigating the presence of a concept before it is named? How do you talk about the pursuit of that phenomenon?
+What do you call it when you're investigating the presence of a concept before it is named?
 
 Part of Gil Morejón's goal in *The Unconscious of Thought in Leibniz, Spinoza, and Hume* is to consider, through the history of philosophy, "the ways in which an unconscious element of thought has been conceived, prior to the coining of the term 'unconscious.'" That's an interesting problem, how to research a concept before a discrete term for it existed. It's similar, in some ways, to my earlier project of researching specific historical cases of autism before the term existed, or before it existed as we use it now. Morejón calls the philosophers' use of the concept as an unstated premise of their ideas a case of "silent functioning," which seems a useful phraseology.
 
