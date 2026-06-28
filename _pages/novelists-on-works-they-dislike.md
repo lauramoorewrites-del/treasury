@@ -10,7 +10,11 @@ topics: [fiction, novels, reading, authors]
 
 — Cormac McCarthy, "Cormac McCarthy's Venomous Fiction," *The New York Times* (1992).
 
-**Virginia Woolf.** Rebecca West recalled: *"After it had been published, a friend of mine met Virginia Woolf, who said, 'Yes, we liked publishing Rebecca's letter but I did not understand this and that passage.' My friend was surprised, because she had not found it awkward or difficult and thought he must have been mistaken; but later, when I was dining with the Woolfs, I mentioned it to her and we got the pamphlet out and looked at the passages in question; and they were, as a matter of fact, quite simple, not in the least obscure in their phrasing, and she mentioned a book she had been reading, and I said to her, 'I don't believe you are really obscure in these passages; but I must own I can't read a lot of the quite modern work — I have only a quality of mine which gives me some comprehension of things,' and when I read them it was a sort of blindness come over me! I do not think she was merely being polite."* From *Recollections of Virginia Woolf By Her Contemporaries* (William Morrow, 1972), ed. Joan Russell Noble.
+**Virginia Woolf.** Rebecca West recalled:
+
+> After it had been published, a friend of mine met Virginia Woolf who said, 'Yes, we liked publishing Rebecca's letter but I did not understand this and that passage.' My friend was surprised, because he had understood it without difficulty and thought he must have been mistaken, but later, when I was dining with the Woolfs, I mentioned it to her and we got the pamphlet out and looked at it, and it really seemed very strange that she had not understood the passages she mentioned. Then she said to me, 'I don't believe you are being obscure in these passages, but I must own to a quality of mine which is a great defect in a critic. I don't really understand contemporary writers, blindness comes over me.'
+
+— Rebecca West, in *Recollections of Virginia Woolf By Her Contemporaries* (William Morrow, 1972), ed. Joan Russell Noble.
 
 ---
 
