@@ -14,7 +14,6 @@ topics: [fiction, novels, reading, authors]
 
 ---
 
-Further reading:
+To add:
 
-- Leo Tolstoy, [*Tolstoy on Shakespeare*](https://www.gutenberg.org/files/27726/27726-h/27726-h.htm) (1906). Critical essay on Shakespeare.
-- George Orwell, ["Tolstoy and Shakespeare"](https://www.marxists.org/archive/tolstoy/about/1941/tolstoy-and-shakespeare.html) (1941). Orwell on Tolstoy's essay.
+- Tolstoy on Shakespeare. See Leo Tolstoy, [*Tolstoy on Shakespeare*](https://www.gutenberg.org/files/27726/27726-h/27726-h.htm) (1906) and George Orwell, ["Tolstoy and Shakespeare"](https://www.marxists.org/archive/tolstoy/about/1941/tolstoy-and-shakespeare.html) (1941).
