@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Book: The Unconscious of Thought in Leibniz, Spinoza, and Hume"
+title: "Book: The Unconscious of Thought in Leibniz, Spinoza, and Hume, by Gil Morejón"
 created: "27 June 2026"
 updated: "27 June 2026"
 topics: [consciousness, philosophy]
