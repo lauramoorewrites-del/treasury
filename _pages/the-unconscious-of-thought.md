@@ -10,7 +10,7 @@ Gil Morejón, [*The Unconscious of Thought in Leibniz, Spinoza, and Hume*](https
 
 From the publisher's synopsis: "These three early modern philosophers understood that minds necessarily involve ideas and patterns of thinking that are not conscious. Morejon shows that in this way they sharply distinguish themselves from other major early modern thinkers whose conceptions of the mind tended to identify thinking with consciousness, such as Descartes, Malebranche and Locke. This conception of the thinking mind as conscious remains popular even today. By contrast, Leibniz, Spinoza and Hume argue instead that thought is not, as such, a matter of consciousness."
 
-Huge, huge caveat emptor for what follows in this entry: I am not a philosopher. I have no training in philosophy. Nor have I read much philosophy. Anything that's inaccurate or inartfully stated here is my clumsiness and should not be assumed to reflect on the book. Also, I'm writing this at 10:30 PM, I'm tired but wired by the exciting possibilities of unconscious thought. Hopefully I'll come back to do a revising round on this.
+Huge, huge caveat for what follows in this entry: I am not a philosopher. I have no training in philosophy. Nor have I read much philosophy. Anything that's inaccurate or inartfully stated here is my clumsiness and should not be assumed to reflect on the book. Also, I'm writing this at 10:30 PM, I'm tired but wired by the exciting possibilities of unconscious thought. Hopefully I'll come back to do a revising round on this.
 
 ## Notes on the introduction
 
