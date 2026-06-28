@@ -13,5 +13,3 @@ Discussed in:
 - [Talking about a latent conceptual presence](/treasury/talking-about-a-latent-conceptual-presence/)
 - [Definitions of consciousness](/treasury/definitions-of-consciousness/)
 - [Split brain experiments](/treasury/split-brain-experiments/)
-- [Reflective knowledge and introspective awareness](/treasury/reflective-knowledge-and-introspective-awareness/)
-- [The stuff of consciousness (what it's made of)](/treasury/the-stuff-of-consciousness/)
