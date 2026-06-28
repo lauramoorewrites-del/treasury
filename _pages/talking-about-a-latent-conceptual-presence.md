@@ -20,3 +20,10 @@ I also thought this was a deft and delicate way of putting the matter: "The set 
 And another way of getting at the issue is the phrase "symptomatic reading," which is the practice of reading a text not only for what it says, but for what its silences, omissions, contradictions, and blind spots reveal. Morejón cites Louis Althusser's *Reading Capital* for its discussion of this concept, "in which the conspicuous absences of a text can bear as much significance as what it says outright."
 
 A clunkier but perhaps more precise way to put the problem: how to identify functional conceptual presence under conditions of terminological absence.
+
+---
+
+References:
+
+- Gil Morejón, [*The Unconscious of Thought in Leibniz, Spinoza, and Hume*](https://www.cambridge.org/core/books/the-unconscious-of-thought-in-leibniz-spinoza-and-hume/7A9E83630FAB034CA86EFD4391B62497) (2023)
+- Louis Althusser, *Reading Capital* (1965)
