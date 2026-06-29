@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "Collected reflections on translating thought into words"
+    url: "/translating-thought-into-words/"
+    date: "28 Jun"
   - title: "The medieval anchorhold at Disibodenberg"
     url: "/the-medieval-anchorhold-at-disibodenberg/"
     date: "28 Jun"

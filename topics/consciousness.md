@@ -22,6 +22,9 @@ notes:
   - title: "Book: The Unconscious of Thought in Leibniz, Spinoza, and Hume, by Gil Morejón"
     url: "/the-unconscious-of-thought/"
     date: "27 Jun"
+  - title: "Collected reflections on translating thought into words"
+    url: "/translating-thought-into-words/"
+    date: "28 Jun"
 see_also:
   - title: "creativity"
     url: "/topics/creativity/"
