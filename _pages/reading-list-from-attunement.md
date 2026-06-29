@@ -15,6 +15,8 @@ Smith's essay title borrows from the section title of the prelude to Kierkegaard
 
 (Why does this entry exist? While deconstructing Smith's essay for [my investigation into structure](https://www.strangeclarity.com/p/how-to-meander-without-getting-lost), the essay itself seems to have seeped into my subconscious and resulted in a new essay project — really, a philosophical/critical theory I'm developing — that in part draws on the philosophical arguments implicit in Smith's essay, and on the experiential account she gives on her sudden attunement.)
 
+In my essay-study, I'm conducting an excavation of sorts — unearthing the ties and links that remain more implicit in Smith's essay but that she functionally depends on. It's as if her essay is a poem, ideas compressed, and the work of squeezing the juice of meaning — more than the first blush of juice — depends on unpacking the compression and airing out the things packed together.
+
 A reading list built on the ideas in Smith's essay:
 
 ### Explicitly used in the essay
