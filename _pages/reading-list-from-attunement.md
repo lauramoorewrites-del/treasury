@@ -3,7 +3,7 @@ layout: default
 title: Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'
 created: "28 June 2026"
 updated: "28 June 2026"
-topics: [reading, zadie smith]
+topics: [reading lists, zadie smith]
 related:
   - title: "Zadie Smith's rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"

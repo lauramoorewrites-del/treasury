@@ -22,6 +22,6 @@ see_also:
     url: "/topics/creativity/"
   - title: "essay craft"
     url: "/topics/essay-craft/"
-  - title: "reading"
-    url: "/topics/reading/"
+  - title: "reading lists"
+    url: "/topics/reading-lists/"
 ---

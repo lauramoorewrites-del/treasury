@@ -121,6 +121,7 @@ topic_list:
   - novels
   - philosophy
   - reading
+  - reading lists
   - religion
   - science
   - thinking tools
