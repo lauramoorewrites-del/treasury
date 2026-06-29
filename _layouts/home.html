@@ -16,7 +16,8 @@
   <div class="card card-index">
 
     <h1>{{ page.title }}</h1>
-    <p class="intro">{{ page.intro }} <a href="{{ '/essays/' | relative_url }}">Essays &rarr;</a></p>
+    <p class="intro">{{ page.intro }}</p>
+    {% if page.intro2 %}<p class="intro">{{ page.intro2 }} <a href="{{ '/essays/' | relative_url }}">Essays &rarr;</a></p>{% endif %}
 
     <div class="section-label">Recently updated</div>
     <ul class="wiki-list">
