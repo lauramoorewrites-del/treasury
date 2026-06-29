@@ -26,4 +26,6 @@ see_also:
     url: "/topics/epistemology/"
   - title: "reading"
     url: "/topics/reading/"
+  - title: "zadie smith"
+    url: "/topics/zadie-smith/"
 ---

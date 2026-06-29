@@ -3,7 +3,7 @@ layout: default
 title: "Zadie Smith’s theories of fiction and writing"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [essay craft, creativity]
+topics: [essay craft, creativity, zadie smith]
 related:
   - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"

@@ -3,7 +3,7 @@ layout: default
 title: "Selected critical reviews of Zadie Smith"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [essay craft]
+topics: [essay craft, zadie smith]
 related:
   - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
