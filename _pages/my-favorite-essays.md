@@ -11,6 +11,7 @@ related:
     url: "/zadie-smiths-rectangle-essays/"
 ---
 
+- Sarah Cook, ["Everything Can't Be An Essay,"](https://neondoorlit.com/blog/everything-cant-be-an-essay/) *NeonDoor* (2022).
 - Elif Batuman, ["Who Killed Tolstoy?"](https://granta.com/who-killed-tolstoy/) *Harper's Magazine* (2009); collected in [*The Possessed*](https://bookshop.org/search?q=9780374532178) (Farrar, Straus and Giroux, 2010). Originally published as "The Murder of Leo Tolstoy."
 - F. Scott Fitzgerald, ["The Crack-Up,"](https://www.pbs.org/wnet/americanmasters/f-scott-fitzgerald-essay-the-crack-up/1028/) *Esquire* (1936); collected in [*The Crack-Up*](https://bookshop.org/search?q=9780811218207) (New Directions, 1945), ed. Edmund Wilson.
 - Denis Johnson, ["School Is Out,"](https://www.salon.com/1997/10/01/01school/) *Salon* (1997).
