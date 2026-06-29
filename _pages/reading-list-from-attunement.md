@@ -13,7 +13,7 @@ Zadie Smith, ["Some Notes on Attunement,"](https://www.newyorker.com/magazine/20
 
 Smith's essay title borrows from the section title of the prelude to Kierkegaard's *Fear and Trembling* — what the Hong translation calls the "Exordium" and the Hannay translation calls "Attunement." "Attunement" is also the standard English for the German *Stimmung*, Heidegger's term for mood as the thing that tunes us to the world before cognition.
 
-(Why does this entry exist? While deconstructing Smith's essay for my investigation into structure, the essay itself seems to have seeped into my subconscious and resulted in a new essay project — really, a philosophical/critical theory I'm developing — that in part draws on the philosophical arguments implicit in Smith's essay, and on the experiential account she gives on her sudden attunement.)
+(Why does this entry exist? While deconstructing Smith's essay for [my investigation into structure](https://www.strangeclarity.com/p/how-to-meander-without-getting-lost), the essay itself seems to have seeped into my subconscious and resulted in a new essay project — really, a philosophical/critical theory I'm developing — that in part draws on the philosophical arguments implicit in Smith's essay, and on the experiential account she gives on her sudden attunement.)
 
 A reading list built on the ideas in Smith's essay:
 
