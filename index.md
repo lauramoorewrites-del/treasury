@@ -3,6 +3,9 @@ layout: home
 title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about. A complement to my essays, collected here:"
 recent:
+  - title: "The medieval anchorhold at Disibodenberg"
+    url: "/the-medieval-anchorhold-at-disibodenberg/"
+    date: "28 Jun"
   - title: "Book: The Unconscious of Thought in Leibniz, Spinoza, and Hume, by Gil Morejón"
     url: "/the-unconscious-of-thought/"
     date: "27 Jun"
