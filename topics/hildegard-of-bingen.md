@@ -7,4 +7,7 @@ notes:
   - title: "The medieval anchorhold at Disibodenberg"
     url: "/the-medieval-anchorhold-at-disibodenberg/"
     date: "28 Jun"
+see_also:
+  - title: "medieval"
+    url: "/topics/medieval/"
 ---

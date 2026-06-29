@@ -8,8 +8,6 @@ notes:
     url: "/louisa-may-alcott/"
     date: "19 Jun"
 see_also:
-  - title: "biography"
-    url: "/topics/biography/"
   - title: "creativity"
     url: "/topics/creativity/"
   - title: "nonconformity"

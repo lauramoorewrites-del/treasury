@@ -26,8 +26,4 @@ see_also:
     url: "/topics/epistemology/"
   - title: "reading"
     url: "/topics/reading/"
-  - title: "reviews"
-    url: "/topics/reviews/"
-  - title: "structure"
-    url: "/topics/structure/"
 ---

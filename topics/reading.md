@@ -22,12 +22,10 @@ notes:
 see_also:
   - title: "authors"
     url: "/topics/authors/"
-  - title: "biography"
-    url: "/topics/biography/"
-  - title: "connections"
-    url: "/topics/connections/"
   - title: "essay craft"
     url: "/topics/essay-craft/"
   - title: "fiction"
     url: "/topics/fiction/"
+  - title: "novels"
+    url: "/topics/novels/"
 ---

@@ -10,4 +10,9 @@ notes:
   - title: "Mediated reality"
     url: "/mediated-reality/"
     date: "27 Jun"
+see_also:
+  - title: "darkness"
+    url: "/topics/darkness/"
+  - title: "epistemology"
+    url: "/topics/epistemology/"
 ---

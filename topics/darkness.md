@@ -13,4 +13,6 @@ notes:
 see_also:
   - title: "creativity"
     url: "/topics/creativity/"
+  - title: "indirectness"
+    url: "/topics/indirectness/"
 ---
