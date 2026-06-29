@@ -20,7 +20,7 @@ A reading list built on the ideas in Smith's essay:
 ### Explicitly used in the essay
 
 - Kierkegaard, *Fear and Trembling* — the "Attunement/Exordium" prelude and the Problemata on the leap and the absurd. Her discussion of sudden, unreasoned conversion draws on this. Use the Hannay Penguin translation so the title-word matches.
-- Seneca, ["On the Shortness of Life"](https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/text/on-the-shortness-of-life) — quoted directly; supplies the time-and-taste anxiety that frames the connoisseurship passage.
+- Seneca, ["On the Shortness of Life"](https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart/text/on-the-shortness-of-life), esp. XII — quoted directly; supplies the time-and-taste anxiety that frames the connoisseurship passage.
 - Wordsworth, ["Tintern Abbey"](https://www.poetryfoundation.org/poems/45527/lines-composed-a-few-miles-above-tintern-abbey-on-revisiting-the-banks-of-the-wye-during-a-tour-july-13-1798) (and the Lucy poems she alludes to) — the recollected, discontinuous self.
 
 ### Implicit spine
