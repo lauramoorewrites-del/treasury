@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Reading list derived from Zadie Smith's essay "Some Notes on Attunement""
+title: Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'
 created: "28 June 2026"
 updated: "28 June 2026"
 topics: [reading, zadie smith]
@@ -9,17 +9,21 @@ related:
     url: "/zadie-smiths-rectangle-essays/"
 ---
 
-Smith's title borrows from the section title of the prelude to Kierkegaard's *Fear and Trembling* — what the Hong translation calls the "Exordium" and the Hannay translation calls "Attunement." "Attunement" is also the standard English for the German *Stimmung*, Heidegger's term for mood as the thing that tunes us to the world before cognition. The implicit philosophical spine of the essay runs along a Kierkegaard–Heidegger axis.
+Zadie Smith's essay title, "Some Notes on Attunement," borrows from the section title of the prelude to Kierkegaard's *Fear and Trembling* — what the Hong translation calls the "Exordium" and the Hannay translation calls "Attunement." "Attunement" is also the standard English for the German *Stimmung*, Heidegger's term for mood as the thing that tunes us to the world before cognition. 
+
+(Why does this entry exist? While desconstructing Smith's essay for my investigation into structure, the essay itself seems to have seeped into my subconscious and resulted in a new essay project -- really, a philosophical/critical theory I'm developing -- that in part draws on the philosophical arguments implicit in Smith's essay, and on the experiential account she gives on her sudden attunement.)
+
+A reading list built on the ideas in Smith's essay:
 
 ### Explicitly used in the essay
 
-- Kierkegaard, *Fear and Trembling* — the "Attunement/Exordium" prelude and the Problemata on the leap and the absurd. Her structure of sudden, unreasoned conversion is lifted from here. Use the Hannay Penguin translation so the title-word matches.
+- Kierkegaard, *Fear and Trembling* — the "Attunement/Exordium" prelude and the Problemata on the leap and the absurd. Her discussion of sudden, unreasoned conversion draws on this. Use the Hannay Penguin translation so the title-word matches.
 - Seneca, "On the Shortness of Life" — quoted directly; supplies the time-and-taste anxiety that frames the connoisseurship passage.
 - Wordsworth, "Tintern Abbey" (and the Lucy poems she alludes to) — the recollected, discontinuous self.
 
 ### Implicit spine
 
-- Heidegger, *Being and Time* §§29–30 on *Stimmung*/mood (*Befindlichkeit*), plus "The Origin of the Work of Art." Mood is prior to perception and determines what can show up for you at all — which is Smith's claim that attunement precedes and enables hearing.
+- Heidegger, *Being and Time* §§29–30 on *Stimmung*/mood (*Befindlichkeit*), plus "The Origin of the Work of Art." Mood is prior to perception and determines what can show up for you at all, which relates to Smith's claim that attunement precedes and enables how she received Joni Mitchell's music.
 - Kant, *Critique of the Power of Judgment* — the Analytic of the Beautiful and the Antinomy of Taste. Aesthetic judgment as "subjective universality."
 - William James, *The Varieties of Religious Experience* — the lectures on "The Divided Self" and "Conversion." The psychology of sudden conversion and the self reorganizing around a new center.
 - Wittgenstein, *Philosophical Investigations* — aspect-seeing / "seeing-as" (the duck-rabbit) and "forms of life."
@@ -28,7 +32,7 @@ Smith's title borrows from the section title of the prelude to Kierkegaard's *Fe
 
 - Leibniz, Preface to the *New Essays on Human Understanding* — petites perceptions, the minute sub-threshold perceptions that accumulate below awareness.
 - Spinoza, *Ethics* Part III (the affects) — we don't choose what moves us; affect precedes and governs the reasons we give.
-- Aristotle, *Nicomachean Ethics* Book VII on akrasia. Pair with Donald Davidson, "How Is Weakness of the Will Possible?" for the modern statement.
+- Aristotle, *Nicomachean Ethics* Book VII on akrasia (based on a connection I sensed with Gil Morejon's discussion of akrasia in his [book](/treasury/reflective-knowledge-and-introspective-awareness/)). Potentially consult Donald Davidson's "How Is Weakness of the Will Possible?" for the modern statement.
 
 ### The self in time
 

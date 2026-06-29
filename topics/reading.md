@@ -16,7 +16,7 @@ notes:
   - title: "Authors who disliked or didn't understand other authors' works"
     url: "/novelists-on-works-they-dislike/"
     date: "27 Jun"
-  - title: 'Reading list derived from Zadie Smith's essay "Some Notes on Attunement"'
+  - title: "Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'"
     url: "/reading-list-from-attunement/"
     date: "28 Jun"
   - title: "Reading list"
