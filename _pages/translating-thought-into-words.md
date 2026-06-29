@@ -3,7 +3,7 @@ layout: default
 title: "Collected reflections on translating thought into words"
 created: "28 June 2026"
 updated: "28 June 2026"
-topics: [consciousness, language, expression]
+topics: [consciousness, language, expression, translation]
 ---
 
 > There is a moment that arises where I have a sense of knowing something — a solution, an answer — before I can put what I know into words. I feel the knowingness but I can't see what it's made of. And the ability to see inside it, to articulate it, doesn't always follow. Sometimes it eludes me permanently, like the dream you sense only in fragmentary relief upon waking, and that evaporates when you reach for it. I think this feeling is the mental experience of a thought beginning to lift from the subconscious depths to the mind's main stage, but doesn't complete its emergence.

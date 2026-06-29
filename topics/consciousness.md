@@ -28,6 +28,10 @@ notes:
 see_also:
   - title: "creativity"
     url: "/topics/creativity/"
+  - title: "expression"
+    url: "/topics/expression/"
+  - title: "language"
+    url: "/topics/language/"
   - title: "neuroscience"
     url: "/topics/neuroscience/"
   - title: "philosophy"
