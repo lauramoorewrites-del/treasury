@@ -3,10 +3,10 @@ layout: default
 title: "The medieval anchorhold at Disibodenberg"
 created: "28 June 2026"
 updated: "28 June 2026"
-topics: [medieval]
+topics: [medieval, hildegard of bingen]
 ---
 
-Hildegard of Bingen lived in the *Fraunenklause*, the women's hermitage or anchorhold, at the monatsery at Disibodenberg from 1112 (per the *Life of Jutta* discovered in 1999) until she established a new convent at Rupertsberg in 1150.
+Hildegard of Bingen lived in the *Frauenklause*, the women's hermitage or anchorhold, at the monastery at Disibodenberg from 1112 (per the *Life of Jutta* discovered in 1999) until she established a new convent at Rupertsberg in 1150.
 
 Disibodenberg sits on a forested hilltop at the confluence of the Glan and Nahe rivers, near Odernheim am Glan in Rhineland-Palatinate. A monastic settlement existed there from the 7th century (associated with the Irish missionary St. Disibod); the Benedictine refoundation under Archbishop Ruthard of Mainz dates to 1108. The site was suppressed in the Reformation, the buildings progressively ruined, and the dressed stone quarried over the following centuries.
 

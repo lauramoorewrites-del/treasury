@@ -103,6 +103,7 @@ topic_list:
   - fiction
   - feminism
   - gender
+  - hildegard of bingen
   - indirectness
   - medieval
   - memory
