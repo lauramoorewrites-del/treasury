@@ -8,6 +8,9 @@ notes:
   - title: "Selected critical reviews of Zadie Smith"
     url: "/critical-reviews-of-zadie-smith/"
     date: "27 Jun"
+  - title: 'Reading list derived from Zadie Smith's essay "Some Notes on Attunement"'
+    url: "/reading-list-from-attunement/"
+    date: "28 Jun"
   - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
     date: "24 Jun"
@@ -19,4 +22,6 @@ see_also:
     url: "/topics/creativity/"
   - title: "essay craft"
     url: "/topics/essay-craft/"
+  - title: "reading"
+    url: "/topics/reading/"
 ---
