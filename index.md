@@ -103,12 +103,14 @@ topic_list:
   - darkness
   - epistemology
   - essay craft
+  - expression
   - etymology
   - fiction
   - feminism
   - gender
   - hildegard of bingen
   - indirectness
+  - language
   - medieval
   - memory
   - neuroscience
