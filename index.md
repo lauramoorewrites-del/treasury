@@ -4,6 +4,9 @@ title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about."
 intro2: "A complement to my essays, collected here:"
 recent:
+  - title: "List of outdated DSM pathologies"
+    url: "/outdated-dsm-pathologies/"
+    date: "28 Jun"
   - title: Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'
     url: "/reading-list-from-attunement/"
     date: "28 Jun"
