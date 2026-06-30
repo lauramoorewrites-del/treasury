@@ -123,6 +123,7 @@ topic_list:
   - nonconformity
   - novels
   - philosophy
+  - psychology
   - reading
   - reading lists
   - religion
