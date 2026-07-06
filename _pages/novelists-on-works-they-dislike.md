@@ -16,8 +16,12 @@ topics: [fiction, novels, reading, authors]
 
 — Rebecca West, in *Recollections of Virginia Woolf By Her Contemporaries* (William Morrow, 1972), ed. Joan Russell Noble.
 
+> I remember the astonishment I felt when I first read Shakespeare. I expected to receive a powerful esthetic pleasure, but having read, one after the other, works regarded as his best: "King Lear," "Romeo and Juliet," "Hamlet" and "Macbeth," not only did I feel no delight, but I felt an irresistible repulsion and tedium, and doubted as to whether I was senseless in feeling works regarded as the summit of perfection by the whole of the civilized world to be trivial and positively bad, or whether the significance which this civilized world attributes to the works of Shakespeare was itself senseless.
+
+— Leo Tolstoy, [*Tolstoy on Shakespeare: A Critical Essay on Shakespeare*](https://www.gutenberg.org/files/27726/27726-h/27726-h.htm) (1906), trans. V. Tchertkoff.
+
 ---
 
-To add:
+Further reading:
 
-- Tolstoy on Shakespeare. See Leo Tolstoy, [*Tolstoy on Shakespeare*](https://www.gutenberg.org/files/27726/27726-h/27726-h.htm) (1906) and George Orwell, ["Tolstoy and Shakespeare"](https://www.marxists.org/archive/tolstoy/about/1941/tolstoy-and-shakespeare.html) (1941).
+- George Orwell, ["Tolstoy and Shakespeare"](https://www.marxists.org/archive/tolstoy/about/1941/tolstoy-and-shakespeare.html) (1941). Orwell on Tolstoy's essay.
