@@ -4,7 +4,7 @@ title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about."
 intro2: "A complement to my essays, collected here:"
 recent:
-  - title: "Agnes Callard's theory of ethical self-blindness"
+  - title: "Agnes Callard’s theory of ethical self-blindness"
     url: "/agnes-callards-ethical-self-blindness/"
     date: "28 Jun"
   - title: "Critics on what makes art great"
