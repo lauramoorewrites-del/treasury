@@ -4,6 +4,9 @@ title: "Fiction"
 topic: "fiction"
 permalink: /topics/fiction/
 notes:
+  - title: "Critics calling characters unreal, untrue, and unconvincing"
+    url: "/critics-calling-characters-unreal/"
+    date: "28 Jun"
   - title: "Authors who disliked or didn't understand other authors' works"
     url: "/novelists-on-works-they-dislike/"
     date: "27 Jun"

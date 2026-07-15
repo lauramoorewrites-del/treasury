@@ -4,6 +4,9 @@ title: "Creativity"
 topic: "creativity"
 permalink: /topics/creativity/
 notes:
+  - title: "Critics on what makes art great"
+    url: "/critics-on-what-makes-art-great/"
+    date: "28 Jun"
   - title: "Darkness and creativity"
     url: "/darkness-and-creativity/"
     date: "27 Jun"

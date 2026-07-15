@@ -4,6 +4,9 @@ title: "Philosophy"
 topic: "philosophy"
 permalink: /topics/philosophy/
 notes:
+  - title: "Agnes Callard’s theory of ethical self-blindness"
+    url: "/agnes-callards-ethical-self-blindness/"
+    date: "28 Jun"
   - title: "Definitions of consciousness"
     url: "/definitions-of-consciousness/"
     date: "28 Jun"
