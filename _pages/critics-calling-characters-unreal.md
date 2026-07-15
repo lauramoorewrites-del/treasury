@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Critics calling characters unreal, untrue, and unconvincing"
-created: "28 June 2026"
-updated: "28 June 2026"
+created: "15 July 2026"
+updated: "15 July 2026"
 topics: [fiction, authors]
 ---
 

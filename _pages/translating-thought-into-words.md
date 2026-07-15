@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Collected reflections on translating thought into words"
-created: "28 June 2026"
-updated: "28 June 2026"
+created: "15 July 2026"
+updated: "15 July 2026"
 topics: [consciousness, language, expression, translation]
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Critics on what makes art great"
-created: "28 June 2026"
-updated: "28 June 2026"
+created: "15 July 2026"
+updated: "15 July 2026"
 topics: [creativity]
 related:
   - title: "Authors who disliked or didn't understand other authors' works"
