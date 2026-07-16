@@ -1,10 +1,16 @@
 ---
 layout: default
-title: "English translations of Þórbergur Þórðarson"
-created: "15 July 2026"
-updated: "15 July 2026"
+title: "English translations of works by Þórbergur Þórðarson"
+created: "16 July 2026"
+updated: "16 July 2026"
 topics: [medieval, translation]
 ---
+
+A list of English translations of the works of Þórbergur Þórðarson (anglicized, Thorbergur Thordarson).
+
+> The Icelandic author Þórbergur Þórðarson was born on 12 March 1888 at the farm Hali in Suðursveit in South-East Iceland. He died in Reykjavík on 12 November 1974. Þórbergur is considered one of the major prose writers of 20th century Iceland. His book *Bréf til Láru* [A Letter to Lára], first published in 1924, heralded the beginning of modern Icelandic prose writing, along with the publication of Halldór Laxness’ *Vefarinn mikli frá Kasmír* [The Great Weaver from Kashmir] in 1927. The works of Þórbergur are diverse and resist genre classification; he is recognised for his stylistic genius, as well as his great sense of humour and irony. Most of his works have autobiographical roots but are mixed with fictional components and coloured by his vivid imagination.
+
+Birgisdóttir, Soffía Auður, "[Þórbergur Þórðarson](https://www.litencyc.com/php/speople.php?rec=true&UID=14859)," *The Literary Encyclopedia* (2025).
 
 ## Full books
 
@@ -12,7 +18,7 @@ topics: [medieval, translation]
 
 ## Selections / partial translations
 
-- Þórbergur Þórðarson, *In Search of My Beloved* (selected fragments from *Íslenzkur aðall*, 1938), trans. Kenneth G. Chapman (Twayne Publishers, 1967). An abridged selection, not the complete novel. Long out of print.
+- Þórbergur Þórðarson, *In Search of My Beloved* (selected fragments from *Íslenzkur aðall*, 1938), trans. Kenneth G. Chapman (Twayne Publishers, 1967). An abridged selection, long out of print. A review of the English translation was published by Haraldur Bessason in *Scandinavian Studies* Vol. 40, No. 2 (University of Wisconsin Press, 1968), pp. 173–175.
 
 ## Shorter pieces / excerpts
 
