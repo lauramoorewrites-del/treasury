@@ -9,7 +9,7 @@ notes:
     date: "28 Jun"
   - title: "Authors who disliked or didn't understand other authors' works"
     url: "/novelists-on-works-they-dislike/"
-    date: "27 Jun"
+    date: "15 Jul"
   - title: "Woolf on reading other writers"
     url: "/woolf-on-reading-other-writers/"
     date: "28 Jun"

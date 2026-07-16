@@ -15,7 +15,7 @@ notes:
     date: "27 Jun"
   - title: "Authors who disliked or didn't understand other authors' works"
     url: "/novelists-on-works-they-dislike/"
-    date: "27 Jun"
+    date: "15 Jul"
   - title: "Reading list"
     url: "/reading-list/"
     date: "27 Jun"

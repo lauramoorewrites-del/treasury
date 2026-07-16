@@ -4,6 +4,9 @@ title: "Translation"
 topic: "translation"
 permalink: /topics/translation/
 notes:
+  - title: "English translations of Þórbergur Þórðarson"
+    url: "/english-translations-of-thorbergur-thordarson/"
+    date: "15 Jul"
   - title: "On hevel and vanity"
     url: "/on-hevel-and-vanity/"
     date: "18 Jun"
@@ -19,6 +22,6 @@ see_also:
     url: "/topics/expression/"
   - title: "language"
     url: "/topics/language/"
-  - title: "religion"
-    url: "/topics/religion/"
+  - title: "medieval"
+    url: "/topics/medieval/"
 ---

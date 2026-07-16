@@ -9,7 +9,7 @@ notes:
     date: "28 Jun"
   - title: "Authors who disliked or didn't understand other authors' works"
     url: "/novelists-on-works-they-dislike/"
-    date: "27 Jun"
+    date: "15 Jul"
   - title: "The novel as a source of truth"
     url: "/the-novel-as-a-source-of-truth/"
     date: "27 Jun"
