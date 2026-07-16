@@ -4,9 +4,6 @@ title: "Medieval"
 topic: "medieval"
 permalink: /topics/medieval/
 notes:
-  - title: "English translations of Þórbergur Þórðarson"
-    url: "/english-translations-of-thorbergur-thordarson/"
-    date: "15 Jul"
   - title: "Icelandic storytelling tradition"
     url: "/icelandic-storytelling-tradition/"
     date: "15 Jul"
@@ -29,6 +26,4 @@ see_also:
     url: "/topics/hildegard-of-bingen/"
   - title: "memory"
     url: "/topics/memory/"
-  - title: "translation"
-    url: "/topics/translation/"
 ---

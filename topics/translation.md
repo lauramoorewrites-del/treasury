@@ -4,9 +4,9 @@ title: "Translation"
 topic: "translation"
 permalink: /topics/translation/
 notes:
-  - title: "English translations of Þórbergur Þórðarson"
+  - title: "English translations of works by Þórbergur Þórðarson"
     url: "/english-translations-of-thorbergur-thordarson/"
-    date: "15 Jul"
+    date: "16 Jul"
   - title: "On hevel and vanity"
     url: "/on-hevel-and-vanity/"
     date: "18 Jun"
@@ -14,6 +14,8 @@ notes:
     url: "/translating-thought-into-words/"
     date: "28 Jun"
 see_also:
+  - title: "authors"
+    url: "/topics/authors/"
   - title: "consciousness"
     url: "/topics/consciousness/"
   - title: "etymology"
@@ -22,6 +24,4 @@ see_also:
     url: "/topics/expression/"
   - title: "language"
     url: "/topics/language/"
-  - title: "medieval"
-    url: "/topics/medieval/"
 ---

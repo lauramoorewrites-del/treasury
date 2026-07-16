@@ -3,7 +3,7 @@ layout: default
 title: "English translations of works by Þórbergur Þórðarson"
 created: "16 July 2026"
 updated: "16 July 2026"
-topics: [medieval, translation]
+topics: [authors, translation]
 ---
 
 A list of English translations of the works of Þórbergur Þórðarson (anglicized, Thorbergur Thordarson).
