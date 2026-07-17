@@ -8,6 +8,9 @@ A growing collection of self-published essays is on [Strange Clarity](https://ww
 
 **2026**
 
+- [Iceland's Half-Million Names](https://www.strangeclarity.com/p/icelands-half-million-names) (Jul 2026)
+- [How to meander without getting lost](https://www.strangeclarity.com/p/how-to-meander-without-getting-lost) (Jun 2026)
+- [Encountering an ancient debate about brainrot](https://www.strangeclarity.com/p/encountering-an-ancient-debate-about) (Jun 2026)
 - [Would you play a video game about a medieval nun?](https://www.strangeclarity.com/p/would-you-play-a-video-game-about) (May 2026)
 - [What happens when I try to write fiction](https://www.strangeclarity.com/p/what-happens-when-i-try-to-write) (Apr 2026)
 - [The Category Error, Part 2: Life before breadwinners](https://www.strangeclarity.com/p/life-before-breadwinners) (Mar 2026)
