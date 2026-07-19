@@ -59,15 +59,3 @@ Editorial work:
 He is credited with over 100 individual scholarly articles on Old Russian historical narrative, biblical exegesis in medieval Slavic literature, chronographic traditions, the Palaea, and hagiography. A full article-level listing is maintained at Pushkin House but isn't available in a single public-facing source.
 
 None of the scholarly works have been translated into English.
-
-## English translations summary
-
-| English Title | Translator | Publisher | Year |
-|---|---|---|---|
-| *Laurus* | Lisa C. Hayden | Oneworld | 2015 |
-| *Solovyov and Larionov* | Lisa C. Hayden | Oneworld | 2018 |
-| *The Aviator* | Lisa C. Hayden | Oneworld | 2018 |
-| *Brisbane* | Marian Schwartz | Plough | 2022 |
-| *A History of the Island* | Lisa C. Hayden | Plough | 2023 |
-
-Five of eight novels have English translations. His first novel, *Chagin*, and the brand-new *Major Chistov* remain untranslated. None of his essay collections, plays, or scholarly works are available in English.
