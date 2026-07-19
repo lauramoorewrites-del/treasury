@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Collected reflections on cross-language literary translating"
-created: "16 July 2026"
-updated: "16 July 2026"
+created: "19 July 2026"
+updated: "19 July 2026"
 topics: [translation, authors]
 ---
 

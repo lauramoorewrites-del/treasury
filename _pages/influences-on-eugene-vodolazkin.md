@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Influences on Russian novelist Eugene Vodolazkin"
-created: "16 July 2026"
-updated: "16 July 2026"
+created: "19 July 2026"
+updated: "19 July 2026"
 topics: [authors, fiction]
 ---
 
