@@ -4,6 +4,9 @@ title: "Translation"
 topic: "translation"
 permalink: /topics/translation/
 notes:
+  - title: "Collected reflections on cross-language literary translating"
+    url: "/cross-language-literary-translating/"
+    date: "16 Jul"
   - title: "English translations of works by Þórbergur Þórðarson"
     url: "/english-translations-of-thorbergur-thordarson/"
     date: "16 Jul"
