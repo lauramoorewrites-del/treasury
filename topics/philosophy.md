@@ -9,7 +9,7 @@ notes:
     date: "28 Jun"
   - title: "Definitions of consciousness"
     url: "/definitions-of-consciousness/"
-    date: "28 Jun"
+    date: "19 Jul"
   - title: "Definitions of truth"
     url: "/definitions-of-truth/"
     date: "28 Jun"
