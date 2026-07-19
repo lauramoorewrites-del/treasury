@@ -6,7 +6,7 @@ updated: "19 July 2026"
 topics: [authors, fiction]
 ---
 
-From ["What History Cannot Teach Us: A Conversation with Eugene Vodolazkin and Lisa Hayden,"](https://lareviewofbooks.org/article/what-history-cannot-teach-us-a-conversation-with-eugene-vodolazkin-and-lisa-hayden/) *Los Angeles Review of Books*:
+From Maya Vinokour, ["What History Cannot Teach Us: A Conversation with Eugene Vodolazkin and Lisa Hayden,"](https://lareviewofbooks.org/article/what-history-cannot-teach-us-a-conversation-with-eugene-vodolazkin-and-lisa-hayden/) *Los Angeles Review of Books* (interview):
 
 > The great literary scholar Sergei Averintsev once said that it's very dangerous when people begin to sing in unison, like in a choir — even if they're singing good-sounding words. He said, words can change, but the habit of singing together will remain. For example, in Stalinism, what we had was a kind of total choir, in the sense of "totalitarianism." And the only way to avoid disaster was to preserve your own personal voice.
 
