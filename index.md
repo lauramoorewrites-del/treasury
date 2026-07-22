@@ -6,7 +6,7 @@ intro2: "A complement to my essays, collected here:"
 recent:
   - title: "Hospitality as a framework for receiving art"
     url: "/hospitality-as-a-framework-for-receiving-art/"
-    date: "19 Jul"
+    date: "22 Jul"
   - title: "List of literary works of Eugene Vodolazkin"
     url: "/literary-works-of-eugene-vodolazkin/"
     date: "19 Jul"

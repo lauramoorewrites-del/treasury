@@ -1,12 +1,12 @@
 ---
 layout: default
 title: "Hospitality as a framework for receiving art"
-created: "19 July 2026"
-updated: "19 July 2026"
+created: "22 July 2026"
+updated: "22 July 2026"
 topics: [creativity, epistemology]
 ---
 
-Two unrelated posts appeared adjacently in my feed, which happily invited me to read them through each other. The tie that binds a 12th-century German monk's letter and Christopher Nolan's *The Odyssey* is hospitality.
+Two unrelated posts had appeared adjacently in my feed, which happily invited me to read them through each other. The tie that binds a 12th-century German monk's letter and Christopher Nolan's *The Odyssey* is hospitality.
 
 The first is a letter by Hugh of St. Victor, unearthed by L. M. Sacasas:
 
