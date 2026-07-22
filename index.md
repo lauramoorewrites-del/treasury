@@ -167,5 +167,7 @@ topic_list:
   - thinking tools
   - translation
   - vision
+  - virginia woolf
+  - eugene vodolazkin
   - zadie smith
 ---
