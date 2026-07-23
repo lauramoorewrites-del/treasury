@@ -158,6 +158,7 @@ topic_list:
   - gender
   - hildegard of bingen
   - indirectness
+  - insight
   - language
   - medieval
   - memory

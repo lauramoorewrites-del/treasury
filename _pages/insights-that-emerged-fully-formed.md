@@ -3,7 +3,7 @@ layout: default
 title: "Creators and scientists who had insights that emerged fully formed"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [creativity, consciousness]
+topics: [creativity, consciousness, insight]
 ---
 
 - Samuel Taylor Coleridge and *Kubla Khan* (1816). *"All the images rose up before him as things, with a parallel production of the correspondent expressions, without any sensation or consciousness of effort."*
