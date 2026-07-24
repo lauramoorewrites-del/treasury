@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Books that make connections between things"
+title: "Books that unfold through connection-making"
 
 created: "25 June 2026"
 updated: "25 June 2026"
