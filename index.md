@@ -1,8 +1,8 @@
 ---
 layout: home
 title: "Moore’s Treasury"
-intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about."
-intro2: "A complement to my essays, collected here:"
+intro: "What you see is an experiment I began in June 2026, inspired by the digital gardening projects of [Maggie Appleton](https://maggieappleton.com/nontechnical-gardening) and others as well as medieval conceptions of memory as a treasure-house. It's a living experiment."
+intro2: "You'll find all manner of lists, loose assocations, sketched ideas, and brief reactions. These entries are a complement to my more fully-realized thinking expressed in my essays, collected here:"
 recent:
   - title: "The sensibilities of writers"
     url: "/the-sensibility-of-writers/"
