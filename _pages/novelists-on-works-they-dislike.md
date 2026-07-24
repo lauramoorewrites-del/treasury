@@ -2,7 +2,7 @@
 layout: default
 title: "Authors who disliked or didn't understand other authors' works"
 created: "27 June 2026"
-updated: "15 July 2026"
+updated: "24 July 2026"
 topics: [fiction, novels, reading, authors]
 ---
 
