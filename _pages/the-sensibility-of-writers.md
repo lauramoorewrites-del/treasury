@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "The sensibility of writers"
+title: "The sensibilities of writers"
 created: "23 July 2026"
 updated: "23 July 2026"
-topics: [creativity, craft]
+topics: [authors]
 related:
   - title: "When another's style obstructs your own"
     url: "/when-anothers-style-obstructs-your-own/"

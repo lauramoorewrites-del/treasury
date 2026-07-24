@@ -4,7 +4,7 @@ title: "Moore’s Treasury"
 intro: "A personal treasury of things to be remembered — observations, references, nascent ideas, and things I want to think more about."
 intro2: "A complement to my essays, collected here:"
 recent:
-  - title: "The sensibility of writers"
+  - title: "The sensibilities of writers"
     url: "/the-sensibility-of-writers/"
     date: "23 Jul"
   - title: "When another's style obstructs your own"
