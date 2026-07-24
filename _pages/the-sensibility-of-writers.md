@@ -3,7 +3,7 @@ layout: default
 title: "The sensibilities of writers"
 created: "24 July 2026"
 updated: "24 July 2026"
-topics: [authors]
+topics: [authors, zadie smith]
 related:
   - title: "When another's style obstructs your own"
     url: "/when-anothers-style-obstructs-your-own/"
