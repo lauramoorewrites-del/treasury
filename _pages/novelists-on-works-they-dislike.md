@@ -10,7 +10,7 @@ topics: [fiction, novels, reading, authors]
 
 > I think that the Brontës probably encouraged my own delusions of theatricality. Something about George Eliot attracted me a great deal. I think I was not temperamentally attuned to either Jane Austen or Virginia Woolf.
 
-— Joan Didion, "Joan Didion, The Art of Fiction No. 71," *The Paris Review* (1978).
+— Joan Didion, "Joan Didion, The Art of Fiction No. 71," [*The Paris Review*](https://www.theparisreview.org/interviews/3439/the-art-of-fiction-no-71-joan-didion) (1978).
 
 **Cormac McCarthy.**
 
