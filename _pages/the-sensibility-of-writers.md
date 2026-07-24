@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "The sensibilities of writers"
-created: "23 July 2026"
-updated: "23 July 2026"
+created: "24 July 2026"
+updated: "24 July 2026"
 topics: [authors]
 related:
   - title: "When another's style obstructs your own"

@@ -6,7 +6,7 @@ intro2: "A complement to my essays, collected here:"
 recent:
   - title: "The sensibilities of writers"
     url: "/the-sensibility-of-writers/"
-    date: "23 Jul"
+    date: "24 Jul"
   - title: "When another's style obstructs your own"
     url: "/when-anothers-style-obstructs-your-own/"
     date: "23 Jul"
