@@ -136,7 +136,7 @@ recent:
   - title: "Selected critical reviews of Zadie Smith"
     url: "/critical-reviews-of-zadie-smith/"
     date: "27 Jun"
-  - title: "Books that make connections between things"
+  - title: "Books that unfold through connection-making"
     url: "/books-that-makes-connections/"
     date: "25 Jun"
   - title: "Zadie Smith’s rectangle essays"
