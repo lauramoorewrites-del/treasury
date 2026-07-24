@@ -9,7 +9,9 @@ related:
     url: "/when-anothers-style-obstructs-your-own/"
 ---
 
-> We cannot be all the writers all the time. We can only be who we are. Which leads me to my second point: writers do not write what they want, they write what they can. When I was 21 I wanted to write like Kafka. But, unfortunately for me, I wrote like a script editor for The Simpsons who'd briefly joined a religious cult and then discovered Foucault.
+Zadie Smith on her own constraints as a writer:
+
+> We cannot be all the writers all the time. We can only be who we are. Which leads me to my second point: writers do not write what they want, they write what they can. When I was 21 I wanted to write like Kafka. But, unfortunately for me, I wrote like a script editor for *The Simpsons* who'd briefly joined a religious cult and then discovered Foucault.
 
 — Zadie Smith, "This Is How It Feels to Me," *The Guardian* (2001).
 
