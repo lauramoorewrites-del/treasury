@@ -234,6 +234,21 @@ h1 {
   color: #4a4233;
 }
 
+/* Editorial — the curator's voice */
+.editorial {
+  font-family: 'Newsreader', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.6;
+  color: #6b6253;
+  border-left: 2px solid #b8937a;
+  padding-left: 20px;
+  margin: 20px 0;
+}
+
+.editorial p { margin: 0 0 10px; }
+.editorial p:last-child { margin-bottom: 0; }
+
 /* Related notes */
 .related-notes { margin-top: 28px; }
 .related-notes .section-label { margin: 0 0 10px; }
