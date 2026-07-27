@@ -20,7 +20,11 @@ The second is a review by Sarah Ditum of Nolan's *The Odyssey*. The film's premi
 
 > The collapse of arts criticism and the rise of "problematics" in its place is a paradigm of that decline. In the twentieth century, the job of the arts critic was more or less to be a good host to the work they encountered. I am not saying that this rule was universally observed (the kicking has always existed, and often been ideologically motivated), but the imperative was to understand works of art on their own terms first.
 
+<div class="editorial">
+
 Ditum describes the critic as host; Hugh writes as a gracious guest: arriving as a foreigner, being received as a friend, filling his heart with more than it can hold and feeling himself "warmed" long after he left. That attitude is what Ditum argues we've lost: to be open to what we encounter in a "strange land" instead of looking at it sideways, wary of a Trojan horse.
+
+</div>
 
 ---
 
