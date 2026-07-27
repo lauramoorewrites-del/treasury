@@ -6,7 +6,7 @@ intro2: "You'll find all manner of lists, loose assocations, sketched ideas, and
 recent:
   - title: "What individual literary style consists of"
     url: "/what-individual-literary-style-consists-of/"
-    date: "24 Jul"
+    date: "25 Jul"
   - title: "The sensibilities of writers"
     url: "/the-sensibility-of-writers/"
     date: "24 Jul"

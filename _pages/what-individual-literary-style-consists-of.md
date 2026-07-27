@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "What individual literary style consists of"
-created: "24 July 2026"
-updated: "24 July 2026"
+created: "25 July 2026"
+updated: "25 July 2026"
 topics: [craft, zadie smith]
 related:
   - title: "The sensibilities of writers"
