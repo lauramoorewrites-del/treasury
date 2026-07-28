@@ -14,8 +14,4 @@ From George Eliot's (Marian Evans's) piece "How I came to write fiction":
 >
 > But when we returned to Richmond I had to write my article on "Silly Novels," and my review of Contemporary Literature for the Westminster, so that I did not begin my story till September 22. After I had begun it, as we were walking in the park, I mentioned to G. that I had thought of the plan of writing a series of stories, containing sketches drawn from my own observation of the clergy, and calling them "Scenes from Clerical Life," opening with "Amos Barton." He at once accepted the notion as a good one—fresh and striking; and about a week afterwards, when I read him the first part of "Amos," he had no longer any doubt about my ability to carry out the plan. The scene at Cross Farm, he said, satisfied him that I had the very element he had been doubtful about—it was clear I could write good dialogue. There still remained the question whether I could command any pathos; and that was to be decided by the mode in which I treated Milly's death. One night G. went to town on purpose to leave me a quiet evening for writing it. I wrote the chapter from the news brought by the shepherd to Mrs. Hackit, to the moment when Amos is dragged from the bedside, and I read it to G. when he came home. We both cried over it, and then he came up to me and kissed me, saying, "I think your pathos is better than your fun."
 
----
-
-References:
-
-- George Eliot, "How I came to write fiction," collected in [*George Eliot's Life, Volume 1*](https://www.gutenberg.org/files/43043/43043-h/43043-h.htm), ed. J. W. Cross.
+— George Eliot, "How I came to write fiction," collected in [*George Eliot's Life, Volume 1*](https://www.gutenberg.org/files/43043/43043-h/43043-h.htm), ed. J. W. Cross.
