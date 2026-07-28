@@ -3,7 +3,7 @@ layout: default
 title: "George Eliot's uncertain path to writing fiction"
 created: "25 July 2026"
 updated: "25 July 2026"
-topics: [authors, creativity]
+topics: [authors, fiction]
 ---
 
 From George Eliot's (Marian Evans's) piece "How I came to write fiction":
