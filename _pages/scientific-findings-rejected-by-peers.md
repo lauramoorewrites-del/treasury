@@ -2,7 +2,7 @@
 layout: default
 title: "Scientific findings rejected by contemporary peers"
 created: "27 June 2026"
-updated: "27 June 2026"
+updated: "28 July 2026"
 topics: [science]
 ---
 
