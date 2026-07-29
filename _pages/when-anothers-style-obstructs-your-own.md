@@ -16,13 +16,19 @@ Sometimes when I read someone whose style is wonderful but so far apart from my 
 
 Whether you read others' writing while you write is a frequent topic of writerly self-reflection. George Eliot and Joan Didion discuss the traps.
 
+**George Eliiot.**
+
 > And the other day, having a bad headache, I did what I have sometimes done before at intervals of five or six years—looked into three or four novels to see what the world was reading. The effect was paralyzing, and certainly justifies me in that abstinence from novel-reading which, I fear, makes me seem supercilious or churlish to the many persons who send me their books, or ask me about their friends' books. To be delivered from all doubts as to one's justification in writing at this stage of the world, one should have either a plentiful faith in one's own exceptionalness, or a plentiful lack of money.
+
+— George Eliot, Letter to John Blackwood, 8th Aug. 1874 (Eliot's primary publisher), collected in *[George Eliot's Life](https://www.gutenberg.org/files/43043/43043-h/43043-h.htm)*.
 
 *And*
 
 > But when I am writing, or only thinking of writing, fiction of my own, I cannot risk the reading of other English fiction. I was obliged to tell Anthony Trollope so when he sent me the first part of his "Prime Minister," though this must seem sadly ungracious to those who don't share my susceptibilities.
 
-— George Eliot, Letter to John Blackwood, 8th Aug. 1874, collected in *[George Eliot's Life](https://www.gutenberg.org/files/43043/43043-h/43043-h.htm)*.
+— George Eliot, Letter to John Blackwood,  15th Dec. 1875, collected in *[George Eliot's Life](https://www.gutenberg.org/files/43043/43043-h/43043-h.htm)*.
+
+**Joan Didion.**
 
 > **INTERVIEWER:** You've called Henry James an influence.
 >
@@ -30,7 +36,7 @@ Whether you read others' writing while you write is a frequent topic of writerly
 
 — Joan Didion, ["The Art of Fiction No. 71,"](https://www.theparisreview.org/interviews/3439/the-art-of-fiction-no-71-joan-didion) *The Paris Review*.
 
-On the other hand, reading others' work is generative for Zadie Smith.
+On the other hand, reading others' work is generative for **Zadie Smith.**
 
 > Some writers are the kind of solo violinists who need complete silence to tune their instruments. Others want to hear every member of the orchestra—they’ll take a cue from a clarinet, from an oboe, even. I am one of those. My writing desk is covered in open novels. I read lines to swim in a certain sensibility, to strike a particular note, to encourage rigor when I’m too sentimental, to bring verbal ease when I’m syntactically uptight. I think of reading like a balanced diet; if your sentences are baggy, too baroque, cut back on fatty Foster Wallace, say, and pick up Kafka, as roughage. If your aesthetic has become so refined it is stopping you from placing a single black mark on white paper, stop worrying so much about what Nabokov would say; pick up Dostoyevsky, patron saint of substance over style.
 
