@@ -16,7 +16,7 @@ recent:
   - title: "The sensibilities of writers"
     url: "/the-sensibility-of-writers/"
     date: "24 Jul"
-  - title: "When another's style obstructs your own"
+  - title: "When another's writing obstructs your own"
     url: "/when-anothers-style-obstructs-your-own/"
     date: "23 Jul"
   - title: "On the limits of truth-telling"
