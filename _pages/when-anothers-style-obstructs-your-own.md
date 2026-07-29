@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "When another's style obstructs your own"
+title: "When another's writing obstructs your own"
 created: "23 July 2026"
-updated: "23 July 2026"
+updated: "29 July 2026"
 topics: [creativity, craft]
 related:
   - title: "Woolf on reading other writers"
@@ -11,10 +11,14 @@ related:
     url: "/ira-glass-on-taste-killing-motivation/"
 ---
 
+Sometimes when I read someone whose style is wonderful but so far apart from my own, it's intimidating, even obstructing. Because I think, I could never, ever write like that. The tonic is to read something closer to your own style, and see its power and value, too.
+
+> And the other day, having a bad headache, I did what I have sometimes done before at intervals of five or six years—looked into three or four novels to see what the world was reading. The effect was paralyzing, and certainly justifies me in that abstinence from novel-reading which, I fear, makes me seem supercilious or churlish to the many persons who send me their books, or ask me about their friends' books. To be delivered from all doubts as to one's justification in writing at this stage of the world, one should have either a plentiful faith in one's own exceptionalness, or a plentiful lack of money.
+
+— George Eliot, Letter to John Blackwood, 8th Aug. 1874, collected in *[George Eliot's Life](https://www.gutenberg.org/files/43043/43043-h/43043-h.htm)*.
+
 > **INTERVIEWER:** You've called Henry James an influence.
 >
 > **DIDION:** He wrote perfect sentences, too, but very indirect, very complicated. Sentences with sinkholes. You could drown in them. I wouldn't dare to write one. I'm not even sure I'd dare to read James again. I loved those novels so much that I was paralyzed by them for a long time. All those possibilities. All that perfectly reconciled style. It made me afraid to put words down.
 
 — Joan Didion, ["The Art of Fiction No. 71,"](https://www.theparisreview.org/interviews/3439/the-art-of-fiction-no-71-joan-didion) *The Paris Review*.
-
-Sometimes when I read someone whose style is wonderful but so far apart from my own, it's intimidating, even obstructing. Because I think, I could never, ever write like that. The tonic is to read something closer to your own style, and see its power and value, too.
