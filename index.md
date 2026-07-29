@@ -192,6 +192,7 @@ topic_list:
   - reading lists
   - religion
   - science
+  - sound
   - thinking tools
   - translation
   - vision
