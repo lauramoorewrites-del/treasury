@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 18
 title: "Donna Haraway’s god trick"
 created: "27 June 2026"
 updated: "27 June 2026"

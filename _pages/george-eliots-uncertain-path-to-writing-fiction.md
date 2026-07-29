@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 53
 title: "George Eliot's uncertain path to writing fiction"
 created: "25 July 2026"
 updated: "25 July 2026"

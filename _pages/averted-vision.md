@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 12
 title: "Averted vision, a technique for seeing in astronomy"
 created: "27 June 2026"
 updated: "27 June 2026"

@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 31
 title: "Zadie Smith’s theories of fiction and writing"
 created: "27 June 2026"
 updated: "25 July 2026"

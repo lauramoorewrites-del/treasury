@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 52
 title: "The sensibilities of writers"
 created: "24 July 2026"
 updated: "24 July 2026"

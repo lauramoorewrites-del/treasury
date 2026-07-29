@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 28
 title: "The novel as a source of truth"
 created: "27 June 2026"
 updated: "27 June 2026"

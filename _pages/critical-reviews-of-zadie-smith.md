@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 25
 title: "Selected critical reviews of Zadie Smith"
 created: "27 June 2026"
 updated: "27 June 2026"

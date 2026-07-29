@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 48
 title: "Hospitality as a framework for receiving art"
 created: "22 July 2026"
 updated: "22 July 2026"

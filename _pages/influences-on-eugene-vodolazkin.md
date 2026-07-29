@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 46
 title: "Influences on Russian novelist Eugene Vodolazkin"
 created: "19 July 2026"
 updated: "19 July 2026"

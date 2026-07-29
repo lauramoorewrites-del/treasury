@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 41
 title: "Woolf on reading other writers"
 created: "28 June 2026"
 updated: "28 June 2026"

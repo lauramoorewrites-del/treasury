@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 40
 title: "The medieval anchorhold at Disibodenberg"
 created: "28 June 2026"
 updated: "28 June 2026"

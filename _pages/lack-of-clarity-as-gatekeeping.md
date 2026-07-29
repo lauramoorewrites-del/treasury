@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 19
 title: "List of essays where lack of clarity is argued as gatekeeping"
 created: "27 June 2026"
 updated: "27 June 2026"

@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 37
 title: "How consciousness deceives us"
 created: "28 June 2026"
 updated: "28 June 2026"

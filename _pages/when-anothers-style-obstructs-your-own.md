@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 51
 title: "When another's writing obstructs your own"
 created: "23 July 2026"
 updated: "29 July 2026"

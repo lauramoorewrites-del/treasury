@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 17
 title: "Definitions of consciousness"
 created: "27 June 2026"
 updated: "19 July 2026"

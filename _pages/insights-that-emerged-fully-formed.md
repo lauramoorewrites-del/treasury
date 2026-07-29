@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 15
 title: "Creators and scientists who had insights that emerged fully formed"
 created: "27 June 2026"
 updated: "27 June 2026"

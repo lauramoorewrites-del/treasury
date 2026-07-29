@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 54
 title: "The practice of keeping notebooks"
 created: "25 July 2026"
 updated: "25 July 2026"

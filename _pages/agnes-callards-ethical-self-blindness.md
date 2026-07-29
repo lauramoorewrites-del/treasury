@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 32
 title: "Agnes Callard’s theory of ethical self-blindness"
 created: "28 June 2026"
 updated: "28 June 2026"

@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 36
 title: "Definitions of truth"
 created: "28 June 2026"
 updated: "28 June 2026"

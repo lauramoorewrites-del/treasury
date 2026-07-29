@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 2
 title: "On hevel and vanity"
 
 created: "18 June 2026"

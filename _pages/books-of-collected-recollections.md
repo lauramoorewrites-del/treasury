@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 14
 title: "Books that collect other people’s recollections about a historical figure"
 created: "27 June 2026"
 updated: "27 June 2026"

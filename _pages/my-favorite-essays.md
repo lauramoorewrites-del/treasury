@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 23
 title: "My favorite essays"
 created: "27 June 2026"
 updated: "27 June 2026"

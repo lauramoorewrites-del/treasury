@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 4
 title: "Ira Glass on taste killing motivation"
 
 created: "19 June 2026"

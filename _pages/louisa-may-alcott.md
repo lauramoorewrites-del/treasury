@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 5
 title: "Louisa May Alcott and Bronson Alcott and gender nonconformity"
 
 created: "19 June 2026"

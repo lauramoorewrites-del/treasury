@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 39
 title: Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'
 created: "28 June 2026"
 updated: "28 June 2026"

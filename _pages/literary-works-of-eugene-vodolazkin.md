@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 47
 title: "List of literary works of Eugene Vodolazkin"
 created: "19 July 2026"
 updated: "19 July 2026"

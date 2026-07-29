@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 38
 title: "List of outdated DSM pathologies"
 created: "28 June 2026"
 updated: "28 June 2026"

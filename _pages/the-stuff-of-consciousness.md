@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 29
 title: "The stuff of consciousness (what it’s made of)"
 created: "27 June 2026"
 updated: "27 June 2026"

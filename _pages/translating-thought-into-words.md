@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 33
 title: "Collected reflections on translating thought into words"
 created: "28 June 2026"
 updated: "28 June 2026"

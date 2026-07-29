@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 55
 title: "What individual literary style consists of"
 created: "25 July 2026"
 updated: "25 July 2026"

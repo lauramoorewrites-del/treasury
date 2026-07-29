@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 49
 title: "Notions of self"
 created: "23 July 2026"
 updated: "23 July 2026"

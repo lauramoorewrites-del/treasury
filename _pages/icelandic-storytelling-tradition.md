@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 42
 title: "Icelandic storytelling tradition"
 created: "15 July 2026"
 updated: "15 July 2026"

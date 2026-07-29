@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 35
 title: "Critics on what makes art great"
 created: "28 June 2026"
 updated: "28 June 2026"

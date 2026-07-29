@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 6
 title: "List of my personal touchstones"
 created: "23 June 2026"
 updated: "27 June 2026"

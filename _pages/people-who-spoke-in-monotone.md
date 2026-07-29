@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 20
 title: "List of people who spoke flatly, in monotone"
 created: "27 June 2026"
 updated: "27 June 2026"

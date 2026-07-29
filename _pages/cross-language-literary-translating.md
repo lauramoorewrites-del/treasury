@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 45
 title: "Collected reflections on cross-language literary translating"
 created: "19 July 2026"
 updated: "19 July 2026"

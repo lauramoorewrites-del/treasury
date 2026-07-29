@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 27
 title: "Talking about a latent conceptual presence"
 created: "27 June 2026"
 updated: "27 June 2026"

@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 44
 title: "English translations of works by Þórbergur Þórðarson"
 created: "16 July 2026"
 updated: "16 July 2026"

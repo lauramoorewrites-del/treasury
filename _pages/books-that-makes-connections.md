@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 8
 title: "Books that unfold through connection-making"
 
 created: "25 June 2026"

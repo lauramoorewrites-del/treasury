@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 34
 title: "Critics calling characters unreal, untrue, and unconvincing"
 created: "28 June 2026"
 updated: "28 June 2026"

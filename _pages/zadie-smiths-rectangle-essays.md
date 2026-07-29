@@ -1,5 +1,6 @@
 ---
 layout: default
+id: 7
 title: "Zadie Smith’s rectangle essays"
 
 created: "24 June 2026"
