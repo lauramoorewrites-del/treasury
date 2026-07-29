@@ -18,6 +18,10 @@ Whether you read others' writing while you write is a frequent topic of writerly
 
 > And the other day, having a bad headache, I did what I have sometimes done before at intervals of five or six years—looked into three or four novels to see what the world was reading. The effect was paralyzing, and certainly justifies me in that abstinence from novel-reading which, I fear, makes me seem supercilious or churlish to the many persons who send me their books, or ask me about their friends' books. To be delivered from all doubts as to one's justification in writing at this stage of the world, one should have either a plentiful faith in one's own exceptionalness, or a plentiful lack of money.
 
+*And*
+
+> But when I am writing, or only thinking of writing, fiction of my own, I cannot risk the reading of other English fiction. I was obliged to tell Anthony Trollope so when he sent me the first part of his "Prime Minister," though this must seem sadly ungracious to those who don't share my susceptibilities.
+
 — George Eliot, Letter to John Blackwood, 8th Aug. 1874, collected in *[George Eliot's Life](https://www.gutenberg.org/files/43043/43043-h/43043-h.htm)*.
 
 > **INTERVIEWER:** You've called Henry James an influence.
