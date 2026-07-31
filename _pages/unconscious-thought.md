@@ -4,7 +4,7 @@ id: 58
 title: "Unconscious thought"
 created: "31 July 2026"
 updated: "31 July 2026"
-topics: [consciousness, philosophy]
+topics: [unconscious, philosophy]
 related:
   - title: "Book: The Unconscious of Thought in Leibniz, Spinoza, and Hume, by Gil Morejón"
     url: "/the-unconscious-of-thought/"
