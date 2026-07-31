@@ -4,6 +4,9 @@ title: "Moore’s Treasury"
 intro: What you see is an experiment I began in June 2026, inspired by the digital gardening projects of <a href="https://maggieappleton.com/nontechnical-gardening">Maggie Appleton</a> and others as well as medieval conceptions of memory as a treasure-house. It’s a living experiment, a garden I'll tend as the inclination finds me.
 intro2: "You'll find all manner of lists, loose assocations, sketched ideas, and brief reactions. These entries are a complement to my more fully-realized thinking expressed in my essays, collected here:"
 recent:
+  - title: "The permission to criticize"
+    url: "/the-permission-to-criticize/"
+    date: "29 Jul"
   - title: "'Radiation from that narrow circle' and other accounts of borrowed vision"
     url: "/radiation-from-that-narrow-circle/"
     date: "29 Jul"
