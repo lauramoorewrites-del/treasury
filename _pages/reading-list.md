@@ -16,6 +16,7 @@ Running list of texts to read, with source and date recorded.
 - Martin Amis’s essays. Source: [Zadie Smith](/treasury/topics/zadie-smith/): *“I read Carver. Julio Cortázar. Amis’s essays. Baldwin. Lorrie Moore. Capote. Saramago. Larkin. Wodehouse. Anything, anything at all, that doesn’t sound like me.”* Recorded 26 June 2026.
 - Gottfried Wilhelm Leibniz, [Preface to *New Essays on Human Understanding*](https://www.earlymoderntexts.com/assets/pdfs/leibniz1705a.pdf) (1704). Recorded 27 June 2026.
 - Gil Morejón, [*The Unconscious of Thought in Leibniz, Spinoza, and Hume*](/treasury/the-unconscious-of-thought/) (Edinburgh University Press, 2023). Recorded 27 June 2026.
+- Juliana Spahr, [*Ars Poeticas*](https://bookshop.org/search?q=9780819501523) (Wesleyan University Press, 2025). Winner of the 2026 Pulitzer Prize in Poetry. Personal recommendation. Recorded 31 July 2026.
 - David Foster Wallace, “Forever Overhead.” Source: Zadie Smith: *“If I could choose one story to be printed alongside this article as demonstration, it would be Foster Wallace’s ‘Forever Overhead’, a 10-page effort that has come to obsess me quite as much as the miserable death of poor, terminally middle-class Ivan.”* Recorded 26 June 2026.
 
 ## Read
