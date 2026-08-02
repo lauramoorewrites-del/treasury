@@ -4,6 +4,8 @@ title: "Authors"
 topic: "authors"
 permalink: /topics/authors/
 subtopics:
+  - title: "Emily Dickinson"
+    url: "/topics/emily-dickinson/"
   - title: "Eugene Vodolazkin"
     url: "/topics/eugene-vodolazkin/"
   - title: "Virginia Woolf"

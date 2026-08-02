@@ -4,7 +4,7 @@ id: 59
 title: "Emily Dickinson seeking external endorsement"
 created: "2 August 2026"
 updated: "2 August 2026"
-topics: [authors, craft]
+topics: [authors, craft, emily dickinson]
 ---
 
 > Mr. Higginson,
