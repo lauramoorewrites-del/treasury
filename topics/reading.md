@@ -4,6 +4,9 @@ title: "Reading"
 topic: "reading"
 permalink: /topics/reading/
 notes:
+  - title: "An inability to remember the specifics of books and movies and other forms of narrative"
+    url: "/an-inability-to-remember-the-specifics/"
+    date: "6 Aug"
   - title: "Books that collect other people’s recollections about a historical figure"
     url: "/books-of-collected-recollections/"
     date: "27 Jun"

@@ -4,6 +4,9 @@ title: "Creativity"
 topic: "creativity"
 permalink: /topics/creativity/
 notes:
+  - title: "An inability to remember the specifics of books and movies and other forms of narrative"
+    url: "/an-inability-to-remember-the-specifics/"
+    date: "6 Aug"
   - title: "Critics on what makes art great"
     url: "/critics-on-what-makes-art-great/"
     date: "28 Jun"

@@ -15,6 +15,9 @@ subtopics:
   - title: "Þórbergur Þórðarson"
     url: "/english-translations-of-thorbergur-thordarson/"
 notes:
+  - title: "An inability to remember the specifics of books and movies and other forms of narrative"
+    url: "/an-inability-to-remember-the-specifics/"
+    date: "6 Aug"
   - title: "Authors who disliked or didn't understand other authors' works"
     url: "/novelists-on-works-they-dislike/"
     date: "15 Jul"
