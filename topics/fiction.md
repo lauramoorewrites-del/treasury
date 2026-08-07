@@ -4,6 +4,9 @@ title: "Fiction"
 topic: "fiction"
 permalink: /topics/fiction/
 notes:
+  - title: "Sensory sensitivity"
+    url: "/sensory-sensitivity/"
+    date: "7 Aug"
   - title: "Critics calling characters unreal, untrue, and unconvincing"
     url: "/critics-calling-characters-unreal/"
     date: "28 Jun"

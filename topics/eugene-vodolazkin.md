@@ -4,6 +4,9 @@ title: "Eugene Vodolazkin"
 topic: "eugene vodolazkin"
 permalink: /topics/eugene-vodolazkin/
 notes:
+  - title: "Sensory sensitivity"
+    url: "/sensory-sensitivity/"
+    date: "7 Aug"
   - title: "List of literary works of Eugene Vodolazkin"
     url: "/literary-works-of-eugene-vodolazkin/"
     date: "19 Jul"
