@@ -6,7 +6,8 @@ created: "15 August 2026"
 updated: "15 August 2026"
 topics: [authors, creativity]
 related:
-  - george-eliots-uncertain-path-to-writing-fiction
+  - title: "George Eliot’s uncertain path to writing fiction"
+    url: "/george-eliots-uncertain-path-to-writing-fiction/"
 ---
 
 - George Eliot (Marian Evans) did not begin writing fiction until September 1856, at age thirty-six. She had spent years as a translator, essayist, and editor of the *Westminster Review*, and had long believed she lacked dramatic power. It was George Henry Lewes who urged her to try: *"You must try and write a story."* Her first effort, "The Sad Fortunes of the Reverend Amos Barton," became the opening of *Scenes of Clerical Life* (1858). *Middlemarch* followed fourteen years later. See also [George Eliot’s uncertain path to writing fiction](/treasury/george-eliots-uncertain-path-to-writing-fiction/).
