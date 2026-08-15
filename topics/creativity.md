@@ -4,6 +4,9 @@ title: "Creativity"
 topic: "creativity"
 permalink: /topics/creativity/
 notes:
+  - title: "Creators who began late"
+    url: "/creators-who-began-late/"
+    date: "15 Aug"
   - title: "An inability to remember the specifics of books and movies and other forms of narrative"
     url: "/an-inability-to-remember-the-specifics/"
     date: "6 Aug"
