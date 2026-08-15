@@ -15,6 +15,9 @@ subtopics:
   - title: "Þórbergur Þórðarson"
     url: "/english-translations-of-thorbergur-thordarson/"
 notes:
+  - title: "Famous collections of private correspondence"
+    url: "/famous-collections-of-private-correspondence/"
+    date: "15 Aug"
   - title: "Creators who began late"
     url: "/creators-who-began-late/"
     date: "15 Aug"
