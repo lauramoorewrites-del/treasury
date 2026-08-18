@@ -3,7 +3,7 @@ layout: default
 id: 9
 title: "Reading list"
 created: "26 June 2026"
-updated: "15 August 2026"
+updated: "18 August 2026"
 topics: [reading]
 ---
 
@@ -18,6 +18,7 @@ Running list of texts to read, with source and date recorded.
 - Gil Morejón, [*The Unconscious of Thought in Leibniz, Spinoza, and Hume*](/treasury/the-unconscious-of-thought/) (Edinburgh University Press, 2023). Recorded 27 June 2026.
 - Juliana Spahr, [*Ars Poeticas*](https://bookshop.org/search?q=9780819501523) (Wesleyan University Press, 2025). Winner of the 2026 Pulitzer Prize in Poetry. Personal recommendation. Recorded 31 July 2026.
 - Javier Marías, [*Written Lives*](https://bookshop.org/search?q=written+lives+javier+marias) (1992; English translation 2006). A collection of short essays compiling biographical information about the lives of various extremely famous authors. Source: Alexander Fayne, [“Out of Character”](https://alexanderfayne.substack.com/p/out-of-character). Recorded 15 August 2026.
+- Ivan Illich, [*In the Vineyard of the Text: A Commentary to Hugh’s Didascalicon*](https://bookshop.org/search?q=9780226372365) (University of Chicago Press, 1993). Source: a Substack Note. Recorded 18 August 2026.
 - David Foster Wallace, “Forever Overhead.” Source: Zadie Smith: *“If I could choose one story to be printed alongside this article as demonstration, it would be Foster Wallace’s ‘Forever Overhead’, a 10-page effort that has come to obsess me quite as much as the miserable death of poor, terminally middle-class Ivan.”* Recorded 26 June 2026.
 
 ## Read
