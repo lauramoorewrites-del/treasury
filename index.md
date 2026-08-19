@@ -4,6 +4,9 @@ title: "Moore’s Treasury"
 intro: What you see is an experiment I began in June 2026, inspired by the digital gardening projects of <a href="https://maggieappleton.com/nontechnical-gardening">Maggie Appleton</a> and others as well as medieval conceptions of memory as a treasure-house. It’s a living experiment, a garden I'll tend as the inclination finds me.
 intro2: "You'll find all manner of lists, loose assocations, sketched ideas, and brief reactions. These entries are a complement to my more fully-realized thinking expressed in my essays, collected here:"
 recent:
+  - title: "The style of portrait artist Michael Shane Neal"
+    url: "/the-style-of-portrait-artist-michael-shane-neal/"
+    date: "19 Aug"
   - title: "Reading list"
     url: "/reading-list/"
     date: "18 Aug"
@@ -186,6 +189,9 @@ recent:
     url: "/ira-glass-on-taste-killing-motivation/"
     date: "19 Jun"
 topic_list:
+  - aesthetic taste
+  - art
+  - artists' studios
   - authors
   - commonplace books
   - consciousness
@@ -209,6 +215,7 @@ topic_list:
   - nonconformity
   - novels
   - philosophy
+  - portraiture
   - psychology
   - reading
   - reading lists
