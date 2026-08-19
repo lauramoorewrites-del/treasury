@@ -21,7 +21,7 @@ I love an artist’s studio. I would envelope myself in that aesthetic if I coul
 
 Now I’m perusing Michael Shane Neal’s portraits and recalling how much I love portraiture. (I spy a likeness of Amor Towles, whose wonderful *A Gentleman in Moscow* I recently read.) He’s done a lot of politicians (including US presidents) and corporate-types, who I assume are quite the “gets” and/or pay well. Not my favorite. But I love this portrait of his mentor, the artist Everett Raymond Kinstler.
 
-I’ve gone through obsessive periods with paintings by Robert Henri, Sargent, Manet, Joaquín Sorolla. I used to visit the National Portrait Gallery frequently, when I lived in walking distance, all but eschewing the nearby National Gallery of Art (to be fair, it was a few blocks farther along, and I’m a fervid energy conservationist).
+I’ve gone through obsessive periods with paintings by Robert Henri, Sargent, Manet, Joaquín Sorolla, Anders Zorn. I used to visit the National Portrait Gallery frequently, when I lived in walking distance, all but eschewing the nearby National Gallery of Art (to be fair, it was a few blocks farther along, and I’m a fervid energy conservationist).
 
 There must be a connection between my interest in the people behind interesting achievements, my long love of biographies, and my preference for portrait art.
 
