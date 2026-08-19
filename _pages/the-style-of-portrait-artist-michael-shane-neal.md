@@ -30,5 +30,5 @@ Michael Shane Neal: “I’m training as an artist but I found that painting por
 ## References
 
 - [Michael Shane Neal](https://www.michaelshaneneal.com/)
-- [“House Tour: Inside a Storied Artist Residence Nestled within the Historic National Arts Club”](https://www.youtube.com/watch?v=-XvN-ETit2k) (Curbed, YouTube)
+- [“Michael Shane Neal's National Arts Club Apartment Tour”](https://www.curbed.com/article/michael-shane-neal-national-arts-club-apartment-tour.html) (Curbed)
 - Amor Towles, [*A Gentleman in Moscow*](https://bookshop.org/p/books/a-gentleman-in-moscow-amor-towles/10206530) (Viking, 2016)
