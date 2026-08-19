@@ -29,6 +29,10 @@ Michael Shane Neal: “I’m training as an artist but I found that painting por
 
 ## References
 
+- Laura Moore, [“The Birth of the Author”](https://libertiesjournal.com/online-articles/the-birth-of-the-author/) (Liberties Journal)
 - [Michael Shane Neal](https://www.michaelshaneneal.com/)
 - [“Michael Shane Neal's National Arts Club Apartment Tour”](https://www.curbed.com/article/michael-shane-neal-national-arts-club-apartment-tour.html) (Curbed)
+- [“Inside a Storied Artist Residence Nestled within the Historic National Arts Club”](https://homeworthy.com/watch/inside-a-storied-artist-residence-nestled-within-the-historic-national-arts-club/) (Homeworthy)
+- [Portrait of Amor Towles](https://www.michaelshaneneal.com/portfolio?itemId=74smr21ra3batinaaa8kpbk815i7x1) by Michael Shane Neal
+- [Portrait of Everett Raymond Kinstler](https://www.michaelshaneneal.com/portfolio?itemId=8t8n9e7oxz6mnbchm9d3giax8vbjx9) by Michael Shane Neal
 - Amor Towles, [*A Gentleman in Moscow*](https://bookshop.org/p/books/a-gentleman-in-moscow-amor-towles/10206530) (Viking, 2016)
