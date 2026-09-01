@@ -4,6 +4,9 @@ title: "Creativity"
 topic: "creativity"
 permalink: /topics/creativity/
 notes:
+  - title: "Leonardo's vanishing drive"
+    url: "/leonardos-vanishing-drive/"
+    date: "1 Sep"
   - title: "Creators who began late"
     url: "/creators-who-began-late/"
     date: "15 Aug"
