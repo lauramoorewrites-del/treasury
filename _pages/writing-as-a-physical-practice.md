@@ -14,4 +14,4 @@ related:
 
 ## Reading list
 
-- Robert Minto, ["The Gesture of the Text,"](https://www.3ammagazine.com/3am/the-gesture-of-the-text/) *3:AM Magazine*. On writing as an embodied, gestural act—Kafka's eight-hour sitting for "The Judgment," Simenon's two-week novel sprints—and the argument that physical momentum is a condition of composition, not incidental to it.
+- Robert Minto, ["The Gesture of the Text,"](https://www.3ammagazine.com/3am/the-gesture-of-the-text/) *3:AM Magazine*. On writing as an embodied, gestural act, juxtaposing Kafka’s eight-hour sitting for “The Judgment” with Simenon’s two-week novel sprints. Demonstrates how physical momentum can be a condition of composition.
