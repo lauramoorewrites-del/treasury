@@ -4,6 +4,9 @@ title: "Creativity"
 topic: "creativity"
 permalink: /topics/creativity/
 notes:
+  - title: "Writers who discount the importance of inspiration to their work"
+    url: "/writers-who-discount-inspiration/"
+    date: "4 Sep"
   - title: "Leonardo's vanishing drive"
     url: "/leonardos-vanishing-drive/"
     date: "1 Sep"
