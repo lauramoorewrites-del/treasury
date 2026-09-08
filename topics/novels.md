@@ -4,6 +4,9 @@ title: "Novels"
 topic: "novels"
 permalink: /topics/novels/
 notes:
+  - title: "The dreadful real-life inspiration for Uncle Tom's Cabin"
+    url: "/the-dreadful-real-life-inspiration-for-uncle-toms-cabin/"
+    date: "8 Sep"
   - title: "Authors who disliked or didn't understand other authors' works"
     url: "/novelists-on-works-they-dislike/"
     date: "15 Jul"
