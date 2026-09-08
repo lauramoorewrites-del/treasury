@@ -4,6 +4,9 @@ title: "Reading"
 topic: "reading"
 permalink: /topics/reading/
 notes:
+  - title: "Public domain books used for research"
+    url: "/public-domain-books-used-for-research/"
+    date: "8 Sep"
   - title: "Famous collections of private correspondence"
     url: "/famous-collections-of-private-correspondence/"
     date: "15 Aug"
