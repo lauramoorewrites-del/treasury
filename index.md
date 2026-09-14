@@ -215,6 +215,7 @@ topic_list:
   - artists' studios
   - authors
   - commonplace books
+  - compulsion
   - consciousness
   - craft
   - creativity

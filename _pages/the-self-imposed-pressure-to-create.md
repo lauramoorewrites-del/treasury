@@ -4,7 +4,7 @@ id: 71
 title: "The self-imposed pressure to create"
 created: "14 September 2026"
 updated: "14 September 2026"
-topics: [creativity]
+topics: [creativity, compulsion]
 related:
   - title: "Leonardo's vanishing drive"
     url: "/leonardos-vanishing-drive/"
