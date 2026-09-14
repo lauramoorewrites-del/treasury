@@ -4,6 +4,9 @@ title: "Creativity"
 topic: "creativity"
 permalink: /topics/creativity/
 notes:
+  - title: "The self-imposed pressure to create"
+    url: "/the-self-imposed-pressure-to-create/"
+    date: "14 Sep"
   - title: "Writers who discount the importance of inspiration to their work"
     url: "/writers-who-discount-inspiration/"
     date: "4 Sep"
