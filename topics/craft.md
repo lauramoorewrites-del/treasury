@@ -4,6 +4,9 @@ title: "Craft"
 topic: "craft"
 permalink: /topics/craft/
 notes:
+  - title: "The historical ability of writers to support themselves by writing"
+    url: "/the-historical-ability-of-writers-to-support-themselves-by-writing/"
+    date: "14 Sep"
   - title: "Writers who discount the importance of inspiration to their work"
     url: "/writers-who-discount-inspiration/"
     date: "4 Sep"
