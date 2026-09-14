@@ -4,7 +4,7 @@ id: 57
 title: "The permission to criticize"
 created: "29 July 2026"
 updated: "29 July 2026"
-topics: [essay craft]
+topics: [criticism]
 related:
   - title: "Critics on what makes art great"
     url: "/critics-on-what-makes-art-great/"

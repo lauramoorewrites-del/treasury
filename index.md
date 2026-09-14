@@ -215,6 +215,7 @@ topic_list:
   - consciousness
   - craft
   - creativity
+  - criticism
   - darkness
   - epistemology
   - essay craft
