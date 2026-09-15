@@ -3,7 +3,7 @@ layout: default
 id: 23
 title: "My favorite essays"
 created: "27 June 2026"
-updated: "27 June 2026"
+updated: "14 September 2026"
 topics: [essay craft, reading]
 related:
   - title: "Selected critical reviews of Zadie Smith"
