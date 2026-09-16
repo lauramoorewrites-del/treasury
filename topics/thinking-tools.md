@@ -4,6 +4,9 @@ title: "Thinking tools"
 topic: "thinking tools"
 permalink: /topics/thinking-tools/
 notes:
+  - title: "Arguments from silence"
+    url: "/arguments-from-silence/"
+    date: "16 Sep"
   - title: "Donna Haraway’s god trick"
     url: "/donna-haraways-god-trick/"
     date: "27 Jun"
