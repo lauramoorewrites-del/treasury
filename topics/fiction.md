@@ -4,6 +4,9 @@ title: "Fiction"
 topic: "fiction"
 permalink: /topics/fiction/
 notes:
+  - title: "Dickens's caricatured characterizations"
+    url: "/dickenss-caricatured-characterizations/"
+    date: "17 Sep"
   - title: "The dreadful real-life inspiration for Uncle Tom's Cabin"
     url: "/the-dreadful-real-life-inspiration-for-uncle-toms-cabin/"
     date: "8 Sep"

@@ -15,6 +15,9 @@ subtopics:
   - title: "Þórbergur Þórðarson"
     url: "/english-translations-of-thorbergur-thordarson/"
 notes:
+  - title: "Dickens's caricatured characterizations"
+    url: "/dickenss-caricatured-characterizations/"
+    date: "17 Sep"
   - title: "Famous collections of private correspondence"
     url: "/famous-collections-of-private-correspondence/"
     date: "15 Aug"
