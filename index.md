@@ -228,6 +228,7 @@ topic_list:
   - authors
   - commonplace books
   - compulsion
+  - connectedness
   - consciousness
   - craft
   - creativity
