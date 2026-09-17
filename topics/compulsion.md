@@ -4,6 +4,9 @@ title: "Compulsion"
 topic: "compulsion"
 permalink: /topics/compulsion/
 notes:
+  - title: "How creative expression relieves pressure"
+    url: "/how-creative-expression-relieves-pressure/"
+    date: "17 Sep"
   - title: "The self-imposed pressure to create"
     url: "/the-self-imposed-pressure-to-create/"
     date: "14 Sep"
