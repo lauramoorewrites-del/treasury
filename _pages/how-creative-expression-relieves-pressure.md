@@ -1,7 +1,7 @@
 ---
 layout: default
 id: 78
-title: "How creative expression relieves pressure"
+title: "How creative expression extinguishes pressure"
 created: "17 September 2026"
 updated: "17 September 2026"
 topics: [creativity, compulsion]
@@ -13,6 +13,8 @@ related:
   - title: "Leonardo's vanishing drive"
     url: "/leonardos-vanishing-drive/"
 ---
+
+Often, things preoccupy us—they won't let our mind alone. And sometimes, giving external form to the nagging thing can alleviate the pressure. Sometimes our interest disappears completely. The implications are interesting. For one: how you "spend" that pressure—which is the way inspiration sometimes appears—can be fatal and fateful. If you want to direct it into a specific instantiation, perhaps you should be wary of spending it too casually elsewhere first. Though as Marshall's example shows, the pressure may persist until it finds the "right" form, anyway. Perhaps the notion that we can control the use of inspiration is pure illusion.
 
 > It is perfectly true that she obsessed me, in spite of the fact that she died when I was thirteen, until I was forty-four. Then one day walking round Tavistock Square I made up, as I sometimes make up my books, To the Lighthouse; in a great, apparently involuntary, rush. One thing burst into another. Blowing bubbles out of a pipe gives the feeling of the rapid crowd of ideas and scenes which blew out of my mind, so that my lips seemed syllabling of their own accord as I walked. What blew the bubbles? Why then? I have no notion. But I wrote the book very quickly; and when it was written, I ceased to be obsessed by my mother. I no longer hear her voice; I do not see her.
 >
