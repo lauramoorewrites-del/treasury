@@ -4,6 +4,9 @@ title: "Virginia Woolf"
 topic: "virginia woolf"
 permalink: /topics/virginia-woolf/
 notes:
+  - title: "Instinctual preference for color and visual aesthetics"
+    url: "/instinctual-preference-for-color-and-visual-aesthetics/"
+    date: "17 Sep"
   - title: "On the difficulty of knowing oneself"
     url: "/on-the-difficulty-of-knowing-oneself/"
     date: "17 Sep"
