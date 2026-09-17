@@ -4,6 +4,9 @@ title: "Epistemology"
 topic: "epistemology"
 permalink: /topics/epistemology/
 notes:
+  - title: "The tendency to see everything as connected"
+    url: "/the-tendency-to-see-everything-as-connected/"
+    date: "17 Sep"
   - title: "Donna Haraway’s god trick"
     url: "/donna-haraways-god-trick/"
     date: "27 Jun"

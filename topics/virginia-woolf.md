@@ -4,6 +4,9 @@ title: "Virginia Woolf"
 topic: "virginia woolf"
 permalink: /topics/virginia-woolf/
 notes:
+  - title: "The tendency to see everything as connected"
+    url: "/the-tendency-to-see-everything-as-connected/"
+    date: "17 Sep"
   - title: "Instinctual preference for color and visual aesthetics"
     url: "/instinctual-preference-for-color-and-visual-aesthetics/"
     date: "17 Sep"
