@@ -4,6 +4,9 @@ title: "Virginia Woolf"
 topic: "virginia woolf"
 permalink: /topics/virginia-woolf/
 notes:
+  - title: "On the difficulty of knowing oneself"
+    url: "/on-the-difficulty-of-knowing-oneself/"
+    date: "17 Sep"
   - title: "Woolf on reading other writers"
     url: "/woolf-on-reading-other-writers/"
     date: "28 Jun"

@@ -4,6 +4,9 @@ title: "Consciousness"
 topic: "consciousness"
 permalink: /topics/consciousness/
 notes:
+  - title: "On the difficulty of knowing oneself"
+    url: "/on-the-difficulty-of-knowing-oneself/"
+    date: "17 Sep"
   - title: "Agnes Callard’s theory of ethical self-blindness"
     url: "/agnes-callards-ethical-self-blindness/"
     date: "28 Jun"
