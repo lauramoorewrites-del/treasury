@@ -4,6 +4,9 @@ title: "Creativity"
 topic: "creativity"
 permalink: /topics/creativity/
 notes:
+  - title: "My theory of art and craft"
+    url: "/my-theory-of-art-and-craft/"
+    date: "17 Sep"
   - title: "The self-imposed pressure to create"
     url: "/the-self-imposed-pressure-to-create/"
     date: "14 Sep"

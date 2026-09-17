@@ -4,6 +4,9 @@ title: "Moore’s Treasury"
 intro: What you see is an experiment I began in June 2026, inspired by the digital gardening projects of <a href="https://maggieappleton.com/nontechnical-gardening">Maggie Appleton</a> and others as well as medieval conceptions of memory as a treasure-house. It’s a living experiment, a garden I'll tend as the inclination finds me.
 intro2: "You'll find all manner of lists, loose assocations, sketched ideas, and brief reactions. These entries are a complement to my more fully-realized thinking expressed in my essays, collected here:"
 recent:
+  - title: "My theory of art and craft"
+    url: "/my-theory-of-art-and-craft/"
+    date: "17 Sep"
   - title: "Dickens's caricatured characterizations"
     url: "/dickenss-caricatured-characterizations/"
     date: "17 Sep"
