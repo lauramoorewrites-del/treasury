@@ -20,4 +20,4 @@ related:
 
 > They manage to sustain the paradox of feeling real to themselves without necessarily knowing themselves, which is the very paradox of consciousness, since I have no way of knowing that I do not actually know myself.
 
-— James Wood, on Shakespeare, *London Review of Books*.
+— James Wood, ["Rambling,"](https://www.lrb.co.uk/the-paper/v22/n11/james-wood/rambling) *London Review of Books* (2000).
