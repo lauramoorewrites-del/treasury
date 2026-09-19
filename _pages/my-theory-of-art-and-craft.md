@@ -3,7 +3,7 @@ layout: default
 id: 77
 title: "My theory of art and craft"
 created: "17 September 2026"
-updated: "17 September 2026"
+updated: "19 September 2026"
 topics: [creativity]
 related:
   - title: "Writers who discount the importance of inspiration to their work"
