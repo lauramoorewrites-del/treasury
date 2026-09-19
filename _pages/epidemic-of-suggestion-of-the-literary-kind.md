@@ -16,7 +16,7 @@ related:
 
 — Leo Tolstoy, [*Tolstoy on Shakespeare: A Critical Essay on Shakespeare*](https://www.gutenberg.org/files/27726/27726-h/27726-h.htm) (1906), trans. V. Tchertkoff.
 
-Though later in the essay she reverses the thought:
+Early in her essay on Edward Gibbon, Woolf credits his reputation to "those vague diffusions of acquiescence," though later she reverses and complicates this assertion:
 
 > We suspect that the vast fame with which the great historian is surrounded is one of those vague diffusions of acquiescence which gather when people are too busy, too lazy or too timid to see things for themselves.
 
