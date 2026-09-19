@@ -4,6 +4,9 @@ title: "Epistemology"
 topic: "epistemology"
 permalink: /topics/epistemology/
 notes:
+  - title: "Epidemic of suggestion of the literary kind"
+    url: "/epidemic-of-suggestion-of-the-literary-kind/"
+    date: "17 Sep"
   - title: "The tendency to see everything as connected"
     url: "/the-tendency-to-see-everything-as-connected/"
     date: "17 Sep"
