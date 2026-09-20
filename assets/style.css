@@ -102,7 +102,7 @@ pre{ overflow-x: auto; padding: 0.9rem 1rem; border: 1px solid var(--rule); bord
 
 /* homepage intro + drop cap */
 .intro{ font-size: 1.06rem; }
-.card-index .intro::first-letter{ float: left; font-size: 3.15em; line-height: 0.82;
+.card-index .intro:first-of-type::first-letter{ float: left; font-size: 3.15em; line-height: 0.82;
   padding: 0.06em 0.09em 0 0; color: var(--accent); font-weight: 500; }
 
 /* section labels (italic serif, no mono/caps) */
