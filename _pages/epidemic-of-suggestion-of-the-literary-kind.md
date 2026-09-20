@@ -4,7 +4,7 @@ id: 79
 title: "Epidemic of suggestion of the literary kind"
 created: "17 September 2026"
 updated: "17 September 2026"
-topics: [epistemology]
+topics: [epistemology, literature]
 related:
   - title: "Authors who disliked or didn't understand other authors' works"
     url: "/novelists-on-works-they-dislike/"

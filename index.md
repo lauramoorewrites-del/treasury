@@ -257,6 +257,7 @@ topic_list:
   - indirectness
   - insight
   - language
+  - literature
   - medieval
   - memory
   - neuroscience
