@@ -8,6 +8,8 @@ topics: [epistemology, craft]
 related:
   - title: "Hospitality as a framework for receiving art"
     url: "/hospitality-as-a-framework-for-receiving-art/"
+  - title: "Epidemic of suggestion of the literary kind"
+    url: "/epidemic-of-suggestion-of-the-literary-kind/"
 ---
 
 In a piece I'm submitting, I talk about borrowed vision. What I mean is what is described in the excerpts below.

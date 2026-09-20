@@ -67,7 +67,7 @@
 
     {% if page.related %}
     <div class="related-notes">
-      <div class="section-label">Related notes</div>
+      <div class="section-label">Related entries</div>
       <div class="related-list">
         {% for note in page.related %}<a href="{{ note.url | relative_url }}">{{ note.title }}</a>{% endfor %}
       </div>
