@@ -22,11 +22,15 @@ On the paradox of fictional consciousness:
 
 <p class="fleuron" aria-hidden="true">❧</p>
 
-On the suspicion of overconnection in fiction:
+On overplotting and other literary excess:
 
 > Characters are forever seeing connections and links and plots, and paranoid parallels. (There is something essentially paranoid about the belief that everything is connected to everything else.)
 
 — James Wood, ["Human, All Too Inhuman,"](https://newrepublic.com/article/61361/human-inhuman) *The New Republic* (2000).
+
+> To return to the case of Iris Murdoch, who so wanted to create free characters and so often failed, her failure is not one of psychological attention or metaphysical shallowness—quite the opposite—but a Fielding-like devotion to excessive plot-making. Her improbable, melodramatic, feeble stories, still highly indebted to eighteenth- and nineteenth-century theatrics, are not adult enough to take the strain of her complex moral analysis.
+
+— James Wood, [*How Fiction Works*](https://bookshop.org/search?q=9780312428471) (Farrar, Straus and Giroux, 2008).
 
 <p class="fleuron" aria-hidden="true">❧</p>
 
