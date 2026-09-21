@@ -3,7 +3,7 @@ layout: default
 id: 28
 title: "The novel as a source of truth"
 created: "27 June 2026"
-updated: "27 June 2026"
+updated: "21 September 2026"
 topics: [creativity, epistemology, novels, fiction]
 ---
 
@@ -14,3 +14,7 @@ topics: [creativity, epistemology, novels, fiction]
 > But I love fiction. I love the way it lies to tell the truth.
 
 — [Zadie Smith](/treasury/topics/zadie-smith/), *Dead and Alive* (Penguin Press, 2025).
+
+> Art is the nearest thing to life; it is a mode of amplifying experience and extending our contact with our fellow-men beyond the bounds of our personal lot.
+
+— George Eliot, ["The Natural History of German Life,"](https://www.gutenberg.org/files/28289/28289-h/28289-h.htm) *Westminster Review* (1856).
