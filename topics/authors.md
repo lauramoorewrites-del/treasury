@@ -15,6 +15,9 @@ subtopics:
   - title: "Þórbergur Þórðarson"
     url: "/english-translations-of-thorbergur-thordarson/"
 notes:
+  - title: "James Wood's critical signature"
+    url: "/james-woods-critical-signature/"
+    date: "21 Sep"
   - title: "Dickens's caricatured characterizations"
     url: "/dickenss-caricatured-characterizations/"
     date: "17 Sep"
