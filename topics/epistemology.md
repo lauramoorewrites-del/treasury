@@ -4,6 +4,9 @@ title: "Epistemology"
 topic: "epistemology"
 permalink: /topics/epistemology/
 notes:
+  - title: "On negative knowledge"
+    url: "/on-negative-knowledge/"
+    date: "22 Sep"
   - title: "Epidemic of suggestion of the literary kind"
     url: "/epidemic-of-suggestion-of-the-literary-kind/"
     date: "17 Sep"
