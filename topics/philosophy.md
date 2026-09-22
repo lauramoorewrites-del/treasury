@@ -4,6 +4,9 @@ title: "Philosophy"
 topic: "philosophy"
 permalink: /topics/philosophy/
 notes:
+  - title: "Reading list on how subjectivity enters critical analysis"
+    url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
+    date: "22 Sep"
   - title: "Agnes Callard’s theory of ethical self-blindness"
     url: "/agnes-callards-ethical-self-blindness/"
     date: "28 Jun"

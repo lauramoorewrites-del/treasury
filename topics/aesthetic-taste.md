@@ -4,6 +4,9 @@ title: "Aesthetic taste"
 topic: "aesthetic taste"
 permalink: /topics/aesthetic-taste/
 notes:
+  - title: "Reading list on how subjectivity enters critical analysis"
+    url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
+    date: "22 Sep"
   - title: "Instinctual preference for color and visual aesthetics"
     url: "/instinctual-preference-for-color-and-visual-aesthetics/"
     date: "17 Sep"
