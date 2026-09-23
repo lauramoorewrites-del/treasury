@@ -6,7 +6,7 @@ intro2: "You'll find all manner of lists, loose assocations, sketched ideas, and
 recent:
   - title: "Reading list on how subjectivity enters critical analysis"
     url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
-    date: "22 Sep"
+    date: "23 Sep"
   - title: "On negative knowledge"
     url: "/on-negative-knowledge/"
     date: "22 Sep"
