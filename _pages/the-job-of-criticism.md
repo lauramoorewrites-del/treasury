@@ -14,4 +14,4 @@ related:
 
 > One can overcomplicate what the job involves. It's to adjudicate in the process of explaining, or the other way around.
 
-— Leo Robson, interviewed by Henry Jeffreys, ["Closer to Rude Than Snide,"](https://www.theideasletter.org/essay/closer-to-rude-than-snide/) *The Ideas Letter*.
+— Leo Robson, interviewed by Leonard Benardo, ["Closer to Rude Than Snide,"](https://www.theideasletter.org/essay/closer-to-rude-than-snide/) *The Ideas Letter*.

@@ -14,4 +14,4 @@ related:
 
 > The influence of a critic is reflected in their public—in some cases a general audience, in others a more captive one—reading and re-reading them, discussing them, thinking about them.
 
-— Leo Robson, interviewed by Henry Jeffreys, ["Closer to Rude Than Snide,"](https://www.theideasletter.org/essay/closer-to-rude-than-snide/) *The Ideas Letter*.
+— Leo Robson, interviewed by Leonard Benardo, ["Closer to Rude Than Snide,"](https://www.theideasletter.org/essay/closer-to-rude-than-snide/) *The Ideas Letter*.

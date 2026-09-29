@@ -14,7 +14,7 @@ related:
 
 > A takedown that's any good will be hard to quibble with too much because it will ground judgment in argument, and give too powerful sense of the inadequacies of method, technique, and worldview. You shouldn't be giving the reader the opportunity to say, "I just don't agree."
 
-— Leo Robson, interviewed by Henry Jeffreys, ["Closer to Rude Than Snide,"](https://www.theideasletter.org/essay/closer-to-rude-than-snide/) *The Ideas Letter*.
+— Leo Robson, interviewed by Leonard Benardo, ["Closer to Rude Than Snide,"](https://www.theideasletter.org/essay/closer-to-rude-than-snide/) *The Ideas Letter*.
 
 ## Examples
 
