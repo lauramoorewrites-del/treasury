@@ -4,6 +4,9 @@ title: "Criticism"
 topic: "criticism"
 permalink: /topics/criticism/
 notes:
+  - title: "The job of criticism"
+    url: "/the-job-of-criticism/"
+    date: "29 Sep"
   - title: "Reading list on how subjectivity enters critical analysis"
     url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
     date: "22 Sep"
