@@ -7,7 +7,7 @@ recent:
   - title: "Reading list on how subjectivity enters critical analysis"
     url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
     date: "23 Sep"
-  - title: "The literary takedown"
+  - title: "On the critical form of the takedown"
     url: "/the-literary-takedown/"
     date: "29 Sep"
   - title: "The nature of the critic's influence"

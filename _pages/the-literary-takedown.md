@@ -1,7 +1,7 @@
 ---
 layout: default
 id: 84
-title: "The literary takedown"
+title: "On the critical form of the takedown"
 created: "29 September 2026"
 updated: "29 September 2026"
 topics: [criticism]

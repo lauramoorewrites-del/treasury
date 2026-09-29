@@ -4,7 +4,7 @@ title: "Criticism"
 topic: "criticism"
 permalink: /topics/criticism/
 notes:
-  - title: "The literary takedown"
+  - title: "On the critical form of the takedown"
     url: "/the-literary-takedown/"
     date: "29 Sep"
   - title: "The nature of the critic's influence"
