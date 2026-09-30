@@ -4,6 +4,9 @@ title: "Criticism"
 topic: "criticism"
 permalink: /topics/criticism/
 notes:
+  - title: "Critical Communication by Arnold Isenberg"
+    url: "/critical-communication-by-arnold-isenberg/"
+    date: "30 Sep"
   - title: "On the critical form of the takedown"
     url: "/the-literary-takedown/"
     date: "29 Sep"
