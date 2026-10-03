@@ -19,10 +19,12 @@ topics: [authors, creativity, feminism, literature]
 
 ---
 
-*19 March 1929*
+*28 March 1929*
 
 > I feel on the verge of some strenuous adventure: yes; as if this spring day were the hatching; the portal; the opening through which I shall go upon this experience. So when I wake early, I brace myself out of my terrors by saying that I shall need great courage: after all, I say, I made £1000 all from willing it early one morning. No more poverty I said; & poverty has ceased. I am summoning Philcox next week to plan a room—I have money to build it, money to furnish it. And we have the new car, & we can drive to Edinburgh in June if we like, & go to Cassis.
->
+
+*13 April 1929*
+
 > It is very quiet & very cold. I walked Pinka through the Saturday streets this afternoon & was woken to the fact that it is April by a primrose on the pavement. I had been thinking I was on one of my January walks, with lights lit at 3.30 in peoples bedrooms. Rodmell was impracticable because of the cold; & until I have a room, I cannot go there meaning to work. We always do mean to work. I have just agreed to do another 4 articles for Mrs Van Doren, because she has raised her price to £50 an article—so that, whatever the cost, I can have my new room.
 
 ---
@@ -47,8 +49,6 @@ topics: [authors, creativity, feminism, literature]
 
 *5 November 1929*
 
-> …*could have* furnished my room perfectly for £20 I daresay. Such is one's life—yes, such: (a convenient phrase;)
-
 > On Sunday we were at Rodmell; & my room is now about three feet of brick, with the window frames in; rather an eyesore, for it cuts off the garage roof & the downs—both pleasanter sights than I had thought. They have driven a small hole through the little room, for the passage; so that by this time, no doubt, that is in being. & things fall & rise & disappear & re-appear.
 
 ---
@@ -67,7 +67,7 @@ topics: [authors, creativity, feminism, literature]
 
 *14 December 1929*
 
-> …By the way, the sales of A Room are unprecedented—have beaten Orlando; feels like a line running through ones fingers; orders for 100 taken as coolly as 12's used to be. We have sold, I think 5500; & our next years income is made.
+> By the way, the sales of A Room are unprecedented—have beaten Orlando; feels like a line running through ones fingers; orders for 100 taken as coolly as 12's used to be. We have sold, I think 5500; & our next years income is made.
 
 ---
 
@@ -85,9 +85,7 @@ topics: [authors, creativity, feminism, literature]
 
 *26 January 1930*
 
-> …I cannot yet write naturally in my new room, because the table is not the right height, & I must stoop to warm my hands. Everything must be absolutely what I am used to.
-
-> …But I shall drop very heavily I think.
+> I cannot yet write naturally in my new room, because the table is not the right height, & I must stoop to warm my hands. Everything must be absolutely what I am used to.
 
 ---
 
