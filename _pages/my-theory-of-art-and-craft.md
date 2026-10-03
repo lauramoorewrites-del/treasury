@@ -4,6 +4,7 @@ id: 77
 title: "My theory of art and craft"
 created: "17 September 2026"
 updated: "3 October 2026"
+
 topics: [creativity]
 related:
   - title: "Writers who discount the importance of inspiration to their work"
@@ -31,6 +32,10 @@ The presence of writer's block signals that the art mode is unreachable:
 > I am now writing as fast & freely as I have written in the whole of my life; more so—20 times more so—than any novel yet. I think this is the proof that I was on the right path; & that what fruit hangs in my soul is to be reached there. Amusingly, I now invent theories that fertility & fluency are the things: I used to plead for a kind of close, terse, effort. Anyhow this goes on all the morning; & I have the devils own work not to be flogging my brain all the afternoon. I live entirely in it, & come to the surface rather obscurely & am often unable to think what to say when we walk round the Square, which is bad I know. Perhaps it may be a good sign for the book though.
 
 — Virginia Woolf, diary entry, 19 March 1925, collected in *The Diary of Virginia Woolf*, vol. III.
+
+> "I shall let myself dash this in for a week"—I have done nothing, nothing, nothing else for a fortnight; & am launched somewhat furtively but with all the more passion upon Orlando: A Biography. It is to be a small book, & written by Christmas. I thought I could combine it with Fiction, but once the mind gets hot it cant stop; I walk making up phrases; sit contriving scenes; am in short in the thick of the greatest rapture known to me; from which I have kept myself since last February, or earlier.
+
+— Virginia Woolf, diary entry, 10 September 1927, collected in *The Diary of Virginia Woolf*, vol. III.
 
 ## Craft
 
