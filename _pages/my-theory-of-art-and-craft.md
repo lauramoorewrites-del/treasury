@@ -3,7 +3,7 @@ layout: default
 id: 77
 title: "My theory of art and craft"
 created: "17 September 2026"
-updated: "3 October 2026"
+updated: "5 October 2026"
 
 topics: [creativity]
 related:
@@ -48,3 +48,9 @@ As a young writer, Virginia Woolf learned that the art mode could not be summone
 > I have no energy at the moment to spend upon the horrid labour that it needs to make an orderly and expressed work of art; where one thing follows another and all are swept into a whole.
 
 — Virginia Woolf, "A Sketch of the Past," collected in [*Moments of Being*](https://bookshop.org/search?q=9780712646185) (Hogarth Press, 1976).
+
+After an idea comes to author Penelope Lively, the craft mode enters to give it shape:
+
+> Then the problem is to find the vehicle, to find the story and the characters and the backdrop, because they're going to be the vehicle for this idea. Because then I don't want the idea to show very much; I want the idea to be a sort of seven-eighths of the iceberg, a kind of ballast, but without which the whole novel would flounder.
+
+— Penelope Lively, ["Authors reveal their writing secrets,"](https://www.theguardian.com/books/2011/mar/26/authors-secrets-writing) *The Guardian* (26 March 2011).
