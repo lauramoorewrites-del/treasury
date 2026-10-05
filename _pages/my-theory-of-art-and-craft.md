@@ -43,6 +43,12 @@ As a young writer, Virginia Woolf learned that the art mode could not be summone
 
 — Virginia Woolf, diary entry, 10 September 1927, collected in *The Diary of Virginia Woolf*, vol. III.
 
+*Eva: In that state of grace the writing emerges without corrections and reworkings?*
+
+> No, the writing no, but the story yes. And that happens when you have a clamor in your head and you continue to write as if taking dictation, even while you're doing the shopping, even when you eat, even in your sleep. […] Thus everything happens in my head and, in essence, while I'm actually writing. Then a moment arrives when I need to catch my breath. I stop, reread, and work with pleasure on the quality of the prose. But in the previous books that happened, I don't know, after two, three, four pages, at most ten—in *My Brilliant Friend* it happened after fifty or even a hundred pages that were written without rereading.
+
+— Elena Ferrante, [*Frantumaglia: A Writer's Journey*](https://bookshop.org/p/books/frantumaglia-a-writer-s-journey-elena-ferrante/2938d8e0826c3b96?ean=9781609454326) (Europa Editions, 2016), trans. Ann Goldstein.
+
 ## Craft
 
 > I have no energy at the moment to spend upon the horrid labour that it needs to make an orderly and expressed work of art; where one thing follows another and all are swept into a whole.
