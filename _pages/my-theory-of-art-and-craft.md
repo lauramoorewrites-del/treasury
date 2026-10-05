@@ -43,8 +43,10 @@ As a young writer, Virginia Woolf learned that the art mode could not be summone
 
 — Virginia Woolf, diary entry, 10 September 1927, collected in *The Diary of Virginia Woolf*, vol. III.
 
-*Eva: In that state of grace the writing emerges without corrections and reworkings?*
+To her, Elena Ferrante's best storytelling ocurrs when she is "as if taking dictation":
 
+> *Eva: In that state of grace the writing emerges without corrections and reworkings?*
+>
 > No, the writing no, but the story yes. And that happens when you have a clamor in your head and you continue to write as if taking dictation, even while you're doing the shopping, even when you eat, even in your sleep. […] Thus everything happens in my head and, in essence, while I'm actually writing. Then a moment arrives when I need to catch my breath. I stop, reread, and work with pleasure on the quality of the prose. But in the previous books that happened, I don't know, after two, three, four pages, at most ten—in *My Brilliant Friend* it happened after fifty or even a hundred pages that were written without rereading.
 
 — Elena Ferrante, [*Frantumaglia: A Writer's Journey*](https://bookshop.org/p/books/frantumaglia-a-writer-s-journey-elena-ferrante/2938d8e0826c3b96?ean=9781609454326) (Europa Editions, 2016), trans. Ann Goldstein.
@@ -61,10 +63,10 @@ After an idea comes to author Penelope Lively, the craft mode enters to give it 
 
 — Penelope Lively, ["Authors reveal their writing secrets,"](https://www.theguardian.com/books/2011/mar/26/authors-secrets-writing) *The Guardian* (26 March 2011).
 
-Elena Ferrante identifies over-attention to craft as the thing that makes writing go wrong:
+When Elena Ferrante over-attends to the craft mode, it mars the broader effect of the story:
 
-*Eva: What distinguishes writing that goes smoothly from writing that doesn't?*
-
+> *Eva: What distinguishes writing that goes smoothly from writing that doesn't?*
+>
 > The attention that I put into every word, every sentence. I have stories, unpublished, in which the attention to form was inordinate, I couldn't go on if every line didn't seem perfect. When that happens, the page is beautiful but the story false.
 
 — Elena Ferrante, [*Frantumaglia: A Writer's Journey*](https://bookshop.org/p/books/frantumaglia-a-writer-s-journey-elena-ferrante/2938d8e0826c3b96?ean=9781609454326) (Europa Editions, 2016), trans. Ann Goldstein.
