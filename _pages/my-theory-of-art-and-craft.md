@@ -54,3 +54,11 @@ After an idea comes to author Penelope Lively, the craft mode enters to give it 
 > Then the problem is to find the vehicle, to find the story and the characters and the backdrop, because they're going to be the vehicle for this idea. Because then I don't want the idea to show very much; I want the idea to be a sort of seven-eighths of the iceberg, a kind of ballast, but without which the whole novel would flounder.
 
 — Penelope Lively, ["Authors reveal their writing secrets,"](https://www.theguardian.com/books/2011/mar/26/authors-secrets-writing) *The Guardian* (26 March 2011).
+
+Elena Ferrante identifies over-attention to craft as the thing that makes writing go wrong:
+
+*Eva: What distinguishes writing that goes smoothly from writing that doesn't?*
+
+> The attention that I put into every word, every sentence. I have stories, unpublished, in which the attention to form was inordinate, I couldn't go on if every line didn't seem perfect. When that happens, the page is beautiful but the story false.
+
+— Elena Ferrante, [*Frantumaglia: A Writer's Journey*](https://bookshop.org/p/books/frantumaglia-a-writer-s-journey-elena-ferrante/2938d8e0826c3b96?ean=9781609454326) (Europa Editions, 2016), trans. Ann Goldstein.
