@@ -8,6 +8,15 @@ A growing collection of self-published essays is on [Strange Clarity](https://ww
 
 **2026**
 
+- [The censor at school, the censor at bedtime](https://www.strangeclarity.com/p/the-censor-at-school-the-censor-at) (Oct 2026)
+- [For years I said “I’m fine” and really believed it](https://www.strangeclarity.com/p/for-years-i-said-im-fine-and-really) (Oct 2026)
+- [When you can’t trust yourself](https://www.strangeclarity.com/p/when-you-cant-trust-yourself) (Sep 2026)
+- [Writing that’s “intimate, but not necessarily personal”](https://www.strangeclarity.com/p/writing-thats-intimate-but-not-necessarily) (Sep 2026)
+- [Elena Ferrante and the people who vouched for her](https://www.strangeclarity.com/p/elena-ferrante-and-the-people-who) (Aug 2026)
+- [A Hudson River Valley travelogue](https://www.strangeclarity.com/p/a-hudson-river-valley-travelogue) (Aug 2026)
+- [A novel by a masterful Russian writer that dares us to love a killer](https://www.strangeclarity.com/p/a-novel-by-a-masterful-russian-writer) (Aug 2026)
+- [Nonfiction isn’t false, but who says it’s true?](https://www.strangeclarity.com/p/what-nonfiction-authors-naomi-klein) (Jul 2026)
+- [59 pitches, 3 yeses: A year’s worth of pitching](https://www.strangeclarity.com/p/59-pitches-3-yeses-a-years-worth) (Jul 2026)
 - [Iceland's Half-Million Names](https://www.strangeclarity.com/p/icelands-half-million-names) (Jul 2026)
 - [How to meander without getting lost](https://www.strangeclarity.com/p/how-to-meander-without-getting-lost) (Jun 2026)
 - [Encountering an ancient debate about brainrot](https://www.strangeclarity.com/p/encountering-an-ancient-debate-about) (Jun 2026)
@@ -43,7 +52,6 @@ A growing collection of self-published essays is on [Strange Clarity](https://ww
 - [Evolutionary mismatch: just one part of the neurodivergence story](https://www.strangeclarity.com/p/evolutionary-mismatch-just-one-part) (May 2025)
 - [My autistic special interests: the fire that burns itself out](https://www.strangeclarity.com/p/my-cycle-of-special-interests-a-hunger) (Apr 2025)
 - [What we know about genetics & autism](https://www.strangeclarity.com/p/what-we-know-about-genetics-and-autism) (Apr 2025)
-- [Breaking: Leaked HHS budget cuts target autism](https://www.strangeclarity.com/p/breaking-leaked-hhs-proposed-budget) (Apr 2025)
 - [Field Notes #1: Extroversion, poetic license, and the basis of "good taste"](https://www.strangeclarity.com/p/field-notes-1-extroversion-poetic) (Apr 2025)
 - [Before vaccines, we blamed fairies](https://www.strangeclarity.com/p/before-vaccines-we-blamed-fairies) (Apr 2025)
 - [Artificial intelligence isn't replacing me — it's extending me](https://www.strangeclarity.com/p/artificial-intelligence-isnt-replacing) (Apr 2025)
