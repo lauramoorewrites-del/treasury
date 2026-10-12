@@ -63,4 +63,6 @@ A growing collection of self-published essays is on [Strange Clarity](https://ww
 - [Welcome to Strange Clarity](https://www.strangeclarity.com/p/welcome-to-strange-minds) (Mar 2025)
 
 For longer pieces, I pursue external publication. So far:
-- ["Nonfiction Isn't False, but Who Says It's True?"](https://electricliterature.com/nonfiction-isnt-false-but-who-says-its-true/) *Electric Literature* (2025)
+- “Against Illumination” *Madrid Review*, Issue 9 (2026)
+- [“The Birth of the Author”](https://libertiesjournal.com/online-articles/the-birth-of-the-author/) *Liberties* (2026)
+- [“Nonfiction Isn’t False, but Who Says It’s True?”](https://electricliterature.com/nonfiction-isnt-false-but-who-says-its-true/) *Electric Literature* (2025)
