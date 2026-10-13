@@ -3,7 +3,7 @@ layout: default
 id: 77
 title: "My theory of art and craft"
 created: "17 September 2026"
-updated: "7 October 2026"
+updated: "12 October 2026"
 
 topics: [creativity]
 related:
@@ -262,6 +262,16 @@ Writer's block can be mistaken as an attempt to force creativity through a chann
 — Elif Batuman, *The Possessed: Adventures with Russian Books and the People Who Read Them* (Farrar, Straus and Giroux, 2010).
 
 ## Craft
+
+### Patti Smith
+
+Patti Smith on the passage from one mode to the other:
+
+> The artist seeks contact with his intuitive sense of the gods, but in order to create his work, he cannot stay in this seductive and incorporeal realm. He must return to the material world in order to do his work. It's the artist's responsibility to balance mystical communication and the labor of creation.
+
+— Patti Smith. Source pending.
+
+<p class="fleuron" aria-hidden="true">❧</p>
 
 ### Leonardo da Vinci
 
