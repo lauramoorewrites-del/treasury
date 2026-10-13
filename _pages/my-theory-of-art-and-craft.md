@@ -15,7 +15,7 @@ related:
 
 I've written an essay, accepted by *The Philosopher*, that proposes a new framework for distinguishing art and craft: "I use *art* to name a mode of making that originates in felt necessity, and *craft* to name a mode that originates in deliberate intention." My framework proceeds from creators' accounts, some of which I mention in the essay. Here are more.
 
-## Art
+# Art
 
 ### Hildegard of Bingen
 
@@ -261,7 +261,7 @@ Writer's block can be mistaken as an attempt to force creativity through a chann
 
 — Elif Batuman, *The Possessed: Adventures with Russian Books and the People Who Read Them* (Farrar, Straus and Giroux, 2010).
 
-## Craft
+# Craft
 
 ### Patti Smith
 
