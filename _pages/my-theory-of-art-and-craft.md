@@ -3,7 +3,7 @@ layout: default
 id: 77
 title: "My theory of art and craft"
 created: "17 September 2026"
-updated: "12 October 2026"
+updated: "13 October 2026"
 
 topics: [creativity]
 related:
@@ -269,7 +269,7 @@ Patti Smith on the passage from one mode to the other:
 
 > The artist seeks contact with his intuitive sense of the gods, but in order to create his work, he cannot stay in this seductive and incorporeal realm. He must return to the material world in order to do his work. It's the artist's responsibility to balance mystical communication and the labor of creation.
 
-— Patti Smith. Source pending.
+— Patti Smith, [*Just Kids*](https://bookshop.org/a/113685/9780060936228) (Ecco, 2010).
 
 <p class="fleuron" aria-hidden="true">❧</p>
 
