@@ -3,7 +3,7 @@ layout: default
 id: 23
 title: "My favorite essays"
 created: "27 June 2026"
-updated: "14 September 2026"
+updated: "16 October 2026"
 topics: [essay craft, reading]
 related:
   - title: "Selected critical reviews of Zadie Smith"
@@ -18,3 +18,5 @@ related:
 - Denis Johnson, ["School Is Out,"](https://www.salon.com/1997/10/01/01school/) *Salon* (1997).
 - Salvatore Scibona, ["On Effort and Letting Go,"](https://www.theparisreview.org/blog/2019/06/06/on-effort-and-letting-go/) *The Paris Review* (2019).
 - [Zadie Smith](/treasury/topics/zadie-smith/), "Fascinated to Presume: In Defense of Fiction," *The New York Review of Books* (2019); collected in [*Dead and Alive*](https://bookshop.org/p/books/dead-and-alive-essays-zadie-smith/22461582?ean=9780593834688) (Penguin Press, 2025).
+- James Miller, ["Is Bad Writing Necessary?"](http://linguafranca.mirror.theinfo.org/9912/writing.html) *Lingua Franca* (1999).
+- Katie Bennett, ["What Is a Mother Allowed to Write?"](https://electricliterature.com/what-is-a-mother-allowed-to-write/) *Electric Literature* (2026).
