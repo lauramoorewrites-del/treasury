@@ -3,7 +3,7 @@ layout: default
 id: 77
 title: "My theory of art and craft"
 created: "17 September 2026"
-updated: "13 October 2026"
+updated: "17 October 2026"
 
 topics: [creativity]
 related:
@@ -134,6 +134,10 @@ In this letter to Vita Sackville-West, Woolf is describing both modes. The art m
 > "I shall let myself dash this in for a week"—I have done nothing, nothing, nothing else for a fortnight; & am launched somewhat furtively but with all the more passion upon Orlando: A Biography. It is to be a small book, & written by Christmas. I thought I could combine it with Fiction, but once the mind gets hot it cant stop; I walk making up phrases; sit contriving scenes; am in short in the thick of the greatest rapture known to me; from which I have kept myself since last February, or earlier.
 
 — Virginia Woolf, diary entry, 10 September 1927, collected in *The Diary of Virginia Woolf*, vol. III.
+
+> And — odd how the spring of life isn't to be tapped at will. I cant get into the swim by saying it is Saturday morning & I will write. I cant get into that stream by standing & wishing it.
+
+— Virginia Woolf, diary entry, 1 June 1935, collected in *The Diary of Virginia Woolf*, vol. IV.
 
 > It is perfectly true that she obsessed me, in spite of the fact that she died when I was thirteen, until I was forty-four. Then one day walking round Tavistock Square I made up, as I sometimes make up my books, To the Lighthouse; in a great, apparently involuntary, rush. One thing burst into another. Blowing bubbles out of a pipe gives the feeling of the rapid crowd of ideas and scenes which blew out of my mind, so that my lips seemed syllabling of their own accord as I walked. What blew the bubbles? Why then? I have no notion. But I wrote the book very quickly; and when it was written, I ceased to be obsessed by my mother. I no longer hear her voice; I do not see her.
 
