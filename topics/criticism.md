@@ -4,6 +4,12 @@ title: "Criticism"
 topic: "criticism"
 permalink: /topics/criticism/
 notes:
+  - title: "On the failure of language to describe certain art forms"
+    url: "/on-the-failure-of-language-to-describe-certain-art-forms/"
+    date: "19 Oct"
+  - title: "The limits of the biography form"
+    url: "/the-limits-of-the-biography-form/"
+    date: "19 Oct"
   - title: "Critical Communication by Arnold Isenberg"
     url: "/critical-communication-by-arnold-isenberg/"
     date: "30 Sep"

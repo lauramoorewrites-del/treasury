@@ -4,6 +4,9 @@ title: "Philosophy"
 topic: "philosophy"
 permalink: /topics/philosophy/
 notes:
+  - title: "On philosophy as motivated reasoning"
+    url: "/on-philosophy-as-motivated-reasoning/"
+    date: "20 Oct"
   - title: "Reading list on how subjectivity enters critical analysis"
     url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
     date: "22 Sep"

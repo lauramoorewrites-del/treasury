@@ -4,6 +4,9 @@ title: "Virginia Woolf"
 topic: "virginia woolf"
 permalink: /topics/virginia-woolf/
 notes:
+  - title: "On friendship"
+    url: "/on-friendship/"
+    date: "20 Oct"
   - title: "The tendency to see everything as connected"
     url: "/the-tendency-to-see-everything-as-connected/"
     date: "17 Sep"
