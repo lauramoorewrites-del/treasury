@@ -4,7 +4,16 @@ id: 93
 title: "On philosophy as motivated reasoning"
 created: "20 October 2026"
 updated: "20 October 2026"
-topics: [philosophy]
+topics: [philosophy, self-knowledge, somerset maugham]
+related:
+  - title: "Agnes Callard’s theory of ethical self-blindness"
+    url: "/agnes-callards-ethical-self-blindness/"
+  - title: "On the difficulty of knowing oneself"
+    url: "/on-the-difficulty-of-knowing-oneself/"
+  - title: "How consciousness deceives us"
+    url: "/how-consciousness-deceives-us/"
+  - title: "Notions of self"
+    url: "/notions-of-self/"
 ---
 
 > I do not know that in the ordinary affairs of life philosophy is of much more use than to enable us to make a virtue of necessity. By showing us the advantages of a step which we are forced to take, but would not of our own free will, it consoles us a little for its unpleasantness. It helps us to do with equanimity what we would rather not do.

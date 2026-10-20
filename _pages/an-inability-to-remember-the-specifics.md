@@ -4,11 +4,15 @@ id: 60
 title: "An inability to remember the specifics of books and movies and other forms of narrative"
 created: "6 August 2026"
 updated: "6 August 2026"
-topics: [memory, creativity, reading, authors]
+topics: [memory and the commonplace, reading]
 related:
   - title: "Memory"
     url: "/memory/"
-  - title: "When another’s writing obstructs your own"
+  - title: "The practice of keeping notebooks"
+    url: "/the-practice-of-keeping-notebooks/"
+  - title: "Unconscious thought and creativity"
+    url: "/unconscious-thought-and-creativity/"
+  - title: "When another's writing obstructs your own"
     url: "/when-anothers-style-obstructs-your-own/"
 ---
 

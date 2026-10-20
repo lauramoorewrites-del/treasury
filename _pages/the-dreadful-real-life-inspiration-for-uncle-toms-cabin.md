@@ -4,10 +4,16 @@ id: 68
 title: "The dreadful real-life inspiration for Uncle Tom's Cabin"
 created: "8 September 2026"
 updated: "8 September 2026"
-topics: [fiction, novels]
+topics: [fiction and the novel, truth]
 related:
   - title: "The novel as a source of truth"
     url: "/the-novel-as-a-source-of-truth/"
+  - title: "Creators and scientists who had insights that emerged fully formed"
+    url: "/insights-that-emerged-fully-formed/"
+  - title: "On the limits of truth-telling"
+    url: "/on-the-limits-of-truth-telling/"
+  - title: "Critics calling characters unreal, untrue, and unconvincing"
+    url: "/critics-calling-characters-unreal/"
 ---
 
 When *Uncle Tom's Cabin* was first published, many accused Harriet Beecher Stowe of making slavery look much worse than it was. They said she lied, through fiction, to garner sympathy for abolition. You get a sense of how much those charges irked her, down to her very marrow, when you learn she wrote an entire book in response, called *A Key to Uncle Tom's Cabin*. Published in 1853, it recounts, chapter by chapter, the real-life analogues for events and characters in the novel.

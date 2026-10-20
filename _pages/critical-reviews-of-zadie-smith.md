@@ -4,8 +4,14 @@ id: 25
 title: "Selected critical reviews of Zadie Smith"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [essay craft, zadie smith]
+topics: [criticism, reading lists, zadie smith, james wood]
 related:
+  - title: "Zadie Smith’s theories of fiction and writing"
+    url: "/zadie-smiths-theories-of-fiction-and-writing/"
+  - title: "James Wood's critical signature"
+    url: "/james-woods-critical-signature/"
+  - title: "On the critical form of the takedown"
+    url: "/the-literary-takedown/"
   - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
 ---

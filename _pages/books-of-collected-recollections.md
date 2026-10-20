@@ -4,7 +4,16 @@ id: 14
 title: "Books that collect other people’s recollections about a historical figure"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [reading]
+topics: [writers’ lives, reading lists]
+related:
+  - title: "The limits of the biography form"
+    url: "/the-limits-of-the-biography-form/"
+  - title: "Famous collections of private correspondence"
+    url: "/famous-collections-of-private-correspondence/"
+  - title: "The style of portrait artist Michael Shane Neal"
+    url: "/the-style-of-portrait-artist-michael-shane-neal/"
+  - title: "Books that unfold through connection-making"
+    url: "/books-that-makes-connections/"
 ---
 
 Books that assemble a portrait of someone through the memories and testimonies of people who knew them.

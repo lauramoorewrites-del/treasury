@@ -4,10 +4,18 @@ id: 15
 title: "Creators and scientists who had insights that emerged fully formed"
 created: "27 June 2026"
 updated: "13 October 2026"
-topics: [creativity, insight]
+topics: [inspiration, science]
 related:
   - title: "My theory of art and craft"
     url: "/my-theory-of-art-and-craft/"
+  - title: "Conceptions of the source of creativity"
+    url: "/conceptions-of-the-source-of-creativity/"
+  - title: "Unconscious thought and creativity"
+    url: "/unconscious-thought-and-creativity/"
+  - title: "Writers who discount the importance of inspiration to their work"
+    url: "/writers-who-discount-inspiration/"
+  - title: "The dreadful real-life inspiration for Uncle Tom's Cabin"
+    url: "/the-dreadful-real-life-inspiration-for-uncle-toms-cabin/"
 ---
 
 ### Samuel Taylor Coleridge

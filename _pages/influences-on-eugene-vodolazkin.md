@@ -4,7 +4,14 @@ id: 46
 title: "Influences on Russian novelist Eugene Vodolazkin"
 created: "19 July 2026"
 updated: "19 July 2026"
-topics: [authors, fiction]
+topics: [fiction and the novel, eugene vodolazkin]
+related:
+  - title: "List of literary works of Eugene Vodolazkin"
+    url: "/literary-works-of-eugene-vodolazkin/"
+  - title: "Collected reflections on cross-language literary translating"
+    url: "/cross-language-literary-translating/"
+  - title: "Sensory sensitivity"
+    url: "/sensory-sensitivity/"
 ---
 
 From Maya Vinokour, ["What History Cannot Teach Us: A Conversation with Eugene Vodolazkin and Lisa Hayden,"](https://lareviewofbooks.org/article/what-history-cannot-teach-us-a-conversation-with-eugene-vodolazkin-and-lisa-hayden/) *Los Angeles Review of Books* (interview):

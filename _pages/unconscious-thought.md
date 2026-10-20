@@ -4,12 +4,16 @@ id: 58
 title: "Unconscious thought"
 created: "31 July 2026"
 updated: "31 July 2026"
-topics: [unconscious, philosophy]
+topics: [the unconscious, science]
 related:
   - title: "Book: The Unconscious of Thought in Leibniz, Spinoza, and Hume, by Gil Morejón"
     url: "/the-unconscious-of-thought/"
-  - title: "Definitions of consciousness"
-    url: "/definitions-of-consciousness/"
+  - title: "Unconscious thought and creativity"
+    url: "/unconscious-thought-and-creativity/"
+  - title: "Talking about a latent conceptual presence"
+    url: "/talking-about-a-latent-conceptual-presence/"
+  - title: "The stuff of consciousness (what it’s made of)"
+    url: "/the-stuff-of-consciousness/"
 ---
 
 ---

@@ -4,10 +4,16 @@ id: 18
 title: "Donna Haraway’s god trick"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [epistemology, feminism, thinking tools]
+topics: [ways of knowing, thinking tools, gender]
 related:
   - title: "List of my personal touchstones"
     url: "/on-my-personal-touchstones/"
+  - title: "Mediated reality"
+    url: "/mediated-reality/"
+  - title: "Arguments from silence"
+    url: "/arguments-from-silence/"
+  - title: "On the limits of truth-telling"
+    url: "/on-the-limits-of-truth-telling/"
 ---
 
 I spoke about Haraway’s "god trick" [in this essay](https://www.strangeclarity.com/p/the-god-trick-and-how-we-read-authority), but the underlying work of philosophy deserves in-depth treatment; maybe I'll attempt that sometime.

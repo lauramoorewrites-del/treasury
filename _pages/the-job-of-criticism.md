@@ -8,8 +8,14 @@ topics: [criticism]
 related:
   - title: "The permission to criticize"
     url: "/the-permission-to-criticize/"
+  - title: "The nature of the critic's influence"
+    url: "/the-nature-of-the-critics-influence/"
+  - title: "On the critical form of the takedown"
+    url: "/the-literary-takedown/"
   - title: "James Wood's critical signature"
     url: "/james-woods-critical-signature/"
+  - title: "Critical Communication by Arnold Isenberg"
+    url: "/critical-communication-by-arnold-isenberg/"
 ---
 
 > One can overcomplicate what the job involves. It's to adjudicate in the process of explaining, or the other way around.

@@ -4,10 +4,14 @@ id: 39
 title: Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'
 created: "28 June 2026"
 updated: "28 June 2026"
-topics: [reading lists, zadie smith]
+topics: [reading lists, taste and judgment, zadie smith]
 related:
-  - title: "Zadie Smith's rectangle essays"
-    url: "/zadie-smiths-rectangle-essays/"
+  - title: "'Radiation from that narrow circle' and other accounts of borrowed vision"
+    url: "/radiation-from-that-narrow-circle/"
+  - title: "Zadie Smith’s theories of fiction and writing"
+    url: "/zadie-smiths-theories-of-fiction-and-writing/"
+  - title: "Reading list on how subjectivity enters critical analysis"
+    url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
 ---
 
 Zadie Smith, ["Some Notes on Attunement,"](https://www.newyorker.com/magazine/2012/12/17/some-notes-on-attunement) *The New Yorker* (2012); collected in [*Feel Free*](https://bookshop.org/p/books/feel-free-essays-zadie-smith/039831ec06a2cde1?ean=9780143110255) (Penguin Press, 2018).

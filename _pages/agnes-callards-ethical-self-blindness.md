@@ -4,7 +4,16 @@ id: 32
 title: "Agnes Callard’s theory of ethical self-blindness"
 created: "28 June 2026"
 updated: "28 June 2026"
-topics: [philosophy, consciousness]
+topics: [self-knowledge, philosophy]
+related:
+  - title: "On the difficulty of knowing oneself"
+    url: "/on-the-difficulty-of-knowing-oneself/"
+  - title: "Notions of self"
+    url: "/notions-of-self/"
+  - title: "How consciousness deceives us"
+    url: "/how-consciousness-deceives-us/"
+  - title: "On philosophy as motivated reasoning"
+    url: "/on-philosophy-as-motivated-reasoning/"
 ---
 
 From Agnes Callard, ["Romance Without Love/Love Without Romance,"](https://libertiesjournal.com/articles/romance-without-lovelove-without-romance/) *Liberties Journal*.

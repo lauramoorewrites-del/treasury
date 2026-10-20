@@ -4,7 +4,16 @@ id: 12
 title: "Averted vision, a technique for seeing in astronomy"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [darkness, indirectness]
+topics: [perception, thinking tools]
+related:
+  - title: "On negative knowledge"
+    url: "/on-negative-knowledge/"
+  - title: "Visual perception"
+    url: "/visual-perception/"
+  - title: "Mediated reality"
+    url: "/mediated-reality/"
+  - title: "Darkness and creativity"
+    url: "/darkness-and-creativity/"
 ---
 
 Averted vision is an observational technique employed in astronomy to improve the detection of faint celestial objects by intentionally looking slightly away from the target rather than directly at it, thereby engaging the more sensitive rod cells in the peripheral retina. It is a way of seeing a thing by looking at it askance.

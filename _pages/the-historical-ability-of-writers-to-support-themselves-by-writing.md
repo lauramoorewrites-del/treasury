@@ -4,12 +4,16 @@ id: 70
 title: "The historical ability of writers to support themselves by writing"
 created: "14 September 2026"
 updated: "14 September 2026"
-topics: [craft]
+topics: [writers’ lives, craft and practice, somerset maugham]
 related:
   - title: "Writers who discount the importance of inspiration to their work"
     url: "/writers-who-discount-inspiration/"
-  - title: "The permission to criticize"
-    url: "/the-permission-to-criticize/"
+  - title: "Virginia Woolf's real-life room"
+    url: "/virginia-woolfs-real-life-room/"
+  - title: "Creators who began late"
+    url: "/creators-who-began-late/"
+  - title: "The practice of keeping notebooks"
+    url: "/the-practice-of-keeping-notebooks/"
 ---
 
 ## Easily earning an income

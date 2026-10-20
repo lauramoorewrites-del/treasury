@@ -4,7 +4,16 @@ id: 9
 title: "Reading list"
 created: "26 June 2026"
 updated: "18 August 2026"
-topics: [reading]
+topics: [reading lists, reading]
+related:
+  - title: "My favorite essays"
+    url: "/my-favorite-essays/"
+  - title: "Public domain books used for research"
+    url: "/public-domain-books-used-for-research/"
+  - title: "Books that unfold through connection-making"
+    url: "/books-that-makes-connections/"
+  - title: "What this is"
+    url: "/what-this-is/"
 ---
 
 Running list of texts to read, with source and date recorded.

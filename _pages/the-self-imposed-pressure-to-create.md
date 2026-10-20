@@ -4,10 +4,14 @@ id: 71
 title: "The self-imposed pressure to create"
 created: "14 September 2026"
 updated: "14 September 2026"
-topics: [creativity, compulsion]
+topics: [drive and compulsion, craft and practice]
 related:
-  - title: "Leonardo's vanishing drive"
+  - title: "How creative expression extinguishes pressure"
+    url: "/how-creative-expression-relieves-pressure/"
+  - title: "Leonardo’s vanishing drive"
     url: "/leonardos-vanishing-drive/"
+  - title: "Ira Glass on taste killing motivation"
+    url: "/ira-glass-on-taste-killing-motivation/"
   - title: "Writers who discount the importance of inspiration to their work"
     url: "/writers-who-discount-inspiration/"
 ---

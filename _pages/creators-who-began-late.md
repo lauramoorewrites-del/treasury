@@ -4,10 +4,16 @@ id: 62
 title: "Creators who began late"
 created: "15 August 2026"
 updated: "15 August 2026"
-topics: [authors, creativity]
+topics: [writers’ lives, george eliot]
 related:
-  - title: "George Eliot’s uncertain path to writing fiction"
+  - title: "George Eliot's uncertain path to writing fiction"
     url: "/george-eliots-uncertain-path-to-writing-fiction/"
+  - title: "Leonardo’s vanishing drive"
+    url: "/leonardos-vanishing-drive/"
+  - title: "The historical ability of writers to support themselves by writing"
+    url: "/the-historical-ability-of-writers-to-support-themselves-by-writing/"
+  - title: "Emily Dickinson seeking external endorsement"
+    url: "/emily-dickinson-seeking-external-endorsement/"
 ---
 
 - George Eliot (Marian Evans) did not begin writing fiction until September 1856, at age thirty-six. She had spent years as a translator, essayist, and editor of the *Westminster Review*, and had long believed she lacked dramatic power. It was George Henry Lewes who urged her to try: *"You must try and write a story."* Her first effort, "The Sad Fortunes of the Reverend Amos Barton," became the opening of *Scenes of Clerical Life* (1858). *Middlemarch* followed fourteen years later. See also [George Eliot’s uncertain path to writing fiction](/treasury/george-eliots-uncertain-path-to-writing-fiction/).

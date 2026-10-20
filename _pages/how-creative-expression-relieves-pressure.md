@@ -4,14 +4,16 @@ id: 78
 title: "How creative expression extinguishes pressure"
 created: "17 September 2026"
 updated: "17 September 2026"
-topics: [creativity, compulsion]
+topics: [drive and compulsion, inspiration, virginia woolf]
 related:
   - title: "My theory of art and craft"
     url: "/my-theory-of-art-and-craft/"
   - title: "The self-imposed pressure to create"
     url: "/the-self-imposed-pressure-to-create/"
-  - title: "Leonardo's vanishing drive"
+  - title: "Leonardo’s vanishing drive"
     url: "/leonardos-vanishing-drive/"
+  - title: "Unconscious thought and creativity"
+    url: "/unconscious-thought-and-creativity/"
 ---
 
 Often, things preoccupy us—they won't let our mind alone. And sometimes, giving external form to the nagging thing can alleviate the pressure. Sometimes our interest disappears completely. The implications are interesting. For one: how you "spend" that pressure—which is the way inspiration sometimes appears—can be fatal and fateful. If you want to direct it into a specific instantiation, perhaps you should be wary of spending it too casually elsewhere first. Though as Marshall's example shows, the pressure may persist until it finds the "right" form, anyway. Perhaps the notion that we can control the use of inspiration is pure illusion.

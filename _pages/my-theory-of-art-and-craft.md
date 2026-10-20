@@ -4,13 +4,18 @@ id: 77
 title: "My theory of art and craft"
 created: "17 September 2026"
 updated: "17 October 2026"
-
-topics: [creativity]
+topics: [inspiration, craft and practice, drive and compulsion, virginia woolf, hildegard of bingen]
 related:
-  - title: "Writers who discount the importance of inspiration to their work"
-    url: "/writers-who-discount-inspiration/"
+  - title: "Conceptions of the source of creativity"
+    url: "/conceptions-of-the-source-of-creativity/"
   - title: "Creators and scientists who had insights that emerged fully formed"
     url: "/insights-that-emerged-fully-formed/"
+  - title: "Writers who discount the importance of inspiration to their work"
+    url: "/writers-who-discount-inspiration/"
+  - title: "Unconscious thought and creativity"
+    url: "/unconscious-thought-and-creativity/"
+  - title: "How creative expression extinguishes pressure"
+    url: "/how-creative-expression-relieves-pressure/"
 ---
 
 I've written an essay, accepted by *The Philosopher*, that proposes a new framework for distinguishing art and craft: "I use *art* to name a mode of making that originates in felt necessity, and *craft* to name a mode that originates in deliberate intention." My framework proceeds from creators' accounts, some of which I mention in the essay. Here are more.

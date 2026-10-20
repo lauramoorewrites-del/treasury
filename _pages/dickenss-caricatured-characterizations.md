@@ -4,12 +4,16 @@ id: 76
 title: "Dickens's caricatured characterizations"
 created: "17 September 2026"
 updated: "17 September 2026"
-topics: [fiction, authors]
+topics: [fiction and the novel, james wood, virginia woolf]
 related:
   - title: "Critics calling characters unreal, untrue, and unconvincing"
     url: "/critics-calling-characters-unreal/"
+  - title: "James Wood's critical signature"
+    url: "/james-woods-critical-signature/"
   - title: "The tendency to see everything as connected"
     url: "/the-tendency-to-see-everything-as-connected/"
+  - title: "What individual literary style consists of"
+    url: "/what-individual-literary-style-consists-of/"
 ---
 
 > Why did Dickens spend his entire life writing stories? What was his conception? I bring in Dickens partly because I am reading Nicholas Nickleby at the moment; also partly because it struck me, on my walk yesterday, that these moments of being of mine were scaffolding in the background; were the invisible and silent part of my life as a child. But in the foreground there were of course people; and these people were very like characters in Dickens. They were caricatures; they were very simple; they were immensely alive. They could be made with three strokes of the pen, if I could do it. Dickens owes his astonishing power to make characters alive to the fact that he saw them as a child sees them; as I saw Mr Wolstenholme; C. B. Clarke, and Mr Gibbs.

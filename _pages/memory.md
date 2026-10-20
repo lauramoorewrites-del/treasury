@@ -2,15 +2,18 @@
 layout: default
 id: 1
 title: "Memory"
-
 created: "18 June 2026"
 updated: "18 June 2026"
-topics: [memory, medieval, commonplace books]
+topics: [memory and the commonplace, the medieval]
 related:
   - title: "What this is"
     url: "/what-this-is/"
   - title: "On hevel and vanity"
     url: "/on-hevel-and-vanity/"
+  - title: "The practice of keeping notebooks"
+    url: "/the-practice-of-keeping-notebooks/"
+  - title: "An inability to remember the specifics of books and movies and other forms of narrative"
+    url: "/an-inability-to-remember-the-specifics/"
 ---
 
 ---

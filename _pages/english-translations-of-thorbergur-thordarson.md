@@ -4,7 +4,14 @@ id: 44
 title: "English translations of works by Þórbergur Þórðarson"
 created: "16 July 2026"
 updated: "16 July 2026"
-topics: [authors, translation]
+topics: [language and translation, reading lists]
+related:
+  - title: "Collected reflections on cross-language literary translating"
+    url: "/cross-language-literary-translating/"
+  - title: "Icelandic storytelling tradition"
+    url: "/icelandic-storytelling-tradition/"
+  - title: "List of literary works of Eugene Vodolazkin"
+    url: "/literary-works-of-eugene-vodolazkin/"
 ---
 
 A list of English translations of the works of Þórbergur Þórðarson (anglicized, Thorbergur Thordarson).

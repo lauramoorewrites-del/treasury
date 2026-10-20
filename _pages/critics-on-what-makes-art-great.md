@@ -4,10 +4,16 @@ id: 35
 title: "Critics on what makes art great"
 created: "28 June 2026"
 updated: "28 June 2026"
-topics: [creativity]
+topics: [criticism, taste and judgment, leo tolstoy]
 related:
   - title: "Authors who disliked or didn't understand other authors' works"
     url: "/novelists-on-works-they-dislike/"
+  - title: "Epidemic of suggestion of the literary kind"
+    url: "/epidemic-of-suggestion-of-the-literary-kind/"
+  - title: "Reading list on how subjectivity enters critical analysis"
+    url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
+  - title: "The permission to criticize"
+    url: "/the-permission-to-criticize/"
 ---
 
 > Tolstoy then recapitulates in a few paragraphs the theory of art which he had expressed at greater length elsewhere. Put still more shortly, it amounts to a demand for dignity of subject matter, sincerity, and good craftsmanship. A great work of art must deal with some subject which is "important to the life of mankind", it must express something which the author genuinely feels, and it must use such technical methods as will produce the desired effect. As Shakespeare is debased in outlook, slipshod in execution and incapable of being sincere even for a moment, he obviously stands condemned.

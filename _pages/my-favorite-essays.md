@@ -4,12 +4,16 @@ id: 23
 title: "My favorite essays"
 created: "27 June 2026"
 updated: "16 October 2026"
-topics: [essay craft, reading]
+topics: [the essay, reading lists]
 related:
-  - title: "Selected critical reviews of Zadie Smith"
-    url: "/critical-reviews-of-zadie-smith/"
   - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
+  - title: "Zadie Smith’s theories of fiction and writing"
+    url: "/zadie-smiths-theories-of-fiction-and-writing/"
+  - title: "Strange ways of pursuing artistic inspiration"
+    url: "/strange-ways-of-pursuing-artistic-inspiration/"
+  - title: "List of essays where lack of clarity is argued as gatekeeping"
+    url: "/lack-of-clarity-as-gatekeeping/"
 ---
 
 - Sarah Cook, ["Everything Can't Be An Essay,"](https://neondoorlit.com/blog/everything-cant-be-an-essay/) *NeonDoor* (2022).

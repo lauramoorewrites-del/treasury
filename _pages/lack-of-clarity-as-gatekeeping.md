@@ -4,7 +4,16 @@ id: 19
 title: "List of essays where lack of clarity is argued as gatekeeping"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [epistemology, essay craft]
+topics: [the essay, philosophy, reading lists]
+related:
+  - title: "On the failure of language to describe certain art forms"
+    url: "/on-the-failure-of-language-to-describe-certain-art-forms/"
+  - title: "Collected reflections on translating thought into words"
+    url: "/translating-thought-into-words/"
+  - title: "On the critical form of the takedown"
+    url: "/the-literary-takedown/"
+  - title: "Reading list on how subjectivity enters critical analysis"
+    url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
 ---
 
 - Ana Vieyra, ["On a recent controversy regarding clarity in philosophical writing,"](https://epochemagazine.org/88/on-a-recent-controversy-regarding-clarity-in-philosophical-writing/) *Epoché Magazine* (2026). Accuses Muñoz of "logocide" — killing philosophy by demanding clarity — and defends obscurity as a feature of semantically rich thought.

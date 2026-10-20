@@ -2,13 +2,18 @@
 layout: default
 id: 8
 title: "Books that unfold through connection-making"
-
 created: "25 June 2026"
 updated: "25 June 2026"
-topics: [reading]
+topics: [reading, memory and the commonplace]
 related:
+  - title: "The tendency to see everything as connected"
+    url: "/the-tendency-to-see-everything-as-connected/"
   - title: "What this is"
     url: "/what-this-is/"
+  - title: "Books that collect other people’s recollections about a historical figure"
+    url: "/books-of-collected-recollections/"
+  - title: "Hospitality as a framework for receiving art"
+    url: "/hospitality-as-a-framework-for-receiving-art/"
 ---
 
 I like books that make connections, whose point seems to largely *be* about making connections.

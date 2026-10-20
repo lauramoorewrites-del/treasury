@@ -4,7 +4,14 @@ id: 43
 title: "Reference works on oral storytelling tradition"
 created: "15 July 2026"
 updated: "15 July 2026"
-topics: [medieval]
+topics: [the medieval, reading lists, memory and the commonplace]
+related:
+  - title: "Icelandic storytelling tradition"
+    url: "/icelandic-storytelling-tradition/"
+  - title: "Memory"
+    url: "/memory/"
+  - title: "English translations of works by Þórbergur Þórðarson"
+    url: "/english-translations-of-thorbergur-thordarson/"
 ---
 
 Sigurðsson describes a turning point in oral tradition methodology around 1960:

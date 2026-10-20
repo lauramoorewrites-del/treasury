@@ -2,13 +2,18 @@
 layout: default
 id: 3
 title: "What this is"
-
 created: "18 June 2026"
 updated: "18 June 2026"
-topics: [memory, commonplace books, medieval]
+topics: [memory and the commonplace, the medieval]
 related:
   - title: "Memory"
     url: "/memory/"
+  - title: "The practice of keeping notebooks"
+    url: "/the-practice-of-keeping-notebooks/"
+  - title: "List of my personal touchstones"
+    url: "/on-my-personal-touchstones/"
+  - title: "Books that unfold through connection-making"
+    url: "/books-that-makes-connections/"
   - title: "On hevel and vanity"
     url: "/on-hevel-and-vanity/"
 ---

@@ -4,12 +4,16 @@ id: 80
 title: "James Wood's critical signature"
 created: "21 September 2026"
 updated: "21 September 2026"
-topics: [criticism, authors]
+topics: [criticism, james wood]
 related:
-  - title: "The tendency to see everything as connected"
-    url: "/the-tendency-to-see-everything-as-connected/"
+  - title: "The job of criticism"
+    url: "/the-job-of-criticism/"
   - title: "Dickens's caricatured characterizations"
     url: "/dickenss-caricatured-characterizations/"
+  - title: "Selected critical reviews of Zadie Smith"
+    url: "/critical-reviews-of-zadie-smith/"
+  - title: "The tendency to see everything as connected"
+    url: "/the-tendency-to-see-everything-as-connected/"
   - title: "On the difficulty of knowing oneself"
     url: "/on-the-difficulty-of-knowing-oneself/"
 ---

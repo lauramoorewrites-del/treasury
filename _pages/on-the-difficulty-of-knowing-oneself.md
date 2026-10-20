@@ -4,12 +4,18 @@ id: 73
 title: "On the difficulty of knowing oneself"
 created: "17 September 2026"
 updated: "20 October 2026"
-topics: [consciousness, virginia woolf]
+topics: [self-knowledge, consciousness, virginia woolf, somerset maugham, james wood]
 related:
-  - title: "Agnes Callard's theory of ethical self-blindness"
+  - title: "Agnes Callard’s theory of ethical self-blindness"
     url: "/agnes-callards-ethical-self-blindness/"
-  - title: "How consciousness deceives us"
-    url: "/how-consciousness-deceives-us/"
+  - title: "Notions of self"
+    url: "/notions-of-self/"
+  - title: "Emily Dickinson seeking external endorsement"
+    url: "/emily-dickinson-seeking-external-endorsement/"
+  - title: "On philosophy as motivated reasoning"
+    url: "/on-philosophy-as-motivated-reasoning/"
+  - title: "James Wood's critical signature"
+    url: "/james-woods-critical-signature/"
 ---
 
 > I do not know how far I differ from other people. That is another memoir writer's difficulty. Yet to describe oneself truly one must have some standard of comparison; was I clever, stupid, good looking, ugly, passionate, cold—?

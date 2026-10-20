@@ -4,7 +4,14 @@ id: 40
 title: "The medieval anchorhold at Disibodenberg"
 created: "28 June 2026"
 updated: "28 June 2026"
-topics: [medieval, hildegard of bingen]
+topics: [the medieval, religion, hildegard of bingen]
+related:
+  - title: "My theory of art and craft"
+    url: "/my-theory-of-art-and-craft/"
+  - title: "Virginia Woolf's real-life room"
+    url: "/virginia-woolfs-real-life-room/"
+  - title: "On hevel and vanity"
+    url: "/on-hevel-and-vanity/"
 ---
 
 Hildegard of Bingen lived in the *Frauenklause*, the women's hermitage or anchorhold, at the monastery at Disibodenberg from 1112 (per the *Life of Jutta* discovered in 1999) until she established a new convent at Rupertsberg in 1150.

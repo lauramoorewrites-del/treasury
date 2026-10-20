@@ -2,18 +2,19 @@
 layout: default
 id: 2
 title: "On hevel and vanity"
-
 created: "18 June 2026"
 updated: "18 June 2026"
-topics: [translation, etymology, religion]
-figuring_out:
-  - "Was Jerome's choice of vanitas a genuine mistranslation, or a deliberate interpretive move?"
-  - "What other biblical concepts drifted this far through successive translation?"
+topics: [language and translation, religion]
 related:
   - title: "What this is"
     url: "/what-this-is/"
+  - title: "Collected reflections on cross-language literary translating"
+    url: "/cross-language-literary-translating/"
   - title: "Memory"
     url: "/memory/"
+figuring_out:
+  - "Was Jerome's choice of vanitas a genuine mistranslation, or a deliberate interpretive move?"
+  - "What other biblical concepts drifted this far through successive translation?"
 ---
 
 I contributed this Substack [Note](https://substack.com/@strangeclarity/note/c-278092972?r=emcf2&utm_source=notes-share-action&utm_medium=web) to a discussion of the curiosities of Biblical translation:

@@ -4,7 +4,16 @@ id: 53
 title: "George Eliot's uncertain path to writing fiction"
 created: "25 July 2026"
 updated: "25 July 2026"
-topics: [authors, fiction]
+topics: [writers’ lives, fiction and the novel, george eliot]
+related:
+  - title: "Creators who began late"
+    url: "/creators-who-began-late/"
+  - title: "Emily Dickinson seeking external endorsement"
+    url: "/emily-dickinson-seeking-external-endorsement/"
+  - title: "The novel as a source of truth"
+    url: "/the-novel-as-a-source-of-truth/"
+  - title: "'Radiation from that narrow circle' and other accounts of borrowed vision"
+    url: "/radiation-from-that-narrow-circle/"
 ---
 
 From George Eliot's (Marian Evans's) piece "How I came to write fiction":

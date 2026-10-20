@@ -4,7 +4,16 @@ id: 87
 title: "Virginia Woolf's real-life room"
 created: "3 October 2026"
 updated: "3 October 2026"
-topics: [authors, creativity, feminism, literature]
+topics: [writers’ lives, gender, virginia woolf]
+related:
+  - title: "The historical ability of writers to support themselves by writing"
+    url: "/the-historical-ability-of-writers-to-support-themselves-by-writing/"
+  - title: "The medieval anchorhold at Disibodenberg"
+    url: "/the-medieval-anchorhold-at-disibodenberg/"
+  - title: "On friendship"
+    url: "/on-friendship/"
+  - title: "On the limits of truth-telling"
+    url: "/on-the-limits-of-truth-telling/"
 ---
 
 *9 December 1928*

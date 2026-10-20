@@ -4,7 +4,16 @@ id: 69
 title: "Public domain books used for research"
 created: "8 September 2026"
 updated: "8 September 2026"
-topics: [reading]
+topics: [reading lists, gender, emily dickinson]
+related:
+  - title: "Famous collections of private correspondence"
+    url: "/famous-collections-of-private-correspondence/"
+  - title: "Emily Dickinson seeking external endorsement"
+    url: "/emily-dickinson-seeking-external-endorsement/"
+  - title: "Books that collect other people’s recollections about a historical figure"
+    url: "/books-of-collected-recollections/"
+  - title: "Reading list"
+    url: "/reading-list/"
 ---
 
 - Martha Dickinson Bianchi, *Emily Dickinson Face to Face: Unpublished Letters with Notes and Reminiscences* (Houghton Mifflin, 1932). [Internet Archive](https://archive.org/details/emilydickinsonfa00bian).

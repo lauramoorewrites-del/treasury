@@ -284,48 +284,57 @@ recent:
   - title: "Ira Glass on taste killing motivation"
     url: "/ira-glass-on-taste-killing-motivation/"
     date: "19 Jun"
-topic_list:
-  - aesthetic taste
-  - art
-  - artists' studios
-  - authors
-  - commonplace books
-  - compulsion
-  - connectedness
-  - consciousness
-  - craft
-  - creativity
-  - criticism
-  - darkness
-  - epistemology
-  - essay craft
-  - expression
-  - etymology
-  - fiction
-  - feminism
-  - friendship
-  - gender
-  - hildegard of bingen
-  - indirectness
-  - insight
-  - language
-  - literature
-  - medieval
-  - memory
-  - neuroscience
-  - nonconformity
-  - novels
-  - philosophy
-  - portraiture
-  - psychology
-  - reading
-  - reading lists
-  - religion
-  - science
-  - sensibility
-  - sound
-  - thinking tools
-  - translation
-  - unconscious
-  - vision
+topic_groups:
+  - name: "Making"
+    topics:
+      - "inspiration"
+      - "craft and practice"
+      - "drive and compulsion"
+      - "style"
+      - "the essay"
+      - "fiction and the novel"
+  - name: "Reading and judging"
+    topics:
+      - "reading"
+      - "reading lists"
+      - "criticism"
+      - "taste and judgment"
+  - name: "Mind"
+    topics:
+      - "consciousness"
+      - "the unconscious"
+      - "self-knowledge"
+      - "perception"
+  - name: "Knowing"
+    topics:
+      - "ways of knowing"
+      - "truth"
+      - "thinking tools"
+      - "philosophy"
+  - name: "Language and memory"
+    topics:
+      - "language and translation"
+      - "memory and the commonplace"
+      - "the medieval"
+  - name: "Lives and contexts"
+    topics:
+      - "writers’ lives"
+      - "gender"
+      - "neurodivergence"
+      - "the other arts"
+      - "science"
+      - "religion"
+  - name: "Figures"
+    topics:
+      - "virginia woolf"
+      - "zadie smith"
+      - "george eliot"
+      - "somerset maugham"
+      - "james wood"
+      - "leo tolstoy"
+      - "eugene vodolazkin"
+      - "leibniz"
+      - "hildegard of bingen"
+      - "emily dickinson"
+      - "w. h. auden"
 ---

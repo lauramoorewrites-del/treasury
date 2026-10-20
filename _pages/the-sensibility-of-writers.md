@@ -4,10 +4,16 @@ id: 52
 title: "The sensibilities of writers"
 created: "24 July 2026"
 updated: "24 July 2026"
-topics: [authors, zadie smith]
+topics: [style, zadie smith]
 related:
-  - title: "When another's style obstructs your own"
+  - title: "What individual literary style consists of"
+    url: "/what-individual-literary-style-consists-of/"
+  - title: "When another's writing obstructs your own"
     url: "/when-anothers-style-obstructs-your-own/"
+  - title: "Instinctual preference for color and visual aesthetics"
+    url: "/instinctual-preference-for-color-and-visual-aesthetics/"
+  - title: "Zadie Smith’s theories of fiction and writing"
+    url: "/zadie-smiths-theories-of-fiction-and-writing/"
 ---
 
 Zadie Smith on her own constraints as a writer:

@@ -4,10 +4,14 @@ id: 20
 title: "List of people who spoke flatly, in monotone"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: []
+topics: [neurodivergence]
 related:
   - title: "List of people with sensitivity to sound"
     url: "/people-with-sensitivity-to-sound/"
+  - title: "Sensory sensitivity"
+    url: "/sensory-sensitivity/"
+  - title: "List of outdated DSM pathologies"
+    url: "/outdated-dsm-pathologies/"
 ---
 
 - **Béla Bartók.** *"Bartók's intonation in speaking contributed further to this impression, as it was exceedingly grey and monotonous. Very rarely did I ever hear the Master emphasize a particular word. Mostly, the whole text flowed out completely evenly, like a tranquil stream."* Source unconfirmed; likely Serge Moreux, *Béla Bartók* (1953).

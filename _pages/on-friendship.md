@@ -4,7 +4,16 @@ id: 92
 title: "On friendship"
 created: "20 October 2026"
 updated: "20 October 2026"
-topics: [friendship, authors]
+topics: [writers’ lives, virginia woolf, somerset maugham]
+related:
+  - title: "Famous collections of private correspondence"
+    url: "/famous-collections-of-private-correspondence/"
+  - title: "On the difficulty of knowing oneself"
+    url: "/on-the-difficulty-of-knowing-oneself/"
+  - title: "Virginia Woolf's real-life room"
+    url: "/virginia-woolfs-real-life-room/"
+  - title: "Books that collect other people’s recollections about a historical figure"
+    url: "/books-of-collected-recollections/"
 ---
 
 > I had a most charming letter from Nelly: the only thing that palls is her praise of you. It isn’t healthy to be so appreciative. A good quarrel–nasty sarcasm–and home truths–that is the right stuff for friendship. I think with pleasure of several edged words we have had together. The last on the platform of the underground railway!

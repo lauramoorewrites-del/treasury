@@ -4,7 +4,16 @@ id: 34
 title: "Critics calling characters unreal, untrue, and unconvincing"
 created: "28 June 2026"
 updated: "28 June 2026"
-topics: [fiction, authors]
+topics: [fiction and the novel, criticism, virginia woolf]
+related:
+  - title: "Dickens's caricatured characterizations"
+    url: "/dickenss-caricatured-characterizations/"
+  - title: "James Wood's critical signature"
+    url: "/james-woods-critical-signature/"
+  - title: "The novel as a source of truth"
+    url: "/the-novel-as-a-source-of-truth/"
+  - title: "On the critical form of the takedown"
+    url: "/the-literary-takedown/"
 ---
 
 > Bennett produced an essay of his own ("Is the Novel Decaying?" Cassell's Weekly, March 28, 1923) stating that "the foundation of good fiction is character-creating and nothing else" and also—in Woolf's paraphrase—that "we have no young novelists of first-rate importance at the present moment, because they are unable to create characters that are real, true, and convincing" (quoted and paraphrased in Woolf E 3: 421).

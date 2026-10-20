@@ -4,7 +4,16 @@ id: 11
 title: "Authors who disliked or didn't understand other authors' works"
 created: "27 June 2026"
 updated: "24 July 2026"
-topics: [fiction, reading, authors, sensibility]
+topics: [taste and judgment, reading, leo tolstoy, virginia woolf]
+related:
+  - title: "Critics on what makes art great"
+    url: "/critics-on-what-makes-art-great/"
+  - title: "Epidemic of suggestion of the literary kind"
+    url: "/epidemic-of-suggestion-of-the-literary-kind/"
+  - title: "Woolf on reading other writers"
+    url: "/woolf-on-reading-other-writers/"
+  - title: "When another's writing obstructs your own"
+    url: "/when-anothers-style-obstructs-your-own/"
 ---
 
 **Joan Didion.**

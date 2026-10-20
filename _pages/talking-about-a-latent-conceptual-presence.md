@@ -4,12 +4,16 @@ id: 27
 title: "Talking about a latent conceptual presence"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [philosophy, epistemology]
+topics: [the unconscious, ways of knowing, philosophy]
 related:
+  - title: "Book: The Unconscious of Thought in Leibniz, Spinoza, and Hume, by Gil Morejón"
+    url: "/the-unconscious-of-thought/"
+  - title: "Arguments from silence"
+    url: "/arguments-from-silence/"
   - title: "Apperception"
     url: "/reflective-knowledge-and-introspective-awareness/"
-  - title: "The stuff of consciousness (what it's made of)"
-    url: "/the-stuff-of-consciousness/"
+  - title: "Unconscious thought"
+    url: "/unconscious-thought/"
 ---
 
 What do you call it when you're investigating the presence of a concept before it is named?

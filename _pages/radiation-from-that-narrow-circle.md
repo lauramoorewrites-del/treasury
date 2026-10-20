@@ -4,12 +4,18 @@ id: 56
 title: "'Radiation from that narrow circle' and other accounts of borrowed vision"
 created: "29 July 2026"
 updated: "20 October 2026"
-topics: [epistemology, craft]
+topics: [taste and judgment, criticism, george eliot, zadie smith, somerset maugham]
 related:
-  - title: "Hospitality as a framework for receiving art"
-    url: "/hospitality-as-a-framework-for-receiving-art/"
   - title: "Epidemic of suggestion of the literary kind"
     url: "/epidemic-of-suggestion-of-the-literary-kind/"
+  - title: "Hospitality as a framework for receiving art"
+    url: "/hospitality-as-a-framework-for-receiving-art/"
+  - title: "Critical Communication by Arnold Isenberg"
+    url: "/critical-communication-by-arnold-isenberg/"
+  - title: "Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'"
+    url: "/reading-list-from-attunement/"
+  - title: "The nature of the critic's influence"
+    url: "/the-nature-of-the-critics-influence/"
 ---
 
 In a piece I'm submitting, I talk about borrowed vision. What I mean is what is described in the excerpts below.

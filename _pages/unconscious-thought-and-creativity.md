@@ -4,12 +4,16 @@ id: 88
 title: "Unconscious thought and creativity"
 created: "5 October 2026"
 updated: "5 October 2026"
-topics: [creativity, unconscious]
+topics: [inspiration, the unconscious, virginia woolf]
 related:
   - title: "Unconscious thought"
     url: "/unconscious-thought/"
   - title: "My theory of art and craft"
     url: "/my-theory-of-art-and-craft/"
+  - title: "Creators and scientists who had insights that emerged fully formed"
+    url: "/insights-that-emerged-fully-formed/"
+  - title: "Conceptions of the source of creativity"
+    url: "/conceptions-of-the-source-of-creativity/"
   - title: "Strange ways of pursuing artistic inspiration"
     url: "/strange-ways-of-pursuing-artistic-inspiration/"
 ---

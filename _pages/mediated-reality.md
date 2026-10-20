@@ -4,7 +4,16 @@ id: 22
 title: "Mediated reality"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [epistemology, indirectness]
+topics: [perception, ways of knowing, the other arts]
+related:
+  - title: "Averted vision, a technique for seeing in astronomy"
+    url: "/averted-vision/"
+  - title: "Donna Haraway’s god trick"
+    url: "/donna-haraways-god-trick/"
+  - title: "Visual perception"
+    url: "/visual-perception/"
+  - title: "'Radiation from that narrow circle' and other accounts of borrowed vision"
+    url: "/radiation-from-that-narrow-circle/"
 ---
 
 > A way of certifying experience, taking photographs is also a way of refusing it—by limiting experience to a search for the photogenic, by converting experience into an image, a souvenir.

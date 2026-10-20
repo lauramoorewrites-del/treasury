@@ -4,7 +4,16 @@ id: 28
 title: "The novel as a source of truth"
 created: "27 June 2026"
 updated: "21 September 2026"
-topics: [creativity, epistemology, novels, fiction]
+topics: [fiction and the novel, truth, george eliot]
+related:
+  - title: "The dreadful real-life inspiration for Uncle Tom's Cabin"
+    url: "/the-dreadful-real-life-inspiration-for-uncle-toms-cabin/"
+  - title: "On the limits of truth-telling"
+    url: "/on-the-limits-of-truth-telling/"
+  - title: "Definitions of truth"
+    url: "/definitions-of-truth/"
+  - title: "Critics calling characters unreal, untrue, and unconvincing"
+    url: "/critics-calling-characters-unreal/"
 ---
 
 > In skillful hands, the novel can give us greater insight into history than history itself does. One could, for example, put together a list of novels that would tell more about the history and psychological condition of the United States than a general history of the subject.

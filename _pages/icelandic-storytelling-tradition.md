@@ -4,10 +4,14 @@ id: 42
 title: "Icelandic storytelling tradition"
 created: "15 July 2026"
 updated: "15 July 2026"
-topics: [medieval]
+topics: [the medieval, ways of knowing]
 related:
   - title: "Reference works on oral storytelling tradition"
     url: "/reference-works-on-oral-storytelling-tradition/"
+  - title: "English translations of works by Þórbergur Þórðarson"
+    url: "/english-translations-of-thorbergur-thordarson/"
+  - title: "Memory"
+    url: "/memory/"
 ---
 
 The *Saga of the Sons of Droplaug* embeds an authority claim for the oral teller, saying that the saga (and the events therein) were first told by a descendant of a principal character. It's like the concept of a chain of custody for legal evidence: proof that the saga is reliable because of evidence of its handling since the events in question.

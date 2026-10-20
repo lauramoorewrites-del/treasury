@@ -149,6 +149,7 @@ pre{ overflow-x: auto; padding: 0.9rem 1rem; border: 1px solid var(--rule); bord
 .topics-list li::before{ content: none; }
 .topics-list a{ color: var(--muted-ink); border: 0; }
 .topics-list a:hover{ color: var(--accent); }
+.topic-group-label{ font-style: italic; font-size: 0.98rem; color: var(--muted); margin: 1.4rem 0 0.15rem; }
 
 /* open questions (set-in block, not coloured box) */
 .open-questions{ margin: 2.4rem 0; padding: 0.2rem 0 0.2rem 1.15rem;

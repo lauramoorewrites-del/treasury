@@ -1,0 +1,34 @@
+---
+layout: topic
+title: "Neurodivergence"
+topic: "neurodivergence"
+permalink: /topics/neurodivergence/
+description: "Sensory sensitivity, cognitive difference, and how such traits have been classified."
+notes:
+  - title: "Leonardo’s vanishing drive"
+    url: "/leonardos-vanishing-drive/"
+    date: "1 Sep"
+  - title: "Sensory sensitivity"
+    url: "/sensory-sensitivity/"
+    date: "7 Aug"
+  - title: "List of outdated DSM pathologies"
+    url: "/outdated-dsm-pathologies/"
+    date: "28 Jun"
+  - title: "List of people who spoke flatly, in monotone"
+    url: "/people-who-spoke-in-monotone/"
+    date: "27 Jun"
+  - title: "List of people with sensitivity to sound"
+    url: "/people-with-sensitivity-to-sound/"
+    date: "27 Jun"
+see_also:
+  - title: "writers’ lives"
+    url: "/topics/writers-lives/"
+  - title: "gender"
+    url: "/topics/gender/"
+  - title: "the other arts"
+    url: "/topics/the-other-arts/"
+  - title: "science"
+    url: "/topics/science/"
+  - title: "religion"
+    url: "/topics/religion/"
+---

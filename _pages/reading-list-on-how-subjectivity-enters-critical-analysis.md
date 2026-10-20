@@ -4,12 +4,16 @@ id: 81
 title: "Reading list on how subjectivity enters critical analysis"
 created: "22 September 2026"
 updated: "23 September 2026"
-topics: [criticism, aesthetic taste, reading lists, philosophy]
+topics: [criticism, taste and judgment, reading lists, philosophy]
 related:
   - title: "The permission to criticize"
     url: "/the-permission-to-criticize/"
   - title: "Critics on what makes art great"
     url: "/critics-on-what-makes-art-great/"
+  - title: "Critical Communication by Arnold Isenberg"
+    url: "/critical-communication-by-arnold-isenberg/"
+  - title: "Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'"
+    url: "/reading-list-from-attunement/"
 ---
 
 Works on where — and how — subjective judgment enters critical and aesthetic evaluation, from the philosophy of taste to contemporary criticism. Grouped by the aspect of the problem each addresses.

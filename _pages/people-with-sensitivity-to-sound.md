@@ -4,7 +4,16 @@ id: 21
 title: "List of people with sensitivity to sound"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [sound]
+topics: [neurodivergence, perception]
+related:
+  - title: "List of people who spoke flatly, in monotone"
+    url: "/people-who-spoke-in-monotone/"
+  - title: "Sensory sensitivity"
+    url: "/sensory-sensitivity/"
+  - title: "List of outdated DSM pathologies"
+    url: "/outdated-dsm-pathologies/"
+  - title: "Visual perception"
+    url: "/visual-perception/"
 ---
 
 A personal theory: some people who claim not to like kids may have a sound sensitivity. Kids are very loud. This theory arises from Jameela Jamil’s controversial Substack piece where she lists the reasons she isn’t having kids, and among other things, called them “annoying” and “noisy.” (This is from memory — the piece is now paywalled). Growing up, I had a friend that my dad hated to have over because, he said, she was too noisy.

@@ -4,12 +4,16 @@ id: 61
 title: "Sensory sensitivity"
 created: "7 August 2026"
 updated: "7 August 2026"
-topics: [sound, fiction, eugene vodolazkin]
+topics: [perception, neurodivergence, fiction and the novel, eugene vodolazkin]
 related:
   - title: "List of people with sensitivity to sound"
     url: "/people-with-sensitivity-to-sound/"
   - title: "List of literary works of Eugene Vodolazkin"
     url: "/literary-works-of-eugene-vodolazkin/"
+  - title: "Instinctual preference for color and visual aesthetics"
+    url: "/instinctual-preference-for-color-and-visual-aesthetics/"
+  - title: "List of outdated DSM pathologies"
+    url: "/outdated-dsm-pathologies/"
 ---
 
 > We could see nothing to portend a thunderstorm, but that’s only how it seemed: an absolutely leaden cloud was approaching from behind the grove we weren’t looking at. Unlike the boy who had warned us, we were self-absorbed and had not noticed anything. Later in life, I have observed that solitary people sense more subtly and notice nearing changes before others.

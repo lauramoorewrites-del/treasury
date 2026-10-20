@@ -4,12 +4,16 @@ id: 31
 title: "Zadie Smith’s theories of fiction and writing"
 created: "27 June 2026"
 updated: "25 July 2026"
-topics: [essay craft, creativity, zadie smith]
+topics: [the essay, fiction and the novel, style, zadie smith]
 related:
   - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
   - title: "Selected critical reviews of Zadie Smith"
     url: "/critical-reviews-of-zadie-smith/"
+  - title: "What individual literary style consists of"
+    url: "/what-individual-literary-style-consists-of/"
+  - title: "Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'"
+    url: "/reading-list-from-attunement/"
   - title: "My favorite essays"
     url: "/my-favorite-essays/"
 ---

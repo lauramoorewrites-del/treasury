@@ -4,10 +4,16 @@ id: 6
 title: "List of my personal touchstones"
 created: "23 June 2026"
 updated: "27 June 2026"
-topics: [epistemology, thinking tools]
+topics: [thinking tools, memory and the commonplace]
 related:
   - title: "What this is"
     url: "/what-this-is/"
+  - title: "Donna Haraway’s god trick"
+    url: "/donna-haraways-god-trick/"
+  - title: "Louisa May Alcott and Bronson Alcott and gender nonconformity"
+    url: "/louisa-may-alcott/"
+  - title: "Arguments from silence"
+    url: "/arguments-from-silence/"
 ---
 
 Every so often, I encounter an idea that embeds in my mind and becomes a durable hinge for my thinking. Maybe hinge isn’t quite right. The idea becomes a filter, or lens, or explanatory mechanism that I can apply to understanding something *else* better. I’ve started to think of these as personal touchstones: things I return to, touch back on, use as points of orientation.

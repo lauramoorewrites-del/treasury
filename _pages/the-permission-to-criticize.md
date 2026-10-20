@@ -6,10 +6,14 @@ created: "29 July 2026"
 updated: "29 July 2026"
 topics: [criticism]
 related:
-  - title: "Critics on what makes art great"
-    url: "/critics-on-what-makes-art-great/"
+  - title: "The job of criticism"
+    url: "/the-job-of-criticism/"
   - title: "Hospitality as a framework for receiving art"
     url: "/hospitality-as-a-framework-for-receiving-art/"
+  - title: "Critics on what makes art great"
+    url: "/critics-on-what-makes-art-great/"
+  - title: "On the critical form of the takedown"
+    url: "/the-literary-takedown/"
 ---
 
 > So my attitude about this is, fine, if you want to be a writer, I will treat you like one—I will assess your writing on the level of form and style and idea. I'm as qualified to do this as anyone else, and anyone else is welcome to do it to me. If you're a serious writer, you should be able to withstand criticism and determine which criticism is legitimate and which criticism is made in bad faith, even if it stings.

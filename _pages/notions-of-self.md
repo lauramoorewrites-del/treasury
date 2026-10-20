@@ -4,7 +4,16 @@ id: 49
 title: "Notions of self"
 created: "23 July 2026"
 updated: "23 July 2026"
-topics: [philosophy, consciousness]
+topics: [self-knowledge, philosophy]
+related:
+  - title: "On the difficulty of knowing oneself"
+    url: "/on-the-difficulty-of-knowing-oneself/"
+  - title: "Agnes Callard’s theory of ethical self-blindness"
+    url: "/agnes-callards-ethical-self-blindness/"
+  - title: "Split brain experiments"
+    url: "/split-brain-experiments/"
+  - title: "Definitions of consciousness"
+    url: "/definitions-of-consciousness/"
 ---
 
 > Pigliucci introduces an ancient framework from Cicero and another earlier Stoic philosopher named Panaetius: we each inhabit four personae simultaneously. The first is shaped by our shared humanity. The second is shaped by genetics and our early development and environment. The third is imposed by circumstance. The fourth is the persona we create through deliberate choice.

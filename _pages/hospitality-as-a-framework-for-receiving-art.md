@@ -4,7 +4,16 @@ id: 48
 title: "Hospitality as a framework for receiving art"
 created: "22 July 2026"
 updated: "22 July 2026"
-topics: [creativity, epistemology]
+topics: [taste and judgment, thinking tools, religion]
+related:
+  - title: "The permission to criticize"
+    url: "/the-permission-to-criticize/"
+  - title: "'Radiation from that narrow circle' and other accounts of borrowed vision"
+    url: "/radiation-from-that-narrow-circle/"
+  - title: "Critical Communication by Arnold Isenberg"
+    url: "/critical-communication-by-arnold-isenberg/"
+  - title: "Books that unfold through connection-making"
+    url: "/books-that-makes-connections/"
 ---
 
 Two unrelated posts had appeared adjacently in my feed, which happily invited me to read them through each other. The tie that binds a 12th-century German monk's letter and Christopher Nolan's *The Odyssey* is hospitality.

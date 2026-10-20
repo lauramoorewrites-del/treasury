@@ -1,0 +1,36 @@
+---
+layout: topic
+title: "Self-knowledge"
+topic: "self-knowledge"
+permalink: /topics/self-knowledge/
+description: "The difficulty of seeing and knowing oneself."
+notes:
+  - title: "On philosophy as motivated reasoning"
+    url: "/on-philosophy-as-motivated-reasoning/"
+    date: "20 Oct"
+  - title: "On the difficulty of knowing oneself"
+    url: "/on-the-difficulty-of-knowing-oneself/"
+    date: "20 Oct"
+  - title: "Emily Dickinson seeking external endorsement"
+    url: "/emily-dickinson-seeking-external-endorsement/"
+    date: "2 Aug"
+  - title: "Notions of self"
+    url: "/notions-of-self/"
+    date: "23 Jul"
+  - title: "Agnes Callard’s theory of ethical self-blindness"
+    url: "/agnes-callards-ethical-self-blindness/"
+    date: "28 Jun"
+  - title: "Apperception"
+    url: "/reflective-knowledge-and-introspective-awareness/"
+    date: "27 Jun"
+  - title: "Split brain experiments"
+    url: "/split-brain-experiments/"
+    date: "27 Jun"
+see_also:
+  - title: "consciousness"
+    url: "/topics/consciousness/"
+  - title: "the unconscious"
+    url: "/topics/the-unconscious/"
+  - title: "perception"
+    url: "/topics/perception/"
+---

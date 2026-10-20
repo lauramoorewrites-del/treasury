@@ -4,7 +4,16 @@ id: 63
 title: "Famous collections of private correspondence"
 created: "15 August 2026"
 updated: "15 August 2026"
-topics: [authors, reading]
+topics: [writers’ lives, reading lists, virginia woolf]
+related:
+  - title: "Books that collect other people’s recollections about a historical figure"
+    url: "/books-of-collected-recollections/"
+  - title: "On friendship"
+    url: "/on-friendship/"
+  - title: "The limits of the biography form"
+    url: "/the-limits-of-the-biography-form/"
+  - title: "Public domain books used for research"
+    url: "/public-domain-books-used-for-research/"
 ---
 
 - *The Paston Letters* (1422–1509). Correspondence of the Paston family of Norfolk. Edited by James Gairdner; complete library edition in six volumes (Archibald Constable, 1904). Discussed in Virginia Woolf, "The Pastons and Chaucer."

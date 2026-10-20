@@ -4,7 +4,16 @@ id: 24
 title: "Scientific findings rejected by contemporary peers"
 created: "27 June 2026"
 updated: "28 July 2026"
-topics: [science]
+topics: [science, ways of knowing]
+related:
+  - title: "Darkness and creativity"
+    url: "/darkness-and-creativity/"
+  - title: "Creators and scientists who had insights that emerged fully formed"
+    url: "/insights-that-emerged-fully-formed/"
+  - title: "Epidemic of suggestion of the literary kind"
+    url: "/epidemic-of-suggestion-of-the-literary-kind/"
+  - title: "Visual perception"
+    url: "/visual-perception/"
 ---
 
 **Hans Berger and the brain's activity during downtime.**

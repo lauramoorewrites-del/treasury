@@ -2,15 +2,20 @@
 layout: default
 id: 5
 title: "Louisa May Alcott and Bronson Alcott and gender nonconformity"
-
 created: "19 June 2026"
 updated: "19 June 2026"
-topics: [gender, creativity, nonconformity]
-figuring_out:
-  - "I want to return to this association my research brought me to: Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end."
+topics: [gender, writers’ lives, drive and compulsion]
 related:
+  - title: "My theory of art and craft"
+    url: "/my-theory-of-art-and-craft/"
+  - title: "How creative expression extinguishes pressure"
+    url: "/how-creative-expression-relieves-pressure/"
   - title: "List of my personal touchstones"
     url: "/on-my-personal-touchstones/"
+  - title: "List of outdated DSM pathologies"
+    url: "/outdated-dsm-pathologies/"
+figuring_out:
+  - "I want to return to this association my research brought me to: Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end."
 ---
 
 There’s an intuitive link between nonconformity and creativity. If creativity involves coming up with things others haven’t, then being nonconformist in your behaviors likely means you’re nonconformist in your thinking, and you arrive at thoughts that are novel, unusual, and unexpected.

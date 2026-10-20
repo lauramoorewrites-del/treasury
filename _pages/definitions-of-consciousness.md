@@ -4,14 +4,16 @@ id: 17
 title: "Definitions of consciousness"
 created: "27 June 2026"
 updated: "19 July 2026"
-topics: [consciousness, philosophy]
+topics: [consciousness, philosophy, eugene vodolazkin]
 related:
-  - title: "The stuff of consciousness (what it's made of)"
+  - title: "The stuff of consciousness (what it’s made of)"
     url: "/the-stuff-of-consciousness/"
   - title: "Apperception"
     url: "/reflective-knowledge-and-introspective-awareness/"
-  - title: "Talking about a latent conceptual presence"
-    url: "/talking-about-a-latent-conceptual-presence/"
+  - title: "Book: The Unconscious of Thought in Leibniz, Spinoza, and Hume, by Gil Morejón"
+    url: "/the-unconscious-of-thought/"
+  - title: "How consciousness deceives us"
+    url: "/how-consciousness-deceives-us/"
 ---
 
 **Gilles Deleuze:**

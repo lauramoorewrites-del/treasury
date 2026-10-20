@@ -4,7 +4,16 @@ id: 59
 title: "Emily Dickinson seeking external endorsement"
 created: "2 August 2026"
 updated: "2 August 2026"
-topics: [authors, craft, emily dickinson]
+topics: [self-knowledge, writers’ lives, emily dickinson]
+related:
+  - title: "On the difficulty of knowing oneself"
+    url: "/on-the-difficulty-of-knowing-oneself/"
+  - title: "The permission to criticize"
+    url: "/the-permission-to-criticize/"
+  - title: "Public domain books used for research"
+    url: "/public-domain-books-used-for-research/"
+  - title: "Creators who began late"
+    url: "/creators-who-began-late/"
 ---
 
 > Mr. Higginson,

@@ -1,0 +1,34 @@
+---
+layout: topic
+title: "Drive and compulsion"
+topic: "drive and compulsion"
+permalink: /topics/drive-and-compulsion/
+description: "The pressure to make, its relief, and what happens when the drive fades."
+notes:
+  - title: "My theory of art and craft"
+    url: "/my-theory-of-art-and-craft/"
+    date: "17 Oct"
+  - title: "How creative expression extinguishes pressure"
+    url: "/how-creative-expression-relieves-pressure/"
+    date: "17 Sep"
+  - title: "The self-imposed pressure to create"
+    url: "/the-self-imposed-pressure-to-create/"
+    date: "14 Sep"
+  - title: "Leonardo’s vanishing drive"
+    url: "/leonardos-vanishing-drive/"
+    date: "1 Sep"
+  - title: "Louisa May Alcott and Bronson Alcott and gender nonconformity"
+    url: "/louisa-may-alcott/"
+    date: "19 Jun"
+see_also:
+  - title: "inspiration"
+    url: "/topics/inspiration/"
+  - title: "craft and practice"
+    url: "/topics/craft-and-practice/"
+  - title: "style"
+    url: "/topics/style/"
+  - title: "the essay"
+    url: "/topics/the-essay/"
+  - title: "fiction and the novel"
+    url: "/topics/fiction-and-the-novel/"
+---

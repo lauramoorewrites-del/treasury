@@ -1,0 +1,34 @@
+---
+layout: topic
+title: "Style"
+topic: "style"
+permalink: /topics/style/
+description: "What individual style consists of, and how it forms, constrains, and is shaped by others' styles."
+notes:
+  - title: "The style of portrait artist Michael Shane Neal"
+    url: "/the-style-of-portrait-artist-michael-shane-neal/"
+    date: "19 Aug"
+  - title: "When another's writing obstructs your own"
+    url: "/when-anothers-style-obstructs-your-own/"
+    date: "29 Jul"
+  - title: "What individual literary style consists of"
+    url: "/what-individual-literary-style-consists-of/"
+    date: "25 Jul"
+  - title: "Zadie Smith’s theories of fiction and writing"
+    url: "/zadie-smiths-theories-of-fiction-and-writing/"
+    date: "25 Jul"
+  - title: "The sensibilities of writers"
+    url: "/the-sensibility-of-writers/"
+    date: "24 Jul"
+see_also:
+  - title: "inspiration"
+    url: "/topics/inspiration/"
+  - title: "craft and practice"
+    url: "/topics/craft-and-practice/"
+  - title: "drive and compulsion"
+    url: "/topics/drive-and-compulsion/"
+  - title: "the essay"
+    url: "/topics/the-essay/"
+  - title: "fiction and the novel"
+    url: "/topics/fiction-and-the-novel/"
+---

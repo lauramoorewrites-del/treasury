@@ -4,12 +4,16 @@ id: 84
 title: "On the critical form of the takedown"
 created: "29 September 2026"
 updated: "29 September 2026"
-topics: [criticism]
+topics: [criticism, reading lists]
 related:
   - title: "The job of criticism"
     url: "/the-job-of-criticism/"
   - title: "The permission to criticize"
     url: "/the-permission-to-criticize/"
+  - title: "The nature of the critic's influence"
+    url: "/the-nature-of-the-critics-influence/"
+  - title: "Selected critical reviews of Zadie Smith"
+    url: "/critical-reviews-of-zadie-smith/"
 ---
 
 > A takedown that's any good will be hard to quibble with too much because it will ground judgment in argument, and give too powerful sense of the inadequacies of method, technique, and worldview. You shouldn't be giving the reader the opportunity to say, "I just don't agree."

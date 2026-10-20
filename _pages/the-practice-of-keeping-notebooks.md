@@ -4,10 +4,16 @@ id: 54
 title: "The practice of keeping notebooks"
 created: "25 July 2026"
 updated: "25 July 2026"
-topics: [craft, commonplace books]
+topics: [craft and practice, memory and the commonplace, somerset maugham]
 related:
   - title: "What this is"
     url: "/what-this-is/"
+  - title: "Writing as a physical practice"
+    url: "/writing-as-a-physical-practice/"
+  - title: "An inability to remember the specifics of books and movies and other forms of narrative"
+    url: "/an-inability-to-remember-the-specifics/"
+  - title: "Memory"
+    url: "/memory/"
 ---
 
 ## Writers on their notebooks

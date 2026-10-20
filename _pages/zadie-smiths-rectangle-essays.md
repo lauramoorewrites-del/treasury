@@ -2,13 +2,18 @@
 layout: default
 id: 7
 title: "Zadie Smith’s rectangle essays"
-
 created: "24 June 2026"
 updated: "24 June 2026"
-topics: [essay craft, zadie smith]
+topics: [the essay, craft and practice, zadie smith]
 related:
+  - title: "Zadie Smith’s theories of fiction and writing"
+    url: "/zadie-smiths-theories-of-fiction-and-writing/"
+  - title: "My favorite essays"
+    url: "/my-favorite-essays/"
   - title: "Ira Glass on taste killing motivation"
     url: "/ira-glass-on-taste-killing-motivation/"
+  - title: "Selected critical reviews of Zadie Smith"
+    url: "/critical-reviews-of-zadie-smith/"
 ---
 
 In “The Art of the Impersonal Essay,” Zadie Smith shares essay-writing advice she received at 17 and claims to have used ever since:

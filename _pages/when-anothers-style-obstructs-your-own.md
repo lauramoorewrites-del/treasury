@@ -4,12 +4,16 @@ id: 51
 title: "When another's writing obstructs your own"
 created: "23 July 2026"
 updated: "29 July 2026"
-topics: [creativity, craft]
+topics: [style, reading, george eliot, zadie smith]
 related:
   - title: "Woolf on reading other writers"
     url: "/woolf-on-reading-other-writers/"
   - title: "Ira Glass on taste killing motivation"
     url: "/ira-glass-on-taste-killing-motivation/"
+  - title: "The sensibilities of writers"
+    url: "/the-sensibility-of-writers/"
+  - title: "Authors who disliked or didn't understand other authors' works"
+    url: "/novelists-on-works-they-dislike/"
 ---
 
 Sometimes when I read someone whose style is wonderful but so far apart from my own, it's intimidating, even obstructing. Because I think, I could never, ever write like that. The tonic is to read something closer to my own style, and see its power and value, too.

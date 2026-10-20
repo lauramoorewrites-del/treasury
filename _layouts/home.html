@@ -24,11 +24,14 @@
     </ul>
 
     <div class="section-label">Topics</div>
+    {% for group in page.topic_groups %}
+    <div class="topic-group-label">{{ group.name }}</div>
     <ul class="wiki-list topics-list">
-      {% for topic in page.topic_list %}
+      {% for topic in group.topics %}
       {% assign topic_slug = topic | slugify %}<li><a href="{{ '/topics/' | append: topic_slug | append: '/' | relative_url }}">{{ topic }}</a></li>
       {% endfor %}
     </ul>
+    {% endfor %}
 
   </div>
   <footer>

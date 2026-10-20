@@ -4,11 +4,16 @@ id: 64
 title: "The style of portrait artist Michael Shane Neal"
 created: 2026-08-19
 updated: 2026-08-19
-topics:
-  - art
-  - portraiture
-  - artists’ studios
-  - aesthetic taste
+topics: [the other arts, style, writers’ lives]
+related:
+  - title: "The limits of the biography form"
+    url: "/the-limits-of-the-biography-form/"
+  - title: "Books that collect other people’s recollections about a historical figure"
+    url: "/books-of-collected-recollections/"
+  - title: "Instinctual preference for color and visual aesthetics"
+    url: "/instinctual-preference-for-color-and-visual-aesthetics/"
+  - title: "What individual literary style consists of"
+    url: "/what-individual-literary-style-consists-of/"
 ---
 
 I’ve always been interested in the people behind the works I love (books, films, houses) or behind achievements I find impressive and unaccountable. My essay [“The Birth of the Author”](https://libertiesjournal.com/online-articles/the-birth-of-the-author/) was born of this magnetic draw toward people, and my frustration that Barthes would sever that connection between person and work and that Ferrante would view an interest like mine as contemptible.

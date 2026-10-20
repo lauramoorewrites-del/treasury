@@ -2,13 +2,18 @@
 layout: default
 id: 4
 title: "Ira Glass on taste killing motivation"
-
 created: "19 June 2026"
 updated: "19 June 2026"
-topics: [creativity, craft]
+topics: [craft and practice, taste and judgment]
 related:
+  - title: "When another's writing obstructs your own"
+    url: "/when-anothers-style-obstructs-your-own/"
+  - title: "Writers who discount the importance of inspiration to their work"
+    url: "/writers-who-discount-inspiration/"
   - title: "Zadie Smith’s rectangle essays"
     url: "/zadie-smiths-rectangle-essays/"
+  - title: "The self-imposed pressure to create"
+    url: "/the-self-imposed-pressure-to-create/"
 ---
 
 In pure commonplace book spirit, I’m saving this wonderfully explicatory quotation by Ira Glass on how an abundance of taste can kill motivation when you’re just starting out.

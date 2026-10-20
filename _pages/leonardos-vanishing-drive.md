@@ -4,12 +4,18 @@ id: 66
 title: "Leonardo’s vanishing drive"
 created: "1 September 2026"
 updated: "1 September 2026"
-topics: [creativity]
+topics: [drive and compulsion, neurodivergence, the other arts]
 related:
-  - title: "Creators and scientists who had insights that emerged fully formed"
-    url: "/insights-that-emerged-fully-formed/"
+  - title: "The self-imposed pressure to create"
+    url: "/the-self-imposed-pressure-to-create/"
+  - title: "How creative expression extinguishes pressure"
+    url: "/how-creative-expression-relieves-pressure/"
   - title: "Creators who began late"
     url: "/creators-who-began-late/"
+  - title: "Creators and scientists who had insights that emerged fully formed"
+    url: "/insights-that-emerged-fully-formed/"
+  - title: "My theory of art and craft"
+    url: "/my-theory-of-art-and-craft/"
 ---
 
 From Laura Moore, ["Could a drive for certainty be key to autism?"](https://www.strangeclarity.com/p/could-a-drive-for-certainty-be-key) *Strange Clarity* (2025):

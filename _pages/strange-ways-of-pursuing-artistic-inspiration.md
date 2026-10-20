@@ -4,12 +4,18 @@ id: 86
 title: "Strange ways of pursuing artistic inspiration"
 created: "3 October 2026"
 updated: "3 October 2026"
-topics: [creativity]
+topics: [inspiration, craft and practice, the other arts]
 related:
   - title: "My theory of art and craft"
     url: "/my-theory-of-art-and-craft/"
+  - title: "Writers who discount the importance of inspiration to their work"
+    url: "/writers-who-discount-inspiration/"
+  - title: "Unconscious thought and creativity"
+    url: "/unconscious-thought-and-creativity/"
   - title: "My favorite essays"
     url: "/my-favorite-essays/"
+  - title: "Writing as a physical practice"
+    url: "/writing-as-a-physical-practice/"
 ---
 
 > I studied the score. I could read a little music but had never played an instrument seriously. If I could only get close enough to the score, I knew I could read a novel in it. (Magical thinking is only a psychosis if it doesn't work.) But my ability to read the score was limited; I had no experience of turning written music into sound.

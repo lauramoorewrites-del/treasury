@@ -4,12 +4,18 @@ id: 75
 title: "The tendency to see everything as connected"
 created: "17 September 2026"
 updated: "17 September 2026"
-topics: [epistemology, connectedness, virginia woolf]
+topics: [ways of knowing, virginia woolf, james wood]
 related:
   - title: "Books that unfold through connection-making"
     url: "/books-that-makes-connections/"
+  - title: "Dickens's caricatured characterizations"
+    url: "/dickenss-caricatured-characterizations/"
+  - title: "James Wood's critical signature"
+    url: "/james-woods-critical-signature/"
   - title: "On the difficulty of knowing oneself"
     url: "/on-the-difficulty-of-knowing-oneself/"
+  - title: "What this is"
+    url: "/what-this-is/"
 ---
 
 > Characters are forever seeing connections and links and plots, and paranoid parallels. (There is something essentially paranoid about the belief that everything is connected to everything else.)

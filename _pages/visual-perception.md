@@ -4,7 +4,16 @@ id: 30
 title: "Visual perception"
 created: "27 June 2026"
 updated: "27 June 2026"
-topics: [neuroscience, vision]
+topics: [perception, science]
+related:
+  - title: "Averted vision, a technique for seeing in astronomy"
+    url: "/averted-vision/"
+  - title: "The stuff of consciousness (what it’s made of)"
+    url: "/the-stuff-of-consciousness/"
+  - title: "Mediated reality"
+    url: "/mediated-reality/"
+  - title: "Instinctual preference for color and visual aesthetics"
+    url: "/instinctual-preference-for-color-and-visual-aesthetics/"
 ---
 
 > Of the virtually unlimited information available in the world around us, the equivalent of 10 billion bits per second arrives on the retina at the back of the eye. Because the optic nerve attached to the retina has only a million output connections, just six million bits per second can leave the retina, and only 10,000 bits per second make it to the visual cortex.
