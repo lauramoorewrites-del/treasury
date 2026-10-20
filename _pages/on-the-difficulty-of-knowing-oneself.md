@@ -3,7 +3,7 @@ layout: default
 id: 73
 title: "On the difficulty of knowing oneself"
 created: "17 September 2026"
-updated: "17 September 2026"
+updated: "20 October 2026"
 topics: [consciousness, virginia woolf]
 related:
   - title: "Agnes Callard's theory of ethical self-blindness"
@@ -21,3 +21,7 @@ related:
 > They manage to sustain the paradox of feeling real to themselves without necessarily knowing themselves, which is the very paradox of consciousness, since I have no way of knowing that I do not actually know myself.
 
 — James Wood, ["Rambling,"](https://www.lrb.co.uk/the-paper/v22/n11/james-wood/rambling) *London Review of Books* (2000).
+
+> There are times when I look over the various parts of my character with perplexity. I recognise that I am made up of several persons and that the person which at the moment has the upper hand will inevitably give place to another. But which is the real me? All of them or none?
+
+— W. Somerset Maugham, entry for 1896, [*A Writer’s Notebook*](https://bookshop.org/a/113685/9780307473196) (Heinemann, 1949).
