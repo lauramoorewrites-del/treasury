@@ -54,10 +54,10 @@ h3{ font-weight: 600; font-size: 1.05rem; margin: 2rem 0 0.6rem; }
 p{ margin: 0 0 1.15rem; }
 
 /* links */
-a{ color: var(--ink); text-decoration: none;
-   border-bottom: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+a{ color: var(--accent); text-decoration: none;
+   border-bottom: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
    transition: color 120ms ease, border-color 120ms ease; }
-a:hover{ color: var(--accent); border-color: var(--accent); }
+a:hover{ color: var(--ink); border-color: var(--ink); }
 a:focus-visible{ outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
 
 /* blockquotes */
@@ -157,7 +157,8 @@ pre{ overflow-x: auto; padding: 0.9rem 1rem; border: 1px solid var(--rule); bord
 .related-notes{ margin-top: 2.6rem; }
 .related-notes .section-label{ margin: 0 0 0.8rem; }
 .related-list{ display: flex; flex-direction: column; gap: 0.4rem; }
-.related-list a{ font-size: 1rem; }
+.related-list a{ font-size: 1rem; color: var(--ink); }
+.related-list a:hover{ color: var(--accent); border-color: var(--accent); }
 
 /* footer */
 footer{ max-width: var(--measure-read); width: 100%; margin: 0 auto;
