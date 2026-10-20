@@ -1,28 +1,21 @@
-/* Moore's Treasury — calm redesign. Replaces v2 wiki card design.
-   One serif (Newsreader), one accent (lapis), vellum ground. */
+/* Silva Culta. One serif (Newsreader). Colours follow the Strange Clarity
+   palette: chalk-blue ground, chocolate ink, burnt-orange links, marigold ornament. */
 
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap');
 
 :root{
-  --paper:        #efe8d8;
-  --ink:          #2a241c;
-  --muted:        #8c8271;
-  --muted-ink:    #5f564a;
-  --accent:       #2547a0;
-  --rule:         #d7cdb8;
+  color-scheme: light;
+  --paper:        #DCE7EE; /* chalk blue: background */
+  --ink:          #3B2418; /* dark chocolate: text, headings, wordmark */
+  --muted:        #6E4B36; /* milk chocolate: dates, captions, meta */
+  --muted-ink:    #6E4B36;
+  --accent:       #9A4220; /* burnt orange: links, hover */
+  --ornament:     #E08A3C; /* marigold: drop cap and fleurons only */
+  --rule:         #A8C4D8; /* powder blue: dividers, rules */
+  --card:         #F4EBDD; /* cream paper: optional cards */
   --measure-read:  37rem;
   --measure-index: 33rem;
   --mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
-}
-@media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){
-    --paper:#211d17; --ink:#e7dfce; --muted:#9a9081;
-    --muted-ink:#b5ab98; --accent:#93b4ec; --rule:#3a3327;
-  }
-}
-:root[data-theme="dark"]{
-  --paper:#211d17; --ink:#e7dfce; --muted:#9a9081;
-  --muted-ink:#b5ab98; --accent:#93b4ec; --rule:#3a3327;
 }
 
 *{ box-sizing: border-box; }
@@ -103,7 +96,7 @@ pre{ overflow-x: auto; padding: 0.9rem 1rem; border: 1px solid var(--rule); bord
 /* homepage intro + drop cap */
 .intro{ font-size: 1.06rem; }
 .card-index .intro:first-of-type::first-letter{ float: left; font-size: 3.15em; line-height: 0.82;
-  padding: 0.06em 0.09em 0 0; color: var(--accent); font-weight: 500; }
+  padding: 0.06em 0.09em 0 0; color: var(--ornament); font-weight: 500; }
 
 /* section labels (italic serif, no mono/caps) */
 .section-label{ font-family: inherit; font-style: italic; font-weight: 400; font-size: 1.12rem;
@@ -125,7 +118,7 @@ pre{ overflow-x: auto; padding: 0.9rem 1rem; border: 1px solid var(--rule); bord
 .tag-chip:hover{ color: var(--accent); border-color: var(--accent); }
 
 /* fleuron between meta and body */
-.fleuron{ color: var(--accent); font-size: 1.15rem; margin: 0 0 1.2rem; }
+.fleuron{ color: var(--ornament); font-size: 1.15rem; margin: 0 0 1.2rem; }
 
 /* wiki-list (recently updated, notes) */
 .wiki-list{ list-style: none; padding: 0; margin: 0.5rem 0 0; }
