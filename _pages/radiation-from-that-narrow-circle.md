@@ -3,7 +3,7 @@ layout: default
 id: 56
 title: "'Radiation from that narrow circle' and other accounts of borrowed vision"
 created: "29 July 2026"
-updated: "29 July 2026"
+updated: "20 October 2026"
 topics: [epistemology, craft]
 related:
   - title: "Hospitality as a framework for receiving art"
@@ -21,3 +21,7 @@ In a piece I'm submitting, I talk about borrowed vision. What I mean is what is 
 > I feel sure that had I, in 1907, popped in on Joyce in his garret I would have picked up his notes for "Ulysses" and been excited by what he was cooking up. Yet if, in the same year, I had paid a call on Picasso in his studio I would have looked at the canvas of "Les Demoiselles d'Avignon" and been nonplussed, maybe even a little scandalized. If, in my real life of 2012, I stand before this painting in the Museum of Modern Art, in New York, it seems obviously beautiful to me. All the difficult work of attunement and acceptance has already been done by others. Smart critics, other painters, appreciative amateurs. They kicked the door open almost a century ago—all I need do is walk through it.
 
 — Zadie Smith, "Some Notes on Attunement," *The New Yorker* (2012); collected in [*Feel Free*](https://bookshop.org/p/books/feel-free-essays-zadie-smith/039831ec06a2cde1?ean=9780143110255) (Penguin Press, 2018).
+
+> I do not know what is meant by abstract beauty. The beautiful is that which excites the aesthetic sense in the artist. What is beautiful to an artist to-day will be beautiful to all and sundry in ten years. Not so many years ago everyone would have said that nothing was more hideous than factory chimneys with black smoke belching from them; but certain artists discovered in them a decorative quality and painted them; they were laughed at at first, but little by little people saw beauty in their pictures and then looking at what they had painted saw beauty there too. It does not now require great perspicacity to receive as great a thrill of delight from a factory with its chimneys as from a green field with its flowers.
+
+— W. Somerset Maugham, entry for 1896, [*A Writer’s Notebook*](https://bookshop.org/a/113685/9780307473196) (Heinemann, 1949).
