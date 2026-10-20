@@ -1,6 +1,6 @@
-title: Moore's Treasury
+title: Silva Culta
 description: A commonplace book
-url: https://moorestreasury.com
+url: https://lauramoorewrites-del.github.io
 baseurl: "/treasury"
 markdown: kramdown
 
@@ -8,3 +8,10 @@ collections:
   pages:
     output: true
     permalink: /:title/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - _tools

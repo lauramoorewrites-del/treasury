@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Moore&rsquo;s Treasury</title>
+  <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
+  {% seo title=false %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap" rel="stylesheet">
@@ -11,13 +12,13 @@
 </head>
 <body>
   <div class="site-header">
-    <a href="{{ '/' | relative_url }}">Moore&rsquo;s Treasury</a>
+    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
   </div>
   <div class="card {% if page.layout_class %}{{ page.layout_class }}{% endif %}">
 
     {% if page.breadcrumb %}
     <div class="breadcrumb">
-      <a href="{{ '/' | relative_url }}">Moore&rsquo;s Treasury</a> <span class="sep">/</span> <span class="current">{{ page.breadcrumb }}</span>
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a> <span class="sep">/</span> <span class="current">{{ page.breadcrumb }}</span>
     </div>
     {% endif %}
 
