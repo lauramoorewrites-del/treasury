@@ -1,6 +1,6 @@
 ---
 layout: default
-id: 81
+id: 94
 title: "Reading list on how subjectivity enters critical analysis"
 created: "22 September 2026"
 updated: "23 September 2026"
