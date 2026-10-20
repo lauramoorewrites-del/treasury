@@ -5,6 +5,9 @@ topic: "philosophy"
 permalink: /topics/philosophy/
 description: "Entries drawing directly on philosophers and philosophical arguments."
 notes:
+  - title: "On the value of ignorance"
+    url: "/on-the-value-of-ignorance/"
+    date: "20 Oct"
   - title: "On philosophy as motivated reasoning"
     url: "/on-philosophy-as-motivated-reasoning/"
     date: "20 Oct"

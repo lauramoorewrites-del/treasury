@@ -6,8 +6,8 @@ created: "27 June 2026"
 updated: "27 June 2026"
 topics: [inspiration, science]
 related:
-  - title: "On negative knowledge"
-    url: "/on-negative-knowledge/"
+  - title: "On the value of ignorance"
+    url: "/on-the-value-of-ignorance/"
   - title: "Averted vision, a technique for seeing in astronomy"
     url: "/averted-vision/"
   - title: "Scientific findings rejected by contemporary peers"

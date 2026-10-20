@@ -5,9 +5,9 @@ topic: "ways of knowing"
 permalink: /topics/ways-of-knowing/
 description: "Indirect, negative, and situated forms of knowledge."
 notes:
-  - title: "On negative knowledge"
-    url: "/on-negative-knowledge/"
-    date: "22 Sep"
+  - title: "On the value of ignorance"
+    url: "/on-the-value-of-ignorance/"
+    date: "20 Oct"
   - title: "The tendency to see everything as connected"
     url: "/the-tendency-to-see-everything-as-connected/"
     date: "17 Sep"

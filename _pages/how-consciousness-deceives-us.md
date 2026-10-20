@@ -14,6 +14,8 @@ related:
     url: "/definitions-of-truth/"
   - title: "On the difficulty of knowing oneself"
     url: "/on-the-difficulty-of-knowing-oneself/"
+  - title: "On the value of ignorance"
+    url: "/on-the-value-of-ignorance/"
 ---
 
 > The arrogance involved in cognition and sensation, spreading a blinding fog over men's eyes and senses, deceives them about the value of existence by implying the most flattering evaluation of cognition.

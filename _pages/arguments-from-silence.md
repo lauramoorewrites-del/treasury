@@ -6,8 +6,8 @@ created: "16 September 2026"
 updated: "16 September 2026"
 topics: [ways of knowing, thinking tools]
 related:
-  - title: "On negative knowledge"
-    url: "/on-negative-knowledge/"
+  - title: "On the value of ignorance"
+    url: "/on-the-value-of-ignorance/"
   - title: "Talking about a latent conceptual presence"
     url: "/talking-about-a-latent-conceptual-presence/"
   - title: "Donna Haraway’s god trick"

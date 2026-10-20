@@ -6,8 +6,8 @@ created: "27 June 2026"
 updated: "27 June 2026"
 topics: [perception, thinking tools]
 related:
-  - title: "On negative knowledge"
-    url: "/on-negative-knowledge/"
+  - title: "On the value of ignorance"
+    url: "/on-the-value-of-ignorance/"
   - title: "Visual perception"
     url: "/visual-perception/"
   - title: "Mediated reality"
