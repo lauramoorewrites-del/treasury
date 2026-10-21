@@ -14,6 +14,8 @@ related:
     url: "/radiation-from-that-narrow-circle/"
   - title: "On the critical form of the takedown"
     url: "/the-literary-takedown/"
+  - title: "On movie critic Pauline Kael"
+    url: "/on-movie-critic-pauline-kael/"
 ---
 
 > The influence of a critic is reflected in their public—in some cases a general audience, in others a more captive one—reading and re-reading them, discussing them, thinking about them.

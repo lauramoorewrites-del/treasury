@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "On movie critic Pauline Kael"
+    url: "/on-movie-critic-pauline-kael/"
+    date: "21 Oct"
   - title: "On the value of ignorance"
     url: "/on-the-value-of-ignorance/"
     date: "20 Oct"

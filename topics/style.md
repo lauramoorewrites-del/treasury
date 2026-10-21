@@ -5,6 +5,9 @@ topic: "style"
 permalink: /topics/style/
 description: "What individual style consists of, and how it forms, constrains, and is shaped by others' styles."
 notes:
+  - title: "On movie critic Pauline Kael"
+    url: "/on-movie-critic-pauline-kael/"
+    date: "21 Oct"
   - title: "The style of portrait artist Michael Shane Neal"
     url: "/the-style-of-portrait-artist-michael-shane-neal/"
     date: "19 Aug"

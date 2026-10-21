@@ -14,6 +14,8 @@ related:
     url: "/the-nature-of-the-critics-influence/"
   - title: "Selected critical reviews of Zadie Smith"
     url: "/critical-reviews-of-zadie-smith/"
+  - title: "On movie critic Pauline Kael"
+    url: "/on-movie-critic-pauline-kael/"
 ---
 
 > A takedown that's any good will be hard to quibble with too much because it will ground judgment in argument, and give too powerful sense of the inadequacies of method, technique, and worldview. You shouldn't be giving the reader the opportunity to say, "I just don't agree."

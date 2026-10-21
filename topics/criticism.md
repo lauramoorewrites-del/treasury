@@ -5,6 +5,9 @@ topic: "criticism"
 permalink: /topics/criticism/
 description: "What critics do, how judgment is communicated, and the forms criticism takes."
 notes:
+  - title: "On movie critic Pauline Kael"
+    url: "/on-movie-critic-pauline-kael/"
+    date: "21 Oct"
   - title: "'Radiation from that narrow circle' and other accounts of borrowed vision"
     url: "/radiation-from-that-narrow-circle/"
     date: "20 Oct"
