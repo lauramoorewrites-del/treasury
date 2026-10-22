@@ -14,6 +14,8 @@ related:
     url: "/ira-glass-on-taste-killing-motivation/"
   - title: "Writers who discount the importance of inspiration to their work"
     url: "/writers-who-discount-inspiration/"
+  - title: "On projects as grown-up play"
+    url: "/on-projects-as-grown-up-play/"
 ---
 
 I'm feeling burnt out at the moment. I just started with vigor an essay about Iceland's Bell but quickly tired out from overwhelm over how much work is needed to do it right. I've been working on it for just 4 hours, which is not long!

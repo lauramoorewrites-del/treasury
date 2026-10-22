@@ -5,6 +5,9 @@ topic: "craft and practice"
 permalink: /topics/craft-and-practice/
 description: "The deliberate side of making: routines, techniques, tools, and the work of shaping."
 notes:
+  - title: "On projects as grown-up play"
+    url: "/on-projects-as-grown-up-play/"
+    date: "22 Oct"
   - title: "My theory of art and craft"
     url: "/my-theory-of-art-and-craft/"
     date: "17 Oct"

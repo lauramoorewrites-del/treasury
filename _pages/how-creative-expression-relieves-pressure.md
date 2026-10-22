@@ -14,6 +14,8 @@ related:
     url: "/leonardos-vanishing-drive/"
   - title: "Unconscious thought and creativity"
     url: "/unconscious-thought-and-creativity/"
+  - title: "On projects as grown-up play"
+    url: "/on-projects-as-grown-up-play/"
 ---
 
 Often, things preoccupy us—they won't let our mind alone. And sometimes, giving external form to the nagging thing can alleviate the pressure. Sometimes our interest disappears completely. The implications are interesting. For one: how you "spend" that pressure—which is the way inspiration sometimes appears—can be fatal and fateful. If you want to direct it into a specific instantiation, perhaps you should be wary of spending it too casually elsewhere first. Though as Marshall's example shows, the pressure may persist until it finds the "right" form, anyway. Perhaps the notion that we can control the use of inspiration is pure illusion.
