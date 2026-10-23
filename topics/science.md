@@ -5,6 +5,9 @@ topic: "science"
 permalink: /topics/science/
 description: "Scientists, scientific discovery, and research on mind and perception."
 notes:
+  - title: "Research relevant to creativity"
+    url: "/research-relevant-to-creativity/"
+    date: "22 Oct"
   - title: "Creators and scientists who had insights that emerged fully formed"
     url: "/insights-that-emerged-fully-formed/"
     date: "13 Oct"

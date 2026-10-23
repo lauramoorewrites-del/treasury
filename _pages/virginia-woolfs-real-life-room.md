@@ -14,6 +14,8 @@ related:
     url: "/on-friendship/"
   - title: "On the limits of truth-telling"
     url: "/on-the-limits-of-truth-telling/"
+  - title: "Research relevant to creativity"
+    url: "/research-relevant-to-creativity/"
 ---
 
 *9 December 1928*

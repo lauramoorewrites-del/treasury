@@ -14,6 +14,8 @@ related:
     url: "/strange-ways-of-pursuing-artistic-inspiration/"
   - title: "Creators and scientists who had insights that emerged fully formed"
     url: "/insights-that-emerged-fully-formed/"
+  - title: "Research relevant to creativity"
+    url: "/research-relevant-to-creativity/"
 ---
 
 ## Reference list
