@@ -5,6 +5,9 @@ topic: "taste and judgment"
 permalink: /topics/taste-and-judgment/
 description: "How aesthetic judgments form, spread, and are shared."
 notes:
+  - title: "On the person as text and a life as a person’s greatest creative work"
+    url: "/on-the-person-as-text/"
+    date: "22 Oct"
   - title: "'Radiation from that narrow circle' and other accounts of borrowed vision"
     url: "/radiation-from-that-narrow-circle/"
     date: "20 Oct"

@@ -14,6 +14,8 @@ related:
     url: "/conceptions-of-the-source-of-creativity/"
   - title: "On the failure of language to describe certain art forms"
     url: "/on-the-failure-of-language-to-describe-certain-art-forms/"
+  - title: "On the person as text and a life as a person’s greatest creative work"
+    url: "/on-the-person-as-text/"
 ---
 
 > Biographies of writers, whether written by others or themselves, are always superfluous and usually in bad taste. A writer is a maker, not a man of action. To be sure, some, in a sense all, of his works are transmutations of his personal experiences, but no knowledge of the raw ingredients will explain the peculiar flavor of the verbal dishes he invites the public to taste: his private life is, or should be, of no concern to anybody except himself, his family and his friends.

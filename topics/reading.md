@@ -5,6 +5,9 @@ topic: "reading"
 permalink: /topics/reading/
 description: "Habits of reading, forgetting, and reading other writers."
 notes:
+  - title: "On the person as text and a life as a person’s greatest creative work"
+    url: "/on-the-person-as-text/"
+    date: "22 Oct"
   - title: "Reading list"
     url: "/reading-list/"
     date: "18 Aug"

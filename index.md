@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "On the person as text and a life as a person’s greatest creative work"
+    url: "/on-the-person-as-text/"
+    date: "22 Oct"
   - title: "Research relevant to creativity"
     url: "/research-relevant-to-creativity/"
     date: "22 Oct"

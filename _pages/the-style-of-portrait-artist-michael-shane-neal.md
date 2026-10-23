@@ -14,6 +14,8 @@ related:
     url: "/instinctual-preference-for-color-and-visual-aesthetics/"
   - title: "What individual literary style consists of"
     url: "/what-individual-literary-style-consists-of/"
+  - title: "On the person as text and a life as a person’s greatest creative work"
+    url: "/on-the-person-as-text/"
 ---
 
 I’ve always been interested in the people behind the works I love (books, films, houses) or behind achievements I find impressive and unaccountable. My essay [“The Birth of the Author”](https://libertiesjournal.com/online-articles/the-birth-of-the-author/) was born of this magnetic draw toward people, and my frustration that Barthes would sever that connection between person and work and that Ferrante would view an interest like mine as contemptible.

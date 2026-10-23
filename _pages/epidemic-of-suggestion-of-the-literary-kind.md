@@ -14,6 +14,8 @@ related:
     url: "/novelists-on-works-they-dislike/"
   - title: "The nature of the critic's influence"
     url: "/the-nature-of-the-critics-influence/"
+  - title: "On the person as text and a life as a person’s greatest creative work"
+    url: "/on-the-person-as-text/"
 ---
 
 > It is this attitude of Shakespeare's admirers toward their object—an attitude which may be seen also in all the mistily indefinite essays and conversations about Shakespeare—which gave me the key to the understanding of the cause of Shakespeare's fame. There is but one explanation of this wonderful fame: it is one of those epidemic "suggestions" to which men constantly have been and are subject. [. . .] Such irrational "suggestions" always have been existing, and still exist, in all spheres of human life—religious, philosophical, political, economical, scientific, artistic, and, in general, literary—and people clearly see the insanity of these suggestions only when they free themselves from them. But, as long as they are under their influence, the suggestions appear to them so certain, so true, that to argue about them is regarded as neither necessary nor possible. With the development of the printing press, these epidemics became especially striking.

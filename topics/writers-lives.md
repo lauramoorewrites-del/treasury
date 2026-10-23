@@ -5,6 +5,9 @@ topic: "writers’ lives"
 permalink: /topics/writers-lives/
 description: "Biography, livelihoods, friendships, and the material conditions of writing."
 notes:
+  - title: "On the person as text and a life as a person’s greatest creative work"
+    url: "/on-the-person-as-text/"
+    date: "22 Oct"
   - title: "On friendship"
     url: "/on-friendship/"
     date: "20 Oct"
