@@ -5,6 +5,9 @@ topic: "the essay"
 permalink: /topics/the-essay/
 description: "The essay as a form, and essays worth returning to."
 notes:
+  - title: "On recognition"
+    url: "/on-recognition/"
+    date: "24 Oct"
   - title: "My favorite essays"
     url: "/my-favorite-essays/"
     date: "16 Oct"

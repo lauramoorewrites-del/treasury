@@ -5,6 +5,9 @@ topic: "ways of knowing"
 permalink: /topics/ways-of-knowing/
 description: "Indirect, negative, and situated forms of knowledge."
 notes:
+  - title: "On recognition"
+    url: "/on-recognition/"
+    date: "24 Oct"
   - title: "On the value of ignorance"
     url: "/on-the-value-of-ignorance/"
     date: "20 Oct"

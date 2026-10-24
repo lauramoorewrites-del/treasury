@@ -14,6 +14,8 @@ related:
     url: "/strange-ways-of-pursuing-artistic-inspiration/"
   - title: "List of essays where lack of clarity is argued as gatekeeping"
     url: "/lack-of-clarity-as-gatekeeping/"
+  - title: "On recognition"
+    url: "/on-recognition/"
 ---
 
 - Sarah Cook, ["Everything Can't Be An Essay,"](https://neondoorlit.com/blog/everything-cant-be-an-essay/) *NeonDoor* (2022).

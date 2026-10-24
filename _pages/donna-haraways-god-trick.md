@@ -14,6 +14,8 @@ related:
     url: "/arguments-from-silence/"
   - title: "On the limits of truth-telling"
     url: "/on-the-limits-of-truth-telling/"
+  - title: "On recognition"
+    url: "/on-recognition/"
 ---
 
 I spoke about Haraway’s "god trick" [in this essay](https://www.strangeclarity.com/p/the-god-trick-and-how-we-read-authority), but the underlying work of philosophy deserves in-depth treatment; maybe I'll attempt that sometime.
