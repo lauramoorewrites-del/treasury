@@ -266,6 +266,16 @@ To her, Elena Ferrante's best storytelling ocurrs when she is "as if taking dict
 
 <p class="fleuron" aria-hidden="true">❧</p>
 
+### Anne Carson
+
+> *In the writing world, particularly in and around M.F.A. programs, there’s a lot of discussion around things like “character” and “perspective,” the mechanics of narrative. Do you think about “craft” in these terms?*
+>
+> Never. I don’t think about it. I think people should just quit that stuff. Just think about something and follow it down to where it gets true.
+
+— Anne Carson, interviewed by Kate Dwyer, [“Throwing Yourself Into the Dark: A Conversation with Anne Carson,”](https://www.theparisreview.org/blog/2024/04/17/throwing-yourself-into-the-dark-a-conversation-with-anne-carson/) *The Paris Review* (2024).
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
 ### George Saunders
 
 Saunders writes about false starts in his 30s, when he was consciously trying to write in a Hemingwayesque manner, and then his accidental discovery of a different mode of writing that was more instinctual:
