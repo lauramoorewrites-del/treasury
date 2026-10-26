@@ -5,6 +5,9 @@ topic: "drive and compulsion"
 permalink: /topics/drive-and-compulsion/
 description: "The pressure to make, its relief, and what happens when the drive fades."
 notes:
+  - title: "Writer’s block"
+    url: "/writers-block/"
+    date: "26 Oct"
   - title: "On projects as grown-up play"
     url: "/on-projects-as-grown-up-play/"
     date: "26 Oct"

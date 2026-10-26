@@ -14,8 +14,8 @@ related:
     url: "/writers-who-discount-inspiration/"
   - title: "Unconscious thought and creativity"
     url: "/unconscious-thought-and-creativity/"
-  - title: "How creative expression extinguishes pressure"
-    url: "/how-creative-expression-relieves-pressure/"
+  - title: "Writer’s block"
+    url: "/writers-block/"
 ---
 
 I've written an essay, published in [*The Philosopher*](https://www.thephilosopher1923.org/product-page/autumn-2026) (Autumn 2026), that proposes a new framework for distinguishing art and craft: "I use *art* to name a mode of making that originates in felt necessity, and *craft* to name a mode that originates in deliberate intention." My framework proceeds from creators' accounts, some of which I mention in the essay. Here are more.

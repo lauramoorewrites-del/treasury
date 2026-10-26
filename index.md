@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "Writer’s block"
+    url: "/writers-block/"
+    date: "26 Oct"
   - title: "On the duty of criticism and reviews to depict a work accurately"
     url: "/on-the-duty-of-criticism-to-depict-a-work-accurately/"
     date: "26 Oct"

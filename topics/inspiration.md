@@ -5,6 +5,9 @@ topic: "inspiration"
 permalink: /topics/inspiration/
 description: "Where creative work comes from: accounts of ideas that arrive unbidden, and of those who distrust the notion."
 notes:
+  - title: "Writer’s block"
+    url: "/writers-block/"
+    date: "26 Oct"
   - title: "On the value of ignorance"
     url: "/on-the-value-of-ignorance/"
     date: "26 Oct"
