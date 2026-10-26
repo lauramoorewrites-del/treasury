@@ -30,4 +30,4 @@ Often, things preoccupy us—they won't let our mind alone. And sometimes, givin
 >
 > That project remained as autofiction and was temporarily put on hold after I was asked to put together A Line Drawn. My intention was always to return to it, which I dutifully did once the story and essay collection was done, dusted, and out in the world. It was a great surprise to me to find that I had unwittingly nullified the autofiction project by working on A Line Drawn: I found I had said everything I wanted to say about Madrid, identity, journeying, and my experiences.
 
-— Jayne Marshall, interviewed by Laura Moore, ["Writing That's Intimate but Not Necessarily Autobiographical,"](https://www.strangeclarity.com/p/writing-thats-intimate-but-not-necessarily) *Strange Clarity* (2026).
+— Jayne Marshall, interviewed by Laura Cecile Moore, ["Writing That's Intimate but Not Necessarily Autobiographical,"](https://www.strangeclarity.com/p/writing-thats-intimate-but-not-necessarily) *Strange Clarity* (2026).

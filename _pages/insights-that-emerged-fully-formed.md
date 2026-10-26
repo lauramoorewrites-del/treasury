@@ -104,4 +104,4 @@ At Stanford, working on the chromosomes of the bread mold *Neurospora*:
 
 References:
 
-- Laura Moore, [“Divine inspiration, creative possession: how insights emerge fully formed,”](https://www.strangeclarity.com/p/divine-inspiration-creative-possession) *Strange Clarity* (2025)
+- Laura Cecile Moore, [“Divine inspiration, creative possession: how insights emerge fully formed,”](https://www.strangeclarity.com/p/divine-inspiration-creative-possession) *Strange Clarity* (2025)

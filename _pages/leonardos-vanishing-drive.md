@@ -18,7 +18,7 @@ related:
     url: "/my-theory-of-art-and-craft/"
 ---
 
-From Laura Moore, ["Could a drive for certainty be key to autism?"](https://www.strangeclarity.com/p/could-a-drive-for-certainty-be-key) *Strange Clarity* (2025):
+From Laura Cecile Moore, ["Could a drive for certainty be key to autism?"](https://www.strangeclarity.com/p/could-a-drive-for-certainty-be-key) *Strange Clarity* (2025):
 
 > Leonardo da Vinci first caught my attention because of his tendency to abandon works. It reminded me of my own cycle of intense but fleeting fascinations.
 >

@@ -26,4 +26,4 @@ A personal theory: some people who claim not to like kids may have a sound sensi
 
 Additional reading:
 
-- Laura Moore, ["Why autism gave me supersonic hearing,"](https://www.strangeclarity.com/p/why-autism-gave-me-supersonic-hearing) *Strange Clarity* (2025)
+- Laura Cecile Moore, ["Why autism gave me supersonic hearing,"](https://www.strangeclarity.com/p/why-autism-gave-me-supersonic-hearing) *Strange Clarity* (2025)

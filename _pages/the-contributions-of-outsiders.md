@@ -26,4 +26,4 @@ related:
 >
 > What interests me is the nature of his ignorance. It was wide but not deep: he knew little of philosophy’s history, but he worked obsessively on the problems that interested him, studying under Russell. I wonder if that’s the kind of ignorance that allows for outsider disruption, which can be so generative for a field. Freedom from the questions and ways of thinking that you’re taught to prioritize, if you come up from within. He didn’t inherit philosophy’s inside view of what questions were open for inquiry, so he could see his own questions without distraction, and without the so-called imposter syndrome that can paralyze contributions.
 
-— Laura Moore, [comment](https://jamesmiller411396.substack.com/p/in-praise-of-ignorance/comment/359125426) on James Miller, [“In Praise of Ignorance,”](https://jamesmiller411396.substack.com/p/in-praise-of-ignorance) *James Miller* (Substack, 2026).
+— Laura Cecile Moore, [comment](https://jamesmiller411396.substack.com/p/in-praise-of-ignorance/comment/359125426) on James Miller, [“In Praise of Ignorance,”](https://jamesmiller411396.substack.com/p/in-praise-of-ignorance) *James Miller* (Substack, 2026).
