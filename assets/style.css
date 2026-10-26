@@ -1,7 +1,7 @@
-/* Silva Culta. One serif (Newsreader). Colours follow the Strange Clarity
+/* Silva Culta. One typeface (Outfit, a geometric sans close to Rigidica). Colours follow the Strange Clarity
    palette: chalk-blue ground, chocolate ink, burnt-orange links, marigold ornament. */
 
-@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 :root{
   color-scheme: light;
@@ -24,9 +24,9 @@ body{
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: "Newsreader", Georgia, "Times New Roman", serif;
-  font-optical-sizing: auto;
-  font-variant-numeric: oldstyle-nums;
+  font-family: "Outfit", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 350;
+  font-variant-numeric: normal;
   line-height: 1.62;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -46,11 +46,11 @@ body{
 .card-index{ max-width: var(--measure-index); }
 
 /* headings */
-h1{ font-weight: 500; font-size: clamp(2rem, 5.5vw, 2.7rem); line-height: 1.06;
+h1{ font-weight: 300; font-size: clamp(2rem, 5.5vw, 2.7rem); line-height: 1.06;
     letter-spacing: -0.01em; margin: 0 0 0.9rem; }
-h2{ font-weight: 400; font-style: italic; font-size: 1.15rem;
+h2{ font-weight: 300; font-style: italic; font-size: 1.15rem;
     color: var(--muted-ink); margin: 2.6rem 0 1rem; }
-h3{ font-weight: 600; font-size: 1.05rem; margin: 2rem 0 0.6rem; }
+h3{ font-weight: 500; font-size: 1.05rem; margin: 2rem 0 0.6rem; }
 p{ margin: 0 0 1.15rem; }
 
 /* links */
@@ -66,6 +66,7 @@ blockquote{ margin: 1.7rem 0; padding-left: 1.15rem;
 
 hr{ border: 0; border-top: 1px solid var(--rule); margin: 2.4rem 0; }
 img{ max-width: 100%; height: auto; }
+strong, b{ font-weight: 600; }
 code, pre{ font-family: var(--mono); font-size: 0.9em; }
 pre{ overflow-x: auto; padding: 0.9rem 1rem; border: 1px solid var(--rule); border-radius: 3px; }
 ::selection{ background: color-mix(in srgb, var(--accent) 22%, transparent); }
