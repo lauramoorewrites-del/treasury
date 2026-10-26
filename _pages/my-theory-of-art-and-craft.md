@@ -372,6 +372,14 @@ Craft as an execution that is empty without the inspiration of art:
 
 <p class="fleuron" aria-hidden="true">❧</p>
 
+### Sylvia Plath
+
+> I have decided to write for at least two hours every day this next term . . . like practicing finger exercises: describing events, people, scenes: keeping the typewriter hot, instead of waiting for the perfect time to write a whole story at one fell swoop: the perfect time never comes, & if it does, you’re paralysed from lack of practice.
+
+— Sylvia Plath, letter to J. Mallory Wober, 15 December 1955, collected in [*The Letters of Sylvia Plath*, vol. 1: 1940–1956](https://bookshop.org/a/113685/9780062740434), ed. Peter K. Steinberg and Karen V. Kukil (Harper, 2017).
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
 ### Elena Ferrante
 
 When Elena Ferrante over-attends to the craft mode, it mars the broader effect of the story (which seems to reflect Jansson's passage above, about the "whole"):
