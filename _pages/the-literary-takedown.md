@@ -26,6 +26,10 @@ related:
 
 — Virginia Woolf, letter to Madge Vaughan, [mid-December 1904], collected in [*The Letters of Virginia Woolf*, vol. I: 1888–1912](https://bookshop.org/a/113685/9780156508810), ed. Nigel Nicolson and Joanne Trautmann (Hogarth Press, 1975), pp. 166–67.
 
+> And who is Dale Peck? the reader may legitimately ask. Peck is a 36-year-old novelist and critic who has created a furor in the literary world by lobbing grenades in the back pages of *The New Republic* intended not to disparage, not to bring down a peg, but to destroy his victims—usually established writers whom Peck deems a threat to literature.
+
+— James Atlas, [“The Takedown Artist,”](https://www.nytimes.com/2003/10/26/magazine/the-takedown-artist.html) *The New York Times Magazine* (2003).
+
 ## Examples
 
 - Renata Adler, ["The Perils of Pauline,"](https://www.nybooks.com/articles/1980/08/14/the-perils-of-pauline/) *The New York Review of Books* (1980). On Pauline Kael.

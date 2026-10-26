@@ -3,7 +3,7 @@ layout: default
 id: 15
 title: "Creators and scientists who had insights that emerged fully formed"
 created: "27 June 2026"
-updated: "13 October 2026"
+updated: "26 October 2026"
 topics: [inspiration, science]
 related:
   - title: "My theory of art and craft"
@@ -99,6 +99,18 @@ At Stanford, working on the chromosomes of the bread mold *Neurospora*:
 > McClintock credits her time under the eucalyptus as allowing her to reset her brain to be able to see what had before only looked like chaos in the cells. “I found that the more I worked with them … I was part of the system. I was right down there with them … I even was able to see the internal parts of the chromosomes … I actually felt as if I were right down there and these were my friends.”
 
 — Cathleen Small, [*Barbara McClintock: Cytogeneticist and Discoverer of Mobile Genetic Elements*](https://bookshop.org/a/113685/9781502623126) (Cavendish Square, 2016), p. 65.
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
+### Dale Peck
+
+> I wondered how Peck developed his passion for literature. “I just always read. My final stepmother”—his father’s fourth wife—“came with a small collection of books, things like ‘Peyton Place’ and ‘Valley of the Dolls.’ I must have read ‘Watership Down’ 15 times.”
+>
+> That still didn’t answer how he became a writer.
+>
+> “I had a dream. I woke up and wrote the dream down—it was kind of a mental narrative of my life, like, How did my mother die? I wrote it down in this sort of three-page short story and just knew.”
+
+— James Atlas, [“The Takedown Artist,”](https://www.nytimes.com/2003/10/26/magazine/the-takedown-artist.html) *The New York Times Magazine* (2003).
 
 ---
 
