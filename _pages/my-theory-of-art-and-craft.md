@@ -118,7 +118,7 @@ As a young writer, Virginia Woolf learned that the art mode could not be summone
 
 Hermione Lee's synthesis of Woolf's writing inspiration:
 
-When she came to explain to herself in her late memoir what made her a writer, she described it as a process of welcoming or finding valuable these shocks: 'And so I go on to suppose that the shock-receiving capacity is what makes me a writer.' The shock is followed by an immediate desire to explain it. The 'blow' is to become 'a revelation of some order'; 'it is a token of some real thing behind appearances; and I make it real by putting it into words'. This making of 'order' or 'wholeness' out of 'shocks', is, she says, 'the strongest pleasure known to me'.
+> When she came to explain to herself in her late memoir what made her a writer, she described it as a process of welcoming or finding valuable these shocks: 'And so I go on to suppose that the shock-receiving capacity is what makes me a writer.' The shock is followed by an immediate desire to explain it. The 'blow' is to become 'a revelation of some order'; 'it is a token of some real thing behind appearances; and I make it real by putting it into words'. This making of 'order' or 'wholeness' out of 'shocks', is, she says, 'the strongest pleasure known to me'.
 
 — Hermione Lee, *Virginia Woolf* (Chatto & Windus, 1996).
 
