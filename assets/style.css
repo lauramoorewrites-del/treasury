@@ -19,7 +19,7 @@
 }
 
 *{ box-sizing: border-box; }
-html{ font-size: 112.5%; -webkit-text-size-adjust: 100%; }
+html{ font-size: 106.25%; -webkit-text-size-adjust: 100%; }
 body{
   margin: 0;
   background: var(--paper);
