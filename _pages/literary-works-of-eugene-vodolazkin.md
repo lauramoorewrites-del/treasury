@@ -12,6 +12,8 @@ related:
     url: "/cross-language-literary-translating/"
   - title: "English translations of works by Þórbergur Þórðarson"
     url: "/english-translations-of-thorbergur-thordarson/"
+  - title: "On solitude"
+    url: "/on-solitude/"
 ---
 
 Vodolazkin (b. 1964) is a Doctor of Philological Sciences and senior researcher in Old Russian Literature at the Pushkin House (Institute of Russian Literature, Russian Academy of Sciences), where he studied under Dmitry Likhachev. He has been there since 1990.

@@ -5,6 +5,9 @@ topic: "perception"
 permalink: /topics/perception/
 description: "Seeing, hearing, and the senses as filters on the world."
 notes:
+  - title: "On solitude"
+    url: "/on-solitude/"
+    date: "26 Oct"
   - title: "Mediated reality"
     url: "/mediated-reality/"
     date: "26 Oct"

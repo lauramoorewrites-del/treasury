@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "On solitude"
+    url: "/on-solitude/"
+    date: "26 Oct"
   - title: "Creative works as a physical encryption of the self"
     url: "/creative-works-as-a-physical-encryption-of-the-self/"
     date: "26 Oct"

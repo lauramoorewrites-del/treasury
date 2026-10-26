@@ -4,6 +4,9 @@ title: "Eugene Vodolazkin"
 topic: "eugene vodolazkin"
 permalink: /topics/eugene-vodolazkin/
 notes:
+  - title: "On solitude"
+    url: "/on-solitude/"
+    date: "26 Oct"
   - title: "Sensory sensitivity"
     url: "/sensory-sensitivity/"
     date: "7 Aug"

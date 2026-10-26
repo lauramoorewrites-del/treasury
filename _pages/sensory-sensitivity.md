@@ -14,6 +14,8 @@ related:
     url: "/instinctual-preference-for-color-and-visual-aesthetics/"
   - title: "List of outdated DSM pathologies"
     url: "/outdated-dsm-pathologies/"
+  - title: "On solitude"
+    url: "/on-solitude/"
 ---
 
 > We could see nothing to portend a thunderstorm, but that’s only how it seemed: an absolutely leaden cloud was approaching from behind the grove we weren’t looking at. Unlike the boy who had warned us, we were self-absorbed and had not noticed anything. Later in life, I have observed that solitary people sense more subtly and notice nearing changes before others.
