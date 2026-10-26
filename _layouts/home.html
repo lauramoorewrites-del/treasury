@@ -19,10 +19,11 @@
 
     <div class="section-label">Recently updated</div>
     <ul class="wiki-list">
-      {% for item in page.recent %}
+      {% for item in page.recent limit: 25 %}
       <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a><span class="leader" aria-hidden="true"></span><span class="wiki-list-date">{{ item.date }}</span></li>
       {% endfor %}
     </ul>
+    <p class="all-entries-link"><a href="{{ '/entries/' | relative_url }}">All entries &rarr;</a></p>
 
     <div class="section-label">Topics</div>
     {% for group in page.topic_groups %}

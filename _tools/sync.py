@@ -118,6 +118,21 @@ def rebuild_recent(entries, recent, exclude):
     return False
 
 
+def rebuild_all_entries(entries, recent):
+    """Write entries.md (the full index linked from the homepage), newest first, nothing excluded."""
+    prev = {u: i for i, (u, _) in enumerate(recent)}
+    order = sorted(entries, key=lambda s: (-entries[s]["date"].toordinal(), prev.get(s, 10**6), entries[s]["title"]))
+    notes = "".join(f'  - title: {q(entries[s]["title"])}\n    url: "/{s}/"\n    date: "{short(entries[s]["date"])}"\n'
+                    for s in order)
+    text = ('---\nlayout: topic\ntitle: "All entries"\ntopic: "all entries"\npermalink: /entries/\n'
+            'description: "Every entry, most recently updated first."\nnotes:\n' + notes + '---\n')
+    old = open("entries.md", encoding="utf-8").read() if os.path.exists("entries.md") else None
+    if text != old:
+        open("entries.md", "w", encoding="utf-8").write(text)
+        return True
+    return False
+
+
 def write_topic_page(topic, family, siblings, members, entries):
     path = f"topics/{slugify(topic)}.md"
     notes = "notes:\n" + "".join(
@@ -235,6 +250,8 @@ def main():
                                                 -entries[s]["cdate"].toordinal(), entries[s]["title"]))
                 if write_topic_page(t, g, [x for x in ts if x != t], members, entries):
                     changed.append(t)
+        if rebuild_all_entries(entries, recent):
+            changed.append("all-entries index")
         if rebuild_recent(entries, recent, exclude):
             changed.append("recent list (" + "; ".join(recent_problems) + ")" if recent_problems else "recent list")
     elif check_only:
@@ -243,6 +260,8 @@ def main():
                 path = f"topics/{slugify(t)}.md"
                 if not os.path.exists(path):
                     errors.append(f"missing topic page {path}")
+        if not os.path.exists("entries.md"):
+            errors.append("missing entries.md (all-entries index)")
 
     print(f"{len(entries)} entries, {len(family)} topics, "
           f"{sum(len(e['related']) for e in entries.values())} related links ({one_way} one-way)")
