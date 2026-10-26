@@ -47,13 +47,3 @@ Writer's block can be mistaken as an attempt to force creativity through a chann
 > It didn't seem to be telling any particular story. This was surprising and difficult for me to understand. It had occurred to me to worry in advance about writer's block, but the production of a huge non-novel just wasn't a possibility I had anticipated.
 
 — Elif Batuman, *The Possessed: Adventures with Russian Books and the People Who Read Them* (Farrar, Straus and Giroux, 2010).
-
-# Craft
-
-### Patti Smith
-
-Patti Smith on the passage from one mode to the other:
-
-> The artist seeks contact with his intuitive sense of the gods, but in order to create his work, he cannot stay in this seductive and incorporeal realm. He must return to the material world in order to do his work. It's the artist's responsibility to balance mystical communication and the labor of creation.
-
-— Patti Smith, [*Just Kids*](https://bookshop.org/a/113685/9780060936228) (Ecco, 2010).
