@@ -36,6 +36,8 @@ In a piece I'm submitting, I talk about borrowed vision. What I mean is what is 
 
 — W. Somerset Maugham, entry for 1896, [*A Writer’s Notebook*](https://bookshop.org/a/113685/9780307473196) (Heinemann, 1949).
 
+Negative reviews, what I call door-slams, hold persuasive power too:
+
 > “In my own experience, dishing out grief has been a lot more fun than taking it,” wrote Clive James in a recent Times Op-Ed article, chewing over the Peck Problem. James insisted that he has learned to shake off bad reviews. “They tend to arouse sympathy for the victim, and might even help sell the book.” This has not been my experience. Negative reviews cause a ripple effect that can transform the critical response to a book in short order. A reviewer who dares to throw the first stone emboldens the timid to pile on like the villagers in Shirley Jackson’s story “The Lottery.”
 
 — James Atlas, [“The Takedown Artist,”](https://www.nytimes.com/2003/10/26/magazine/the-takedown-artist.html) *The New York Times Magazine* (2003).
