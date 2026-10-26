@@ -5,6 +5,9 @@ topic: "the other arts"
 permalink: /topics/the-other-arts/
 description: "Painting, music, photography, and film."
 notes:
+  - title: "Mediated reality"
+    url: "/mediated-reality/"
+    date: "26 Oct"
   - title: "On the failure of language to describe certain art forms"
     url: "/on-the-failure-of-language-to-describe-certain-art-forms/"
     date: "19 Oct"
@@ -17,9 +20,6 @@ notes:
   - title: "The style of portrait artist Michael Shane Neal"
     url: "/the-style-of-portrait-artist-michael-shane-neal/"
     date: "19 Aug"
-  - title: "Mediated reality"
-    url: "/mediated-reality/"
-    date: "27 Jun"
 see_also:
   - title: "writers’ lives"
     url: "/topics/writers-lives/"

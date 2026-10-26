@@ -14,6 +14,8 @@ related:
     url: "/on-the-value-of-ignorance/"
   - title: "My favorite essays"
     url: "/my-favorite-essays/"
+  - title: "On how readers make the book"
+    url: "/on-how-readers-make-the-book/"
 ---
 
 > To recognize something is to be affected by what we already know but didn’t realize, an insight that leads us back to what is both familiar and strange.

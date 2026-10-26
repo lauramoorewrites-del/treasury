@@ -7,7 +7,7 @@ description: "Character, truth, and the novel's claims on reality."
 notes:
   - title: "The novel as a source of truth"
     url: "/the-novel-as-a-source-of-truth/"
-    date: "21 Sep"
+    date: "26 Oct"
   - title: "Dickens's caricatured characterizations"
     url: "/dickenss-caricatured-characterizations/"
     date: "17 Sep"

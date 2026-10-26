@@ -3,8 +3,8 @@ layout: default
 id: 18
 title: "Donna Haraway’s god trick"
 created: "27 June 2026"
-updated: "27 June 2026"
-topics: [ways of knowing, thinking tools, gender]
+updated: "26 October 2026"
+topics: [ways of knowing, thinking tools, gender, zadie smith]
 related:
   - title: "List of my personal touchstones"
     url: "/on-my-personal-touchstones/"
@@ -31,6 +31,16 @@ This is a trick I’ve encountered often in my life, but didn’t have the tools
 Here, *point of view* is used more literally than we’re accustomed to. Often it’s used interchangeably with *opinion*, but one’s *point of view* is upstream of opinions and judgments. It goes some way to explain how and why those opinions and judgments are what they are.
 
 ---
+
+> Misogyny, whatever else it might be, is a form of distortion, a way of not seeing, of assuming both too much and too little.
+>
+> But the unusual thing about misogyny is the elaborate intellectual superstructure that has for so long supported and celebrated it, not as blind spot or as pernicious ideology but, on the contrary, as perfect vision. What else will we start to see now the mist of misogyny begins to clear?
+
+— Zadie Smith, [“The Muse at Her Easel,”](https://www.nybooks.com/articles/2019/11/21/muse-easel-celia-paul-lucian-freud/) *The New York Review of Books* (2019); collected in *Dead and Alive* (Penguin Press, 2025).
+
+> What I like least of all is a new and specifically reactionary twist on standpoint epistemology, which involves framing an allergy to empiricism as proof of spiritual profundity.
+
+— Becca Rothfeld, [“Safe and Beautiful,”](https://thepointmag.com/forms-of-life/safe-and-beautiful/) *The Point* (2025).
 
 References:
 

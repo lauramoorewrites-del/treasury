@@ -3,7 +3,7 @@ layout: default
 id: 33
 title: "Collected reflections on translating thought into words"
 created: "28 June 2026"
-updated: "28 June 2026"
+updated: "26 October 2026"
 topics: [language and translation, consciousness]
 related:
   - title: "On the failure of language to describe certain art forms"
@@ -19,6 +19,10 @@ related:
 > I begin to see figments of all that lives just outside of language's proverbial grasp, I mean I see the words coming and I see that they end, too, but they come so fast that I also see, in this woozy-fuzzy moment, the gigantic stature of everything that exists in this world that is also not language, gas and dust forming light-tails so that the words momentarily reach back to where they came from, tracing back toward the incident that predated their appearance. Something specific, a thing or a state or a feeling, always predates the appearance of words. And just like that, the music has stopped, I hear the toilet flushing, a cat is begging me to feed him please, and the dust-tail has disappeared along with the words that dragged them forward. The essay had been a moment, a feeling, one that is now mostly felt, a moment before a moment ago. I did not pull it out in time.
 
 — Sarah Cook, ["Everything Can't Be An Essay,"](https://neondoorlit.com/blog/everything-cant-be-an-essay/) *NeonDoor* (2022).
+
+> I have experiences outside of language all the time, and my job is to determine which ones are worth the friction of communicating them to another person, such as you.
+
+— Sarah Cook, [“Everything Can’t Be An Essay,”](https://neondoorlit.com/blog/everything-cant-be-an-essay/) *NeonDoor* (2022).
 
 > I felt like, at least for a moment, I understood why AI writing will never be better than our own.
 >

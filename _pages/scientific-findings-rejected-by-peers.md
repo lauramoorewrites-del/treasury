@@ -14,6 +14,8 @@ related:
     url: "/epidemic-of-suggestion-of-the-literary-kind/"
   - title: "Visual perception"
     url: "/visual-perception/"
+  - title: "The contributions of outsiders"
+    url: "/the-contributions-of-outsiders/"
 ---
 
 **Hans Berger and the brain's activity during downtime.**

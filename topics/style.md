@@ -5,6 +5,12 @@ topic: "style"
 permalink: /topics/style/
 description: "What individual style consists of, and how it forms, constrains, and is shaped by others' styles."
 notes:
+  - title: "Creative works as a physical encryption of the self"
+    url: "/creative-works-as-a-physical-encryption-of-the-self/"
+    date: "26 Oct"
+  - title: "On imitation and influence"
+    url: "/on-imitation-and-influence/"
+    date: "26 Oct"
   - title: "On movie critic Pauline Kael"
     url: "/on-movie-critic-pauline-kael/"
     date: "21 Oct"

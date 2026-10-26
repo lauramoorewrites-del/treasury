@@ -3,7 +3,7 @@ layout: default
 id: 92
 title: "On friendship"
 created: "20 October 2026"
-updated: "20 October 2026"
+updated: "26 October 2026"
 topics: [writers’ lives, virginia woolf, somerset maugham]
 related:
   - title: "Famous collections of private correspondence"
@@ -29,3 +29,35 @@ related:
 > It is conceivable that these two friendships should find their object in one and the same person; that would be the perfect friend. But to ask for that is to ask for the moon. On the other hand, when, as sometimes happens, there is an animal attraction on one side and an intellectual one on the other, only discord can ensue.
 
 — W. Somerset Maugham, entry for 1894, [*A Writer’s Notebook*](https://bookshop.org/a/113685/9780307473196) (Heinemann, 1949).
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
+> There is no template for friendship, and how it ought to begin, change or end. Each friendship is so singular, it has to be invented every time.
+
+— Tiffany Watt Smith, [*Bad Friend: How Women Revolutionized Modern Friendship*](https://bookshop.org/a/113685/9781250870223) (Celadon Books, 2025).
+
+> But driving home, I realize this: it is when we want to reimagine ourselves, or when we are forced to, that our hunger for friendship becomes most urgent.
+
+— Tiffany Watt Smith, *Bad Friend*, p. 34.
+
+> Every dream of friendship deserves to be shattered . . . Friendship is not to be sought, not to be dreamed, not to be desired; it is to be exercised.
+
+— Simone Weil, [*Gravity and Grace*](https://bookshop.org/a/113685/9780415290012), trans. Emma Crawford and Mario von der Ruhr (Routledge Classics, 2002); quoted in Watt Smith, *Bad Friend*.
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
+> Moreover, to say truth, the ordinary talent of women is not such as is sufficient to maintain the conference and communication required to the support of this sacred tie [of friendship]; nor do they appear to be endued with constancy of mind, to sustain the pinch of so hard and durable a knot.
+
+— Michel de Montaigne, [“Of Friendship,”](https://hyperessays.net/essays/on-friendship/) trans. Charles Cotton, rev. W. Carew Hazlitt.
+
+> Among those [Renaissance] ideas were theories about platonic love that gave rise to a cult of romantic male friendship never seen before or since in the West.
+
+— Tiffany Watt Smith, *Bad Friend*.
+
+> In 1862, the English feminist campaigner Frances Power Cobbe published an essay, ‘Celibacy v. Marriage,’ in the widely read Fraser’s Magazine. [...] But, she continued, it was precisely these tender and pure friendships that could liberate women from their destiny as wives and mothers.
+
+— Tiffany Watt Smith, *Bad Friend*, p. 28.
+
+> The twentieth century, writes the historian Mark Peel, ‘was the age of female friendship, or perhaps the age when friendship became female.’
+
+— Tiffany Watt Smith, *Bad Friend*, p. 29.

@@ -3,7 +3,7 @@ layout: default
 id: 11
 title: "Authors who disliked or didn't understand other authors' works"
 created: "27 June 2026"
-updated: "24 July 2026"
+updated: "26 October 2026"
 topics: [taste and judgment, reading, leo tolstoy, virginia woolf]
 related:
   - title: "Critics on what makes art great"
@@ -14,6 +14,8 @@ related:
     url: "/woolf-on-reading-other-writers/"
   - title: "When another's writing obstructs your own"
     url: "/when-anothers-style-obstructs-your-own/"
+  - title: "On how readers make the book"
+    url: "/on-how-readers-make-the-book/"
 ---
 
 **Joan Didion.**
@@ -47,6 +49,14 @@ related:
 — Leo Tolstoy, [*Tolstoy on Shakespeare: A Critical Essay on Shakespeare*](https://www.gutenberg.org/files/27726/27726-h/27726-h.htm) (1906), trans. V. Tchertkoff.
 
 ---
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
+**Doris Lessing,** on those who dislike Woolf:
+
+> For me, her two great achievements are *Orlando*, which always makes me laugh, it is such a witty little book, perfect, a gem; and *To the Lighthouse*, which I think is one of the finest novels in English. Yet people of the tenderest discrimination cannot find a good word to say. I want to protest that surely it should not be ‘the dreadful novels of Virginia Woolf’, ‘silly *Orlando*’, but rather ‘I don’t like *Orlando*’, ‘I don’t like *To the Lighthouse*’, ‘I don’t like Virginia Woolf’. After all, when people of equal discrimination to oneself, adore, or hate the same book, the smallest act of modesty, the minimum act of respect for the great profession of literary critic should be, ‘I don’t like Woolf, but that is just my bias.’
+
+— Doris Lessing, foreword to Virginia Woolf, *Carlyle’s House and Other Sketches*, ed. David Bradshaw (Hesperus Press, 2003); printed as [“Sketches from Bohemia,”](https://www.theguardian.com/books/2003/jun/14/classics.virginiawoolf) *The Guardian* (2003).
 
 Further reading:
 

@@ -14,6 +14,8 @@ related:
     url: "/an-inability-to-remember-the-specifics/"
   - title: "Memory"
     url: "/memory/"
+  - title: "On writing as a way of learning"
+    url: "/on-writing-as-a-way-of-learning/"
 ---
 
 ## Writers on their notebooks

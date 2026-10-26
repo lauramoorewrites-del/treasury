@@ -14,11 +14,17 @@ related:
     url: "/donna-haraways-god-trick/"
   - title: "The dreadful real-life inspiration for Uncle Tom's Cabin"
     url: "/the-dreadful-real-life-inspiration-for-uncle-toms-cabin/"
+  - title: "On who gets to write history"
+    url: "/on-who-gets-to-write-history/"
 ---
 
 > Seldom, very seldom, does complete truth belong to any human disclosure; seldom can it happen that something is not a little disguised, or a little mistaken.
 
 — Jane Austen, *Emma* (1815).
+
+> At any rate, when a subject is highly controversial – and any question about sex is that – one cannot hope to tell the truth. One can only show how one came to hold whatever opinion one does hold.
+
+— Virginia Woolf, *A Room of One’s Own* (1929).
 
 > Here, then, Mary Beton ceases to speak. ... While she has been doing all these things, you no doubt have been observing her failings and foibles and deciding what effect they have had on her opinions. That is all as it should be, for in a question like this truth is only to be had by laying together many varieties of error.
 

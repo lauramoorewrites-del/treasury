@@ -3,7 +3,7 @@ layout: default
 id: 77
 title: "My theory of art and craft"
 created: "17 September 2026"
-updated: "17 October 2026"
+updated: "26 October 2026"
 topics: [inspiration, craft and practice, drive and compulsion, virginia woolf, hildegard of bingen]
 related:
   - title: "Conceptions of the source of creativity"
@@ -140,6 +140,10 @@ In this letter to Vita Sackville-West, Woolf is describing both modes. The art m
 
 — Virginia Woolf, diary entry, 10 September 1927, collected in *The Diary of Virginia Woolf*, vol. III.
 
+> I used to make it up at such a rate that when I got pen & paper I was like a water bottle turned upside down. The writing was as quick as my hand could write; too quick, for I am now toiling to revise; but this way gives one freedom & lets one leap from back to back of one’s thoughts.
+
+— Virginia Woolf, diary entry, 13 April 1929, collected in *The Diary of Virginia Woolf*, vol. III.
+
 > And — odd how the spring of life isn't to be tapped at will. I cant get into the swim by saying it is Saturday morning & I will write. I cant get into that stream by standing & wishing it.
 
 — Virginia Woolf, diary entry, 1 June 1935, collected in *The Diary of Virginia Woolf*, vol. IV.
@@ -229,6 +233,24 @@ The presence of writer's block signals that the art mode is unreachable:
 > When I read a book, I can always tell if the writer has written through a block. If he or she had just waited, it would have been better or different, or a little more natural. You can see the seams.
 
 — Toni Morrison, interviewed by Claudia Tate, [*Black Women Writers at Work*](https://bookshop.org/search?q=9781642598438), ed. Claudia Tate (Haymarket Books, 2023).
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
+### Margaret Atwood
+
+> *So what changed [when you finally found your voice]?*
+>
+> I was writing more formally before. I can’t tell you what happened except that it was a very noticeable shift, and it happened all at once. You can’t account for anything that happens in the creative mind. It’s the eureka experience. The experience comes unbidden.
+>
+> *So did you see the shift [in voice] and decide, yes, this is where I want to go?*
+>
+> I felt the shift. This is not an intellectual matter.
+>
+> *Was there any conscious effort to then develop it further?*
+>
+> It’s not something you develop. It’s something you have access to. It’s not like scratching away at the architectural drawing board—maybe we need a doorknob here, or we can put this window over here. That may come in the editing process. But the experience you’re talking about is more like opening a door, not developing something. Then you say, ‘I didn’t even know that door was there. Shall I go further down the corridor?’
+
+— Margaret Atwood, interviewed by Kristin D. Godsey, [“Vintage WD Interviews: Margaret Atwood,”](https://www.writersdigest.com/be-inspired/vintage-wd-interviews-margaret-atwood) *Writer’s Digest* (April 2004; reposted 2019).
 
 <p class="fleuron" aria-hidden="true">❧</p>
 
@@ -367,6 +389,22 @@ When Elena Ferrante over-attends to the craft mode, it mars the broader effect o
 > The generic answer is that skill is a trained practice. In this, skill contrasts to the coup de foudre, the sudden inspiration.
 
 — Richard Sennett, *The Craftsman* (Yale University Press, 2008).
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
+### Quintilian
+
+> Quintilian defines hexis as that “assured facility” (firma facilitas) in any art which supplements, bends, and transcends its rules, and constitutes what we call mastery.
+
+— Mary Carruthers, [*The Book of Memory: A Study of Memory in Medieval Culture*](https://bookshop.org/search?q=9780521716314) (Cambridge University Press, 1990).
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
+### Peter Korn
+
+> Creative fulfillment is not something to achieve and keep, like a college degree or an Olympic medal. It resides in the process of making the table, not in the satisfaction of sitting at it.
+
+— Peter Korn, [*Why We Make Things and Why It Matters: The Education of a Craftsman*](https://bookshop.org/a/113685/9781567925463) (David R. Godine, 2013).
 
 <p class="fleuron" aria-hidden="true">❧</p>
 

@@ -14,6 +14,8 @@ related:
     url: "/instinctual-preference-for-color-and-visual-aesthetics/"
   - title: "Zadie Smith’s theories of fiction and writing"
     url: "/zadie-smiths-theories-of-fiction-and-writing/"
+  - title: "Creative works as a physical encryption of the self"
+    url: "/creative-works-as-a-physical-encryption-of-the-self/"
 ---
 
 Zadie Smith on her own constraints as a writer:

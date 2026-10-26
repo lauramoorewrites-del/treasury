@@ -3,8 +3,8 @@ layout: default
 id: 84
 title: "On the critical form of the takedown"
 created: "29 September 2026"
-updated: "29 September 2026"
-topics: [criticism, reading lists]
+updated: "26 October 2026"
+topics: [criticism, reading lists, virginia woolf]
 related:
   - title: "The job of criticism"
     url: "/the-job-of-criticism/"
@@ -21,6 +21,10 @@ related:
 > A takedown that's any good will be hard to quibble with too much because it will ground judgment in argument, and give too powerful sense of the inadequacies of method, technique, and worldview. You shouldn't be giving the reader the opportunity to say, "I just don't agree."
 
 — Leo Robson, interviewed by Leonard Benardo, ["Closer to Rude Than Snide,"](https://www.theideasletter.org/essay/closer-to-rude-than-snide/) *The Ideas Letter*.
+
+> My Haworth article has been taken, and comes out next week or the week after, I had a review in last week, and she has sent me others to do–so I dont fail for lack of scribbling–though not of an exalted kind! I wish you would hand me on Mr Maurice Hewlett, or any body indeed whom you would reject: I should like to [give] that affected Dandy his due! My real delight in reviewing is to say nasty things; and hitherto I have had to [be] respectful. The worst of it is, I find, that very few people have the brains to write a really bad novel; whereas anyone can turn out a respectable dull one.
+
+— Virginia Woolf, letter to Madge Vaughan, [mid-December 1904], collected in [*The Letters of Virginia Woolf*, vol. I: 1888–1912](https://bookshop.org/a/113685/9780156508810), ed. Nigel Nicolson and Joanne Trautmann (Hogarth Press, 1975), pp. 166–67.
 
 ## Examples
 

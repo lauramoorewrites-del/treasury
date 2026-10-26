@@ -7,10 +7,10 @@ description: "The pressure to make, its relief, and what happens when the drive 
 notes:
   - title: "On projects as grown-up play"
     url: "/on-projects-as-grown-up-play/"
-    date: "22 Oct"
+    date: "26 Oct"
   - title: "My theory of art and craft"
     url: "/my-theory-of-art-and-craft/"
-    date: "17 Oct"
+    date: "26 Oct"
   - title: "How creative expression extinguishes pressure"
     url: "/how-creative-expression-relieves-pressure/"
     date: "17 Sep"
