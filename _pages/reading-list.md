@@ -3,7 +3,7 @@ layout: default
 id: 9
 title: "Reading list"
 created: "26 June 2026"
-updated: "18 August 2026"
+updated: "26 October 2026"
 topics: [reading lists, reading]
 related:
   - title: "My favorite essays"
@@ -29,6 +29,7 @@ Running list of texts to read, with source and date recorded.
 - Javier Marías, [*Written Lives*](https://bookshop.org/search?q=written+lives+javier+marias) (1992; English translation 2006). A collection of short essays compiling biographical information about the lives of various extremely famous authors. Source: Alexander Fayne, [“Out of Character”](https://alexanderfayne.substack.com/p/out-of-character). Recorded 15 August 2026.
 - Ivan Illich, [*In the Vineyard of the Text: A Commentary to Hugh’s Didascalicon*](https://bookshop.org/search?q=9780226372365) (University of Chicago Press, 1993). Source: a Substack Note. Recorded 18 August 2026.
 - David Foster Wallace, “Forever Overhead.” Source: Zadie Smith: *“If I could choose one story to be printed alongside this article as demonstration, it would be Foster Wallace’s ‘Forever Overhead’, a 10-page effort that has come to obsess me quite as much as the miserable death of poor, terminally middle-class Ivan.”* Recorded 26 June 2026.
+- T. S. Eliot, “Tradition and the Individual Talent” (1919). Source: James Atlas, [“The Takedown Artist,”](https://www.nytimes.com/2003/10/26/magazine/the-takedown-artist.html) *The New York Times Magazine* (2003), which names it as one of Dale Peck’s touchstones: *“Another touchstone is T.S. Eliot’s essay ‘Tradition and the Individual Talent,’ in which Eliot argues that the literature of the present is not only inalterably connected to but also transformed by the literature of the past.”* Recorded 26 October 2026.
 
 ## Read
 
