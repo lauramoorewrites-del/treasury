@@ -334,14 +334,6 @@ In my piece I cited Mozart's storied capacity to compose whole works in his mind
 
 <p class="fleuron" aria-hidden="true">❧</p>
 
-### Gustave Flaubert
-
-> You don’t know what it is to stay a whole day with your head in your hands trying to squeeze your unfortunate brain so as to find a word. Ideas come very easily with you, incessantly, like a stream. With me it is a tiny thread of water. Hard labor at art is necessary for me before obtaining a waterfall. Ah! I certainly know THE AGONIES OF STYLE.
-
-— Gustave Flaubert, letter to George Sand, Croisset, [late 1866], in [*The George Sand–Gustave Flaubert Letters*](https://www.gutenberg.org/ebooks/5115), trans. Aimée L. McKenzie (Boni and Liveright, 1921), letter XXXII.
-
-<p class="fleuron" aria-hidden="true">❧</p>
-
 ### Virginia Woolf
 
 Woolf, in writing her unfinished, late-life memoirs, didn't have the energy to bring craft to the project:

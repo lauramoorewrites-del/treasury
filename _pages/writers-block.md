@@ -47,3 +47,11 @@ Writer's block can be mistaken as an attempt to force creativity through a chann
 > It didn't seem to be telling any particular story. This was surprising and difficult for me to understand. It had occurred to me to worry in advance about writer's block, but the production of a huge non-novel just wasn't a possibility I had anticipated.
 
 — Elif Batuman, *The Possessed: Adventures with Russian Books and the People Who Read Them* (Farrar, Straus and Giroux, 2010).
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
+### Gustave Flaubert
+
+> You don’t know what it is to stay a whole day with your head in your hands trying to squeeze your unfortunate brain so as to find a word. Ideas come very easily with you, incessantly, like a stream. With me it is a tiny thread of water. Hard labor at art is necessary for me before obtaining a waterfall. Ah! I certainly know THE AGONIES OF STYLE.
+
+— Gustave Flaubert, letter to George Sand, Croisset, [late 1866], in [*The George Sand–Gustave Flaubert Letters*](https://www.gutenberg.org/ebooks/5115), trans. Aimée L. McKenzie (Boni and Liveright, 1921), letter XXXII.
