@@ -3,7 +3,7 @@ layout: default
 id: 50
 title: "On the limits of truth-telling"
 created: "23 July 2026"
-updated: "23 July 2026"
+updated: "26 October 2026"
 topics: [truth, gender, virginia woolf]
 related:
   - title: "Definitions of truth"
@@ -20,6 +20,6 @@ related:
 
 — Jane Austen, *Emma* (1815).
 
-> Here, then, Mary Beaton ceases to speak. ... While she has been doing all these things, you no doubt have been observing her failings and foibles and deciding what effect they have had on her opinions. That is all as it should be, for in a question like this truth is only to be had by laying together many varieties of error.
+> Here, then, Mary Beton ceases to speak. ... While she has been doing all these things, you no doubt have been observing her failings and foibles and deciding what effect they have had on her opinions. That is all as it should be, for in a question like this truth is only to be had by laying together many varieties of error.
 
 — Virginia Woolf, *A Room of One's Own* (1929).
