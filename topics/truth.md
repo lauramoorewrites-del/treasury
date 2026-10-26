@@ -5,6 +5,9 @@ topic: "truth"
 permalink: /topics/truth/
 description: "What truth is, and how disclosure, fiction, and the mind bend it."
 notes:
+  - title: "On the duty of criticism and reviews to depict a work accurately"
+    url: "/on-the-duty-of-criticism-to-depict-a-work-accurately/"
+    date: "26 Oct"
   - title: "On who gets to write history"
     url: "/on-who-gets-to-write-history/"
     date: "26 Oct"

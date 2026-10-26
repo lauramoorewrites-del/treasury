@@ -14,6 +14,8 @@ related:
     url: "/critics-on-what-makes-art-great/"
   - title: "On the critical form of the takedown"
     url: "/the-literary-takedown/"
+  - title: "On the duty of criticism and reviews to depict a work accurately"
+    url: "/on-the-duty-of-criticism-to-depict-a-work-accurately/"
 ---
 
 > So my attitude about this is, fine, if you want to be a writer, I will treat you like one—I will assess your writing on the level of form and style and idea. I'm as qualified to do this as anyone else, and anyone else is welcome to do it to me. If you're a serious writer, you should be able to withstand criticism and determine which criticism is legitimate and which criticism is made in bad faith, even if it stings.

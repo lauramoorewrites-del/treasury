@@ -3,7 +3,7 @@ layout: default
 id: 85
 title: "Critical Communication by Arnold Isenberg"
 created: "30 September 2026"
-updated: "30 September 2026"
+updated: "26 October 2026"
 topics: [criticism, taste and judgment]
 related:
   - title: "The job of criticism"
@@ -14,8 +14,8 @@ related:
     url: "/radiation-from-that-narrow-circle/"
   - title: "Reading list on how subjectivity enters critical analysis"
     url: "/reading-list-on-how-subjectivity-enters-critical-analysis/"
-  - title: "Epidemic of suggestion of the literary kind"
-    url: "/epidemic-of-suggestion-of-the-literary-kind/"
+  - title: "On the duty of criticism and reviews to depict a work accurately"
+    url: "/on-the-duty-of-criticism-to-depict-a-work-accurately/"
 ---
 
 Arnold Isenberg's 1949 essay "Critical Communication" argues that a critic's descriptive remarks don't work as reasons that justify a verdict by appealing to general rules. They function more like directions for perception: the critic is trying to get you to see what they saw, to bring about what he calls a sameness of vision. The critic's statement is incomplete by itself; it only gets its meaning when you look at the work and find the feature it points to. A phrase about a painting's line or color is vague in the abstract but can be precise when you're looking at the painting, just as "that one" is precise only when you can see where the speaker is pointing.
@@ -24,9 +24,13 @@ Arnold Isenberg's 1949 essay "Critical Communication" argues that a critic's des
 
 <p class="fleuron" aria-hidden="true">❧</p>
 
-Here, Isenberg contends that a work of criticism can have "noncritical purposes" that are furthered even in the absence of the work being criticized. He doesn't give examples. Perhaps providing artist biography, cultural and historical context, and the critic's own evaluation of the work (signaling to the reader whether to seek it out) are candidates.
+Among the claims that most arrest me in this work is Isenberg's contention that reading criticism is pointless if the work in question is not immediately accessible:
 
-> Reading criticism, otherwise than in the presence, or with direct recollection, of the objects discussed is a blank and senseless employment—a fact which is concealed from us by the co-operation, in our reading, of many noncritical purposes for which the information offered by the critic is material and useful.
+> Reading criticism, otherwise than in the presence, or with direct recollection, of the objects discussed is a blank and senseless employment...
+
+In such cases, "noncritical purposes" are the only functions of criticism that can be vindicated (presumably that includes things like biography discussion, and cultural and historical context):
+
+> ...—a fact which is concealed from us by the co-operation, in our reading, of many noncritical purposes for which the information offered by the critic is material and useful.
 
 <p class="fleuron" aria-hidden="true">❧</p>
 

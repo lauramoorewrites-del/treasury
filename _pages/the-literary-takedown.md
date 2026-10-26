@@ -12,8 +12,8 @@ related:
     url: "/the-permission-to-criticize/"
   - title: "The nature of the critic's influence"
     url: "/the-nature-of-the-critics-influence/"
-  - title: "Selected critical reviews of Zadie Smith"
-    url: "/critical-reviews-of-zadie-smith/"
+  - title: "On the duty of criticism and reviews to depict a work accurately"
+    url: "/on-the-duty-of-criticism-to-depict-a-work-accurately/"
   - title: "On movie critic Pauline Kael"
     url: "/on-movie-critic-pauline-kael/"
 ---
