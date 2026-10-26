@@ -5,6 +5,9 @@ topic: "neurodivergence"
 permalink: /topics/neurodivergence/
 description: "Sensory sensitivity, cognitive difference, and how such traits have been classified."
 notes:
+  - title: "How nonconforming adults’ behaviors are infantilized"
+    url: "/how-nonconforming-adults-behaviors-are-infantilized/"
+    date: "26 Oct"
   - title: "Leonardo’s vanishing drive"
     url: "/leonardos-vanishing-drive/"
     date: "1 Sep"

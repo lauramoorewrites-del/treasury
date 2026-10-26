@@ -5,6 +5,9 @@ topic: "writers’ lives"
 permalink: /topics/writers-lives/
 description: "Biography, livelihoods, friendships, and the material conditions of writing."
 notes:
+  - title: "How nonconforming adults’ behaviors are infantilized"
+    url: "/how-nonconforming-adults-behaviors-are-infantilized/"
+    date: "26 Oct"
   - title: "On the person as text and a life as a person’s greatest creative work"
     url: "/on-the-person-as-text/"
     date: "22 Oct"

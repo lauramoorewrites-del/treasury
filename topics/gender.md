@@ -5,6 +5,9 @@ topic: "gender"
 permalink: /topics/gender/
 description: "Gender, nonconformity, and the conditions of women's work."
 notes:
+  - title: "How nonconforming adults’ behaviors are infantilized"
+    url: "/how-nonconforming-adults-behaviors-are-infantilized/"
+    date: "26 Oct"
   - title: "Virginia Woolf's real-life room"
     url: "/virginia-woolfs-real-life-room/"
     date: "3 Oct"

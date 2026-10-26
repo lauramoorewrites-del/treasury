@@ -14,6 +14,8 @@ related:
     url: "/on-my-personal-touchstones/"
   - title: "List of outdated DSM pathologies"
     url: "/outdated-dsm-pathologies/"
+  - title: "How nonconforming adults’ behaviors are infantilized"
+    url: "/how-nonconforming-adults-behaviors-are-infantilized/"
 figuring_out:
   - "I want to return to this association my research brought me to: Pedestrianism, the popular 19th-century sport that saw participants walking many dozens, even hundreds, of miles over multi-day stretches. Spectators filled arenas to watch athletes walk in circles for days on end."
 ---

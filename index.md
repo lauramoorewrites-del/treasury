@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "How nonconforming adults’ behaviors are infantilized"
+    url: "/how-nonconforming-adults-behaviors-are-infantilized/"
+    date: "26 Oct"
   - title: "On recognition"
     url: "/on-recognition/"
     date: "24 Oct"
