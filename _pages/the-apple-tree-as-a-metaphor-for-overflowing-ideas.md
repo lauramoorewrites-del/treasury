@@ -42,6 +42,6 @@ Embedded in the apple tree post, however, is another tidy metaphor I really disl
 
 > Gilbert pictures ideas as these little bodiless bits of energy roaming around the world, looking for someone who might be willing to bring them to life. One finds you, you feel that little spark of *“Ooh, I want to make this!”* and for a while the two of you belong to each other.
 
-— Ece Aybike Ala-Pettersen, [“How to make something when you want to make everything,”](https://eceaybikeala.substack.com/p/how-to-make-something-when-you-want) *ece’s little corner on the internet* (2026).
+— Ala-Pettersen, “How to make something.”
 
 While it’s true that ideas necessarily build on the work of others, and I buy into some notion of collective cultural heritage, I don’t like Gilbert’s model — at all. It undersells the role of the individual, and by extension, their uniqueness. It comes close to treating humans as fungible, an idea I’m viscerally opposed to. The fact that a few humans might land on the same idea doesn’t mean that it wasn’t still original to them. And, the execution of any idea will necessarily be unique to the person executing it. We are each fated to our own perspective, but those restraints are also beautiful. Even if the shift in degree is vanishingly small, no two people see things precisely the same way.
