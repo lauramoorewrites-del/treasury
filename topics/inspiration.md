@@ -5,6 +5,9 @@ topic: "inspiration"
 permalink: /topics/inspiration/
 description: "Where creative work comes from: accounts of ideas that arrive unbidden, and of those who distrust the notion."
 notes:
+  - title: "The apple tree as a metaphor for overflowing ideas"
+    url: "/the-apple-tree-as-a-metaphor-for-overflowing-ideas/"
+    date: "29 Oct"
   - title: "Writer’s block"
     url: "/writers-block/"
     date: "26 Oct"

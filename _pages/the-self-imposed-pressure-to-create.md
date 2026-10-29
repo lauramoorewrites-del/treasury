@@ -12,8 +12,8 @@ related:
     url: "/leonardos-vanishing-drive/"
   - title: "Ira Glass on taste killing motivation"
     url: "/ira-glass-on-taste-killing-motivation/"
-  - title: "Writers who discount the importance of inspiration to their work"
-    url: "/writers-who-discount-inspiration/"
+  - title: "The apple tree as a metaphor for overflowing ideas"
+    url: "/the-apple-tree-as-a-metaphor-for-overflowing-ideas/"
   - title: "On projects as grown-up play"
     url: "/on-projects-as-grown-up-play/"
 ---

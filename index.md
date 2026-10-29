@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "The apple tree as a metaphor for overflowing ideas"
+    url: "/the-apple-tree-as-a-metaphor-for-overflowing-ideas/"
+    date: "29 Oct"
   - title: "Famous collections of private correspondence"
     url: "/famous-collections-of-private-correspondence/"
     date: "27 Oct"

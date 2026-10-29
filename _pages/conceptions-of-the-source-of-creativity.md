@@ -12,8 +12,8 @@ related:
     url: "/insights-that-emerged-fully-formed/"
   - title: "Unconscious thought and creativity"
     url: "/unconscious-thought-and-creativity/"
-  - title: "The limits of the biography form"
-    url: "/the-limits-of-the-biography-form/"
+  - title: "The apple tree as a metaphor for overflowing ideas"
+    url: "/the-apple-tree-as-a-metaphor-for-overflowing-ideas/"
   - title: "Creative works as a physical encryption of the self"
     url: "/creative-works-as-a-physical-encryption-of-the-self/"
 ---

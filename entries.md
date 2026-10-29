@@ -5,6 +5,9 @@ topic: "all entries"
 permalink: /entries/
 description: "Every entry, most recently updated first."
 notes:
+  - title: "The apple tree as a metaphor for overflowing ideas"
+    url: "/the-apple-tree-as-a-metaphor-for-overflowing-ideas/"
+    date: "29 Oct"
   - title: "Famous collections of private correspondence"
     url: "/famous-collections-of-private-correspondence/"
     date: "27 Oct"

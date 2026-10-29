@@ -5,6 +5,9 @@ topic: "drive and compulsion"
 permalink: /topics/drive-and-compulsion/
 description: "The pressure to make, its relief, and what happens when the drive fades."
 notes:
+  - title: "The apple tree as a metaphor for overflowing ideas"
+    url: "/the-apple-tree-as-a-metaphor-for-overflowing-ideas/"
+    date: "29 Oct"
   - title: "Writer’s block"
     url: "/writers-block/"
     date: "26 Oct"

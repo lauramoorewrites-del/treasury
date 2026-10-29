@@ -5,6 +5,9 @@ topic: "craft and practice"
 permalink: /topics/craft-and-practice/
 description: "The deliberate side of making: routines, techniques, tools, and the work of shaping."
 notes:
+  - title: "The apple tree as a metaphor for overflowing ideas"
+    url: "/the-apple-tree-as-a-metaphor-for-overflowing-ideas/"
+    date: "29 Oct"
   - title: "On writing as a way of learning"
     url: "/on-writing-as-a-way-of-learning/"
     date: "26 Oct"
