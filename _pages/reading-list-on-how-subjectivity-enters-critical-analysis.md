@@ -14,6 +14,8 @@ related:
     url: "/critical-communication-by-arnold-isenberg/"
   - title: "Reading list derived from Zadie Smith's essay 'Some Notes on Attunement'"
     url: "/reading-list-from-attunement/"
+  - title: "Critics’ claims of objectivity"
+    url: "/critics-claims-of-objectivity/"
 ---
 
 Works on where — and how — subjective judgment enters critical and aesthetic evaluation, from the philosophy of taste to contemporary criticism. Grouped by the aspect of the problem each addresses.

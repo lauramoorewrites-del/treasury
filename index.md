@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "Critics’ claims of objectivity"
+    url: "/critics-claims-of-objectivity/"
+    date: "30 Oct"
   - title: "Reading list"
     url: "/reading-list/"
     date: "30 Oct"

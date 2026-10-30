@@ -5,6 +5,9 @@ topic: "criticism"
 permalink: /topics/criticism/
 description: "What critics do, how judgment is communicated, and the forms criticism takes."
 notes:
+  - title: "Critics’ claims of objectivity"
+    url: "/critics-claims-of-objectivity/"
+    date: "30 Oct"
   - title: "On the duty of criticism and reviews to depict a work accurately"
     url: "/on-the-duty-of-criticism-to-depict-a-work-accurately/"
     date: "26 Oct"
