@@ -36,7 +36,7 @@ This reflection by Hart on what he sees in McCarthy’s work as “the close con
 
 It’s an eloquently expressed passage on our innate subjectivity.
 
-I couldn’t resist commenting publicly on his piece, especially given his treatment of McCarthy’s aversion for Proust and James, a nugget I’d excavated in an unpublished essay. Here’s an excerpt from my [comment](https://substack.com/@strangeclarity/note/c-374436245?r=emcf2&utm_source=notes-share-action&utm_medium=web) on 30 October 2026:
+I couldn’t resist commenting publicly on his piece, especially given his treatment of McCarthy’s aversion for Proust and James, a nugget I’d already excavated for an unpublished essay. Here’s an excerpt from my [comment](https://substack.com/@strangeclarity/note/c-374436245?r=emcf2&utm_source=notes-share-action&utm_medium=web) on 30 October 2026:
 
 > I read this from a metacritical perspective with great interest. You cite Kant, and frame your discussion as a “confession” of your taste. Turning to McCarthy, you warn that “I am as likely as not to mistake my own personal distaste for an objective critical judgment made in good faith.” All the same, you mention that much of *Blood Meridian*, “objectively considered, is revoltingly inept.” Was that a purposeful slip, meant ironically, or did you genuinely mean to claim that objective consideration necessitates a “revoltingly inept” verdict (for much of the book)? 
 >
