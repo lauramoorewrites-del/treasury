@@ -3,7 +3,7 @@ layout: default
 id: 9
 title: "Reading list"
 created: "26 June 2026"
-updated: "30 October 2026"
+updated: "31 October 2026"
 topics: [reading lists, reading]
 related:
   - title: "My favorite essays"
@@ -31,3 +31,4 @@ Running list of texts to read, with source and date recorded.
 - David Foster Wallace, “Forever Overhead.” Source: Zadie Smith: *“If I could choose one story to be printed alongside this article as demonstration, it would be Foster Wallace’s ‘Forever Overhead’, a 10-page effort that has come to obsess me quite as much as the miserable death of poor, terminally middle-class Ivan.”* Recorded 26 June 2026.
 - T. S. Eliot, “Tradition and the Individual Talent” (1919). Source: James Atlas, [“The Takedown Artist,”](https://www.nytimes.com/2003/10/26/magazine/the-takedown-artist.html) *The New York Times Magazine* (2003), which names it as one of Dale Peck’s touchstones: *“Another touchstone is T.S. Eliot’s essay ‘Tradition and the Individual Talent,’ in which Eliot argues that the literature of the present is not only inalterably connected to but also transformed by the literature of the past.”* Recorded 26 October 2026.
 - Clair Wills, [*Missing Persons: or, My Grandmother’s Secrets*](https://bookshop.org/a/113685/9781250371928) (Farrar, Straus and Giroux, 2024). Source: recommended in a reader comment on my post [“The Category Error, Part 2: Life before breadwinners”](https://www.strangeclarity.com/p/life-before-breadwinners), *Strange Clarity* (2026), as touching on changing norms around gender and work in rural Ireland. Recorded 30 October 2026.
+- William James, [*The Principles of Psychology*](https://bookshop.org/a/113685/9780674705593), ed. Frederick H. Burkhardt, Fredson Bowers, and Ignas K. Skrupskelis, The Works of William James (Harvard University Press, 1981). The authoritative critical edition, in three volumes (first published 1890). Recorded 31 October 2026.

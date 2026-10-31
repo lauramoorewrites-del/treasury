@@ -7,7 +7,7 @@ description: "Lists, bibliographies, and reference works."
 notes:
   - title: "Reading list"
     url: "/reading-list/"
-    date: "30 Oct"
+    date: "31 Oct"
   - title: "Famous collections of private correspondence"
     url: "/famous-collections-of-private-correspondence/"
     date: "27 Oct"

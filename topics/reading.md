@@ -7,7 +7,7 @@ description: "Habits of reading, forgetting, and reading other writers."
 notes:
   - title: "Reading list"
     url: "/reading-list/"
-    date: "30 Oct"
+    date: "31 Oct"
   - title: "On how readers make the book"
     url: "/on-how-readers-make-the-book/"
     date: "26 Oct"
