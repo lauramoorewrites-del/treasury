@@ -7,7 +7,7 @@ description: "Moving thought into words, and words between languages."
 notes:
   - title: "Collected reflections on translating thought into words"
     url: "/translating-thought-into-words/"
-    date: "26 Oct"
+    date: "31 Oct"
   - title: "On the failure of language to describe certain art forms"
     url: "/on-the-failure-of-language-to-describe-certain-art-forms/"
     date: "19 Oct"

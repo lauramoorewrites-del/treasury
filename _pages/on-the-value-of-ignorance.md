@@ -3,7 +3,7 @@ layout: default
 id: 95
 title: "On the value of ignorance"
 created: "20 October 2026"
-updated: "26 October 2026"
+updated: "31 October 2026"
 topics: [ways of knowing, philosophy, inspiration]
 related:
   - title: "Averted vision, a technique for seeing in astronomy"
@@ -21,6 +21,10 @@ related:
 > It is not enough that you understand in what ignorance man and beast live; you must also have and acquire the will to ignorance. You need to grasp that without this kind of ignorance life itself would be impossible, that it is a condition under which alone the living thing can preserve itself and prosper: a great, firm dome of ignorance must encompass you.
 
 — Friedrich Nietzsche, notebook fragment, collected in [*The Will to Power*](https://bookshop.org/a/113685/9780394704371), §609, ed. Walter Kaufmann, trans. Walter Kaufmann and R. J. Hollingdale (Vintage, 1968).
+
+> There is a gap therein; but no mere gap. It is a gap that is intensely active. A sort of wraith of the name is in it, beckoning us in a given direction, making us at moments tingle with the sense of our closeness, and then letting us sink back without the longed-for term.
+
+— William James, [*The Principles of Psychology*](https://www.gutenberg.org/ebooks/57628), vol. 1 (Henry Holt, 1890), ch. 9, “The Stream of Thought,” p. 251.
 
 > You can get nearer and nearer, so to speak, to reality; but you never get near enough because reality is an infinite succession of steps, levels of perception, false bottoms, and hence unquenchable, unattainable. You can know more and more about one thing but you can never know everything about one thing: it’s hopeless.
 

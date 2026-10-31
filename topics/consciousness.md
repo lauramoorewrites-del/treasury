@@ -7,7 +7,7 @@ description: "Definitions and accounts of consciousness and awareness."
 notes:
   - title: "Collected reflections on translating thought into words"
     url: "/translating-thought-into-words/"
-    date: "26 Oct"
+    date: "31 Oct"
   - title: "On the difficulty of knowing oneself"
     url: "/on-the-difficulty-of-knowing-oneself/"
     date: "20 Oct"

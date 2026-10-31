@@ -3,7 +3,7 @@ layout: default
 id: 33
 title: "Collected reflections on translating thought into words"
 created: "28 June 2026"
-updated: "26 October 2026"
+updated: "31 October 2026"
 topics: [language and translation, consciousness]
 related:
   - title: "On the failure of language to describe certain art forms"
@@ -14,7 +14,13 @@ related:
     url: "/my-favorite-essays/"
   - title: "Definitions of consciousness"
     url: "/definitions-of-consciousness/"
+  - title: "Talking about a latent conceptual presence"
+    url: "/talking-about-a-latent-conceptual-presence/"
 ---
+
+> There is a gap therein; but no mere gap. It is a gap that is intensely active. A sort of wraith of the name is in it, beckoning us in a given direction, making us at moments tingle with the sense of our closeness, and then letting us sink back without the longed-for term.
+
+— William James, [*The Principles of Psychology*](https://www.gutenberg.org/ebooks/57628), vol. 1 (Henry Holt, 1890), ch. 9, “The Stream of Thought,” p. 251.
 
 > I begin to see figments of all that lives just outside of language's proverbial grasp, I mean I see the words coming and I see that they end, too, but they come so fast that I also see, in this woozy-fuzzy moment, the gigantic stature of everything that exists in this world that is also not language, gas and dust forming light-tails so that the words momentarily reach back to where they came from, tracing back toward the incident that predated their appearance. Something specific, a thing or a state or a feeling, always predates the appearance of words. And just like that, the music has stopped, I hear the toilet flushing, a cat is begging me to feed him please, and the dust-tail has disappeared along with the words that dragged them forward. The essay had been a moment, a feeling, one that is now mostly felt, a moment before a moment ago. I did not pull it out in time.
 

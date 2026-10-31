@@ -14,6 +14,8 @@ related:
     url: "/reflective-knowledge-and-introspective-awareness/"
   - title: "Unconscious thought"
     url: "/unconscious-thought/"
+  - title: "Collected reflections on translating thought into words"
+    url: "/translating-thought-into-words/"
 ---
 
 What do you call it when you're investigating the presence of a concept before it is named?
