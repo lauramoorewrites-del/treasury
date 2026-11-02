@@ -17,6 +17,11 @@ related:
 ---
 
 - [“Inside an Artist’s Whimsical Cornish Home Overlooking the Sea”](https://www.youtube.com/watch?v=ar3bsBXvwxk), *Homeworthy*. What I like: Tabby Booth’s studio and her art: very graphic, block-print style, silhouetted. And the assortment of found, naive or rustic objects.
+
+    ![Tabby Booth on a sofa beneath her large black silhouette painting of a horse, surrounded by her framed paintings of a lobster, a bull and other animals]({{ "/assets/images/tabby-booth-horse-painting.jpg" | relative_url }})
+
+    ![Tabby Booth’s studio wall: a salon hang of animal prints, a moth painting, a carved wooden snake, and a desk with a black lamp]({{ "/assets/images/tabby-booth-studio.jpg" | relative_url }})
+
 - [“An Artist’s Colorful English Home and Garden”](https://www.youtube.com/watch?v=Q3BwisTTpwk), *Homeworthy*. What I like: the color palette, which artist Emilia Erland drew from one of her late father’s paintings. She loves her father’s paintings and thinks he was one of the greatest artists. You can see his influence in her paintings sitting in her studio. Perhaps she loved his paintings because he is her father, but I wonder too whether certain visual preferences are inherited.
 
     ![Emilia Erland’s living room: pink walls, a painted tile fireplace surround in pink and blue, blue fretwork stair balusters, and a patterned blue armchair]({{ "/assets/images/emilia-erland-living-room.jpg" | relative_url }})
