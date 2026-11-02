@@ -5,6 +5,9 @@ topic: "taste and judgment"
 permalink: /topics/taste-and-judgment/
 description: "How aesthetic judgments form, spread, and are shared."
 notes:
+  - title: "My favorite house tours"
+    url: "/my-favorite-house-tours/"
+    date: "2 Nov"
   - title: "Critics’ claims of objectivity"
     url: "/critics-claims-of-objectivity/"
     date: "30 Oct"

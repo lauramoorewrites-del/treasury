@@ -5,6 +5,9 @@ topic: "the other arts"
 permalink: /topics/the-other-arts/
 description: "Painting, music, photography, and film."
 notes:
+  - title: "My favorite house tours"
+    url: "/my-favorite-house-tours/"
+    date: "2 Nov"
   - title: "Mediated reality"
     url: "/mediated-reality/"
     date: "26 Oct"

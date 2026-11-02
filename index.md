@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "My favorite house tours"
+    url: "/my-favorite-house-tours/"
+    date: "2 Nov"
   - title: "On the value of ignorance"
     url: "/on-the-value-of-ignorance/"
     date: "31 Oct"

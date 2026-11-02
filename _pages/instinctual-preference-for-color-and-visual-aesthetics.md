@@ -14,6 +14,8 @@ related:
     url: "/visual-perception/"
   - title: "The style of portrait artist Michael Shane Neal"
     url: "/the-style-of-portrait-artist-michael-shane-neal/"
+  - title: "My favorite house tours"
+    url: "/my-favorite-house-tours/"
 ---
 
 > I walked over Mount Misery and along the river; and save that the tide was out, the country, which I notice very closely always, was coloured and shaded as I like—there were the willows, I remember, all plumy and soft green and purple against the blue.
