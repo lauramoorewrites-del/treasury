@@ -3,7 +3,7 @@ layout: default
 id: 77
 title: "My theory of art and craft"
 created: "17 September 2026"
-updated: "26 October 2026"
+updated: "14 November 2026"
 topics: [inspiration, craft and practice, drive and compulsion, virginia woolf, hildegard of bingen]
 related:
   - title: "Conceptions of the source of creativity"
@@ -433,3 +433,34 @@ Rebecca Solnit on the self as a crafted work:
 > The self is also a creation, the principal work of your life, the crafting of which makes everyone an artist. This unfinished work of becoming ends only when you do, if then, and the consequences live on. We make ourselves and in so doing are the gods of the small universe of self and the large world of repercussions.
 
 — Rebecca Solnit, *The Faraway Nearby* (Viking, 2013).
+
+<p class="fleuron" aria-hidden="true">❧</p>
+
+### Lydia Davis
+
+> Always work (note, write) from your own interest, never from what you think you should be noting or writing. Trust your own interest…
+>
+> Read the best writers from all different periods; keep your reading of contemporaries in proportion—you do not want a steady diet of contemporary literature. You already belong to your time…
+>
+> If you want to be original, don’t labor to be original. Rather…cultivate yourself, enrich your mind, develop your empathy, your understanding of other human beings, and then, when you come to write, say what you think and feel, what you are moved to say.
+>
+> Which may bring us to five (or six) cardinal rules…
+>
+> 1. Work on your character.
+> 2. Work on your handling of language so that you know what you’re doing and can do it well and be in control.
+> 3. Know your language—its words and phrases and idioms—deeply through every kind of study of it.
+> 4. Say what you want to say without inhibition, in the way you want to say it, regardless of what other people might think (but with sensitivity to the feelings of others).
+> 5. Work hard (write a lot), and be patient.
+>
+> I’ll say it again, slightly differently:
+>
+> 1. Work closely on your technique.
+> 2. Separately, develop your mind and character.
+> 3. When you write, write freely, as you want to, following your own interests.
+> 4. Work hard; be painstaking in your revision.
+> 5. Be patient; let time go by if you have to.
+> 6. Disregard what other people may think (but not what they may feel).
+>
+> …Your nature, your character, your whole being will produce the kind of writing you do.
+
+— Lydia Davis, “Thirty Recommendations for Good Writing Habits,” in [*Essays One*](https://bookshop.org/a/113685/9780374148850) (Farrar, Straus and Giroux, 2019); excerpted by Celine Nguyen in a [Substack Note](https://substack.com/@celinenguyen/note/c-385596914) (12 November 2026), alongside Julian Togelius’s [“Advice for young researchers”](https://togelius.blogspot.com/2026/11/advice-for-young-researchers.html).
