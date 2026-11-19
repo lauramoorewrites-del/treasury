@@ -5,6 +5,9 @@ topic: "writers’ lives"
 permalink: /topics/writers-lives/
 description: "Biography, livelihoods, friendships, and the material conditions of writing."
 notes:
+  - title: "Charleston house"
+    url: "/charleston-house/"
+    date: "19 Nov"
   - title: "Famous collections of private correspondence"
     url: "/famous-collections-of-private-correspondence/"
     date: "27 Oct"

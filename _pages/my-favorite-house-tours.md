@@ -14,6 +14,8 @@ related:
     url: "/virginia-woolfs-real-life-room/"
   - title: "My favorite essays"
     url: "/my-favorite-essays/"
+  - title: "Charleston house"
+    url: "/charleston-house/"
 ---
 
 - [“Inside an Artist’s Whimsical Cornish Home Overlooking the Sea”](https://www.youtube.com/watch?v=ar3bsBXvwxk), *Homeworthy*. What I like: Tabby Booth’s studio and her art: very graphic, block-print style, silhouetted. And the assortment of found, naive or rustic objects.

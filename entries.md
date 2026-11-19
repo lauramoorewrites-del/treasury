@@ -5,6 +5,9 @@ topic: "all entries"
 permalink: /entries/
 description: "Every entry, most recently updated first."
 notes:
+  - title: "Charleston house"
+    url: "/charleston-house/"
+    date: "19 Nov"
   - title: "My theory of art and craft"
     url: "/my-theory-of-art-and-craft/"
     date: "14 Nov"

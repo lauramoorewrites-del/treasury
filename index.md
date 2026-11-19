@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "Charleston house"
+    url: "/charleston-house/"
+    date: "19 Nov"
   - title: "My theory of art and craft"
     url: "/my-theory-of-art-and-craft/"
     date: "14 Nov"

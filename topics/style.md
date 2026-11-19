@@ -5,6 +5,9 @@ topic: "style"
 permalink: /topics/style/
 description: "What individual style consists of, and how it forms, constrains, and is shaped by others' styles."
 notes:
+  - title: "Charleston house"
+    url: "/charleston-house/"
+    date: "19 Nov"
   - title: "Creative works as a physical encryption of the self"
     url: "/creative-works-as-a-physical-encryption-of-the-self/"
     date: "26 Oct"
