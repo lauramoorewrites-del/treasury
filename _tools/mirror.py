@@ -154,6 +154,7 @@ def parse_blocks(body):
                     cur.append(s)
             if cur:
                 paras.append(" ".join(cur))
+            paras = [re.sub(r"\\\\ ", "\n", p) for p in paras]
             for p in paras:
                 if re.match(r"^\d+\. ", p):
                     blocks.append(("qnum", p))
@@ -192,7 +193,7 @@ def parse_blocks(body):
             if indent:
                 continue
         else:
-            blocks.append(("para", " ".join(l.strip() for l in lines)))
+            blocks.append(("para", re.sub(r"\\\\ ", "\n", " ".join(l.strip() for l in lines))))
         prev_list_end = False
     return blocks
 
@@ -348,10 +349,13 @@ def add_run(container_el, p, text, b, i, link):
         rpr.append(u)
     if len(rpr):
         r.append(rpr)
-    t = OxmlElement("w:t")
-    t.text = text
-    t.set("{http://www.w3.org/XML/1998/namespace}space", "preserve")
-    r.append(t)
+    for n, piece in enumerate(text.split("\n")):
+        if n:
+            r.append(OxmlElement("w:br"))
+        t = OxmlElement("w:t")
+        t.text = piece
+        t.set("{http://www.w3.org/XML/1998/namespace}space", "preserve")
+        r.append(t)
     container_el.append(r)
 
 
@@ -520,7 +524,8 @@ def read_paragraph(p_el, part):
                     elif sub.tag == qn("w:tab"):
                         segs.append((" ", b, i, url or field["url"]))
                     elif sub.tag in (qn("w:br"), qn("w:cr")):
-                        segs.append((" ", b, i, url or field["url"]))
+                        if sub.get(qn("w:type")) in (None, "textWrapping"):
+                            segs.append(("\n", b, i, url or field["url"]))
                     elif sub.tag == qn("w:noBreakHyphen"):
                         segs.append(("‑", b, i, url))
                     elif sub.tag == qn("w:drawing"):
@@ -562,7 +567,7 @@ def emit_inline(segs):
         if not t:
             continue
         u = to_md_url(u)
-        if t.strip() == "":
+        if t.strip(" ") == "":
             b = i = False
         if merged and merged[-1][1:] == (b, i, u):
             merged[-1] = (merged[-1][0] + t, b, i, u)
@@ -638,7 +643,8 @@ def emit_inline(segs):
         else:
             out += inner
         k = j
-    return re.sub(r" {2,}", " ", out).strip()
+    out = re.sub(r" *\n *", "\n", re.sub(r" {2,}", " ", out)).strip()
+    return out
 
 
 def style_of(p_el, d):
@@ -725,6 +731,7 @@ def read_docx(path, slug_hint=None, new_image_dir=None):
     out = []
     for k, (kind, text) in enumerate(blocks):
         prev = blocks[k - 1][0] if k else None
+        text = text.replace("\n", "\\\\\n" + ("> " if kind in ("quote", "qlist") else ""))
         if kind in ("quote", "qlist"):
             text = "> " + text
             sep = ("\n" if kind == prev == "qlist" else "\n>\n") if prev in ("quote", "qlist") else "\n\n"
