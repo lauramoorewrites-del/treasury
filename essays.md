@@ -8,6 +8,7 @@ A growing collection of self-published essays is on [Strange Clarity](https://ww
 
 **2026**
 
+- [Being fallow in New York](https://www.strangeclarity.com/p/being-fallow-in-new-york) (Nov 2026)
 - [The censor at school, the censor at bedtime](https://www.strangeclarity.com/p/the-censor-at-school-the-censor-at) (Oct 2026)
 - [For years I said “I’m fine” and really believed it](https://www.strangeclarity.com/p/for-years-i-said-im-fine-and-really) (Oct 2026)
 - [When you can’t trust yourself](https://www.strangeclarity.com/p/when-you-cant-trust-yourself) (Sep 2026)
