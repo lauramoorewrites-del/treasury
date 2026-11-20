@@ -7,7 +7,7 @@ description: "Biography, livelihoods, friendships, and the material conditions o
 notes:
   - title: "Charleston house"
     url: "/charleston-house/"
-    date: "19 Nov"
+    date: "20 Nov"
   - title: "Famous collections of private correspondence"
     url: "/famous-collections-of-private-correspondence/"
     date: "27 Oct"
