@@ -984,14 +984,20 @@ def cmd_publish():
     if problems:
         print("Not publishing until the problems above are fixed.")
         sys.exit(1)
+    # also publish .md changes already imported (e.g. `import` was run first, then checked)
+    pending = subprocess.run(["git", "status", "--porcelain", "_pages"], cwd=ROOT,
+                             capture_output=True, text=True).stdout.split()
+    changed = changed or [os.path.basename(p)[:-3] for p in pending if p.endswith(".md")]
     if not changed:
+        print("nothing to publish")
         return
     subprocess.run([sys.executable, "_tools/sync.py"], cwd=ROOT, check=True)
     subprocess.run([sys.executable, "_tools/sync.py", "--check"], cwd=ROOT, check=True)
     # sync.py touched only index/topics/entries; record md hashes again in case
     state = load_state()
     for s in changed:
-        state[s]["md_sha"] = sha(os.path.join(ROOT, "_pages", s + ".md"))
+        if s in state:
+            state[s]["md_sha"] = sha(os.path.join(ROOT, "_pages", s + ".md"))
     save_state(state)
     subprocess.run(["git", "add", "-A"], cwd=ROOT, check=True)
     msg = "Word mirror: update " + ", ".join(changed) + "\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
