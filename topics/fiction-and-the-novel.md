@@ -5,6 +5,9 @@ topic: "fiction and the novel"
 permalink: /topics/fiction-and-the-novel/
 description: "Character, truth, and the novel's claims on reality."
 notes:
+  - title: "The volta of a novel"
+    url: "/the-volta-of-a-novel/"
+    date: "23 Nov"
   - title: "The novel as a source of truth"
     url: "/the-novel-as-a-source-of-truth/"
     date: "26 Oct"

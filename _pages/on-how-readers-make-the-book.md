@@ -14,6 +14,8 @@ related:
     url: "/novelists-on-works-they-dislike/"
   - title: "An inability to remember the specifics of books and movies and other forms of narrative"
     url: "/an-inability-to-remember-the-specifics/"
+  - title: "The volta of a novel"
+    url: "/the-volta-of-a-novel/"
 ---
 
 > The only advice, indeed, that one person can give another about reading is to take no advice, to follow your own instincts, to use your own reason, to come to your own conclusions.

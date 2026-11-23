@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "The volta of a novel"
+    url: "/the-volta-of-a-novel/"
+    date: "23 Nov"
   - title: "Artists’ belief in their own primacy"
     url: "/artists-belief-in-their-own-primacy/"
     date: "23 Nov"
