@@ -10,7 +10,7 @@ notes:
     date: "23 Nov"
   - title: "Reading list"
     url: "/reading-list/"
-    date: "31 Oct"
+    date: "23 Nov"
   - title: "On how readers make the book"
     url: "/on-how-readers-make-the-book/"
     date: "26 Oct"
