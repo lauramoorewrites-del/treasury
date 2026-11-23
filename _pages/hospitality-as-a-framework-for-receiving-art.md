@@ -14,6 +14,8 @@ related:
     url: "/critical-communication-by-arnold-isenberg/"
   - title: "Books that unfold through connection-making"
     url: "/books-that-makes-connections/"
+  - title: "Artists’ belief in their own primacy"
+    url: "/artists-belief-in-their-own-primacy/"
 ---
 
 Two unrelated posts had appeared adjacently in my feed, which happily invited me to read them through each other. The tie that binds a 12th-century German monk's letter and Christopher Nolan's *The Odyssey* is hospitality.

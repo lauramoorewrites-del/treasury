@@ -5,6 +5,9 @@ topic: "truth"
 permalink: /topics/truth/
 description: "What truth is, and how disclosure, fiction, and the mind bend it."
 notes:
+  - title: "Artists’ belief in their own primacy"
+    url: "/artists-belief-in-their-own-primacy/"
+    date: "23 Nov"
   - title: "On the duty of criticism and reviews to depict a work accurately"
     url: "/on-the-duty-of-criticism-to-depict-a-work-accurately/"
     date: "26 Oct"

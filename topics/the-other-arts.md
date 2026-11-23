@@ -5,6 +5,9 @@ topic: "the other arts"
 permalink: /topics/the-other-arts/
 description: "Painting, music, photography, and film."
 notes:
+  - title: "Artists’ belief in their own primacy"
+    url: "/artists-belief-in-their-own-primacy/"
+    date: "23 Nov"
   - title: "My favorite house tours"
     url: "/my-favorite-house-tours/"
     date: "2 Nov"

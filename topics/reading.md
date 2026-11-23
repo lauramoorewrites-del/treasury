@@ -5,6 +5,9 @@ topic: "reading"
 permalink: /topics/reading/
 description: "Habits of reading, forgetting, and reading other writers."
 notes:
+  - title: "Artists’ belief in their own primacy"
+    url: "/artists-belief-in-their-own-primacy/"
+    date: "23 Nov"
   - title: "Reading list"
     url: "/reading-list/"
     date: "31 Oct"

@@ -8,6 +8,9 @@ recent_exclude:
   - "/memory/"
   - "/on-hevel-and-vanity/"
 recent:
+  - title: "Artists’ belief in their own primacy"
+    url: "/artists-belief-in-their-own-primacy/"
+    date: "23 Nov"
   - title: "Charleston house"
     url: "/charleston-house/"
     date: "20 Nov"

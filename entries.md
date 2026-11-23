@@ -5,6 +5,9 @@ topic: "all entries"
 permalink: /entries/
 description: "Every entry, most recently updated first."
 notes:
+  - title: "Artists’ belief in their own primacy"
+    url: "/artists-belief-in-their-own-primacy/"
+    date: "23 Nov"
   - title: "Charleston house"
     url: "/charleston-house/"
     date: "20 Nov"
