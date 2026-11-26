@@ -5,6 +5,9 @@ topic: "neurodivergence"
 permalink: /topics/neurodivergence/
 description: "Sensory sensitivity, cognitive difference, and how such traits have been classified."
 notes:
+  - title: "List of people with sensitivity to sound"
+    url: "/people-with-sensitivity-to-sound/"
+    date: "26 Nov"
   - title: "How nonconforming adults’ behaviors are infantilized"
     url: "/how-nonconforming-adults-behaviors-are-infantilized/"
     date: "26 Oct"
@@ -19,9 +22,6 @@ notes:
     date: "28 Jun"
   - title: "List of people who spoke flatly, in monotone"
     url: "/people-who-spoke-in-monotone/"
-    date: "27 Jun"
-  - title: "List of people with sensitivity to sound"
-    url: "/people-with-sensitivity-to-sound/"
     date: "27 Jun"
 see_also:
   - title: "writers’ lives"
